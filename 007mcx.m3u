@@ -75,9 +75,6 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?
 #EXTINF:-1 , Telesistema
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
-#EXTINF:-1 , Telered
-https://59ef525c24caa.streamlock.net/ARBtv/teleplus/playlist.m3u8
-
 #EXTINF:-1 ,Horrorfy - Freetv.com | US
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
 
