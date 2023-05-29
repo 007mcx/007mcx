@@ -12,6 +12,9 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 ,EnerGeek Fanpop * | CL
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
+#EXTINF:-1 ,AnimeStation
+https://stream.ichibantv.com:3741/live/aniplustvlive.m3u8
+
 #EXTINF:-1 ,Kanade
 https://stream.ichibantv.com:3612/live/kanadetvlive.m3u8
 
@@ -65,6 +68,15 @@ https://scl.edge.grupoz.cl/movie/live/movie.m3u8
 
 #EXTINF:-1 , WOW TV | SV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+#EXTINF:-1 , Terror Tv
+https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?
+
+#EXTINF:-1 , Telesistema
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
+
+#EXTINF:-1 , Telered
+https://59ef525c24caa.streamlock.net/ARBtv/teleplus/playlist.m3u8
 
 #EXTINF:-1 ,Horrorfy - Freetv.com | US
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
