@@ -1,15 +1,15 @@
 #EXTM3U 
 
-#EXTINF:-1 ,Dreiko TV | PA
+#EXTINF:-1 ,Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
-#EXTINF:-1 ,Retro Magico | AR
+#EXTINF:-1 ,Retro Magico
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 
-#EXTINF:-1 ,EnerGeek Retro * | CL
+#EXTINF:-1 ,EnerGeek Retro
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
-#EXTINF:-1 ,EnerGeek Fanpop * | CL
+#EXTINF:-1 ,EnerGeek Fanpop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
 #EXTINF:-1 ,AnimeStation
@@ -18,55 +18,55 @@ https://stream.ichibantv.com:3741/live/aniplustvlive.m3u8
 #EXTINF:-1 ,Kanade
 https://stream.ichibantv.com:3612/live/kanadetvlive.m3u8
 
-#EXTINF:-1 ,Latino Kids TV | UY
+#EXTINF:-1 ,Latino Kids TV
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
 
-#EXTINF:-1 ,Locomotion | AR
+#EXTINF:-1 ,Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 ,Magic Kids | AR
+#EXTINF:-1 ,Magic Kids
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 
-#EXTINF:-1 ,PlanetaTV Kids | CL
+#EXTINF:-1 ,PlanetaTV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 
 #EXTINF:-1 ,GenTV
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
-#EXTINF:-1 , Moni TV | CL
+#EXTINF:-1 , Moni TV
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
-#EXTINF:-1 ,ACS Network TV | PR
+#EXTINF:-1 ,ACS Network TV
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 
-#EXTINF:-1 ,Sexy Kpop TV | BR
+#EXTINF:-1 ,Sexy Kpop TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
-#EXTINF:-1 ,Bayres TV | AR
+#EXTINF:-1 ,Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
-#EXTINF:-1 ,Cosmos TV | AR
+#EXTINF:-1 ,Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1 ,Neo TV | AR
+#EXTINF:-1 ,Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 ,Retro Plus TV Señal 3 | CL
+#EXTINF:-1 ,Retro Plus TV Señal 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
-#EXTINF:-1 ,TV Pop | CL
+#EXTINF:-1 ,TV Pop
 https://v4.tustreaming.cl/poptv/index.m3u8
 
-#EXTINF:-1 ,Planeta TV | PE
+#EXTINF:-1 ,Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
-#EXTINF:-1 ,Orbit TV | DO
+#EXTINF:-1 ,Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
-#EXTINF:-1 ,PlanetaTV Movies | CL
+#EXTINF:-1 ,PlanetaTV Movies
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8
 
-#EXTINF:-1 , WOW TV | SV
+#EXTINF:-1 , Wow TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #EXTINF:-1 , Terror Tv
