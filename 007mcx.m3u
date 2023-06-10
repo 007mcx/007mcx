@@ -66,8 +66,5 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?
 #EXTINF:-1 , Telesistema
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
-#EXTINF:-1 ,Tu Cine - Freetv.com | US
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
-
 #EXTINF:-1 ,eSports Max TV | VE
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
