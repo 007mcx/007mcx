@@ -18,9 +18,6 @@ https://stream.ichibantv.com:3741/live/aniplustvlive.m3u8
 #EXTINF:-1 ,Latino Kids TV
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
 
-#EXTINF:-1 ,Magic Kids
-https://magicstream.ddns.net:443/magicstream/stream.m3u8
-
 #EXTINF:-1 ,PlanetaTV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 
