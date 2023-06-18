@@ -54,9 +54,6 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 ,PlanetaTV Movies
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8
 
-#EXTINF:-1 , Wow TV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-
 #EXTINF:-1 , Terror Tv
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?
 
