@@ -63,7 +63,6 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:-1 ,eSports Max TV | VE
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
-
 #EXTINF:-1 ,Xtrema Cine Asia 
 https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
 
@@ -93,3 +92,72 @@ https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
 
 #EXTINF:-1 ,TVS Retro (720p)
 http://204.12.202.90:8080/playgt/playgt2023/60
+
+#EXTINF:-1 , TV y TV
+https://Stmv1.zcasthn.com.br/tvytv/tvytv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 , Lanco TV
+https://lancotv.ngrok.app/hls/stream.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 , EGM Channel
+https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 , Señal 21
+https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,7 TeleValencia
+https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
+
+#EXTINF:-1 tvg-id="Agenda56TV.do" tvg-logo="https://i.imgur.com/G7zIVB7.png" group-title="General",Agenda 56 (720p)
+https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
+
+#EXTINF:-1 ,Azteca Honduras
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:-1 tvg-id="Boreal.do" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Undefined",Boreal
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+
+#EXTINF:-1 , TV y TV
+https://Stmv1.zcasthn.com.br/tvytv/tvytv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 , Lanco TV
+https://lancotv.ngrok.app/hls/stream.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 , EGM Channel
+https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 , Señal 21
+https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,7 TeleValencia
+https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
+
+#EXTINF:-1 tvg-id="Agenda56TV.do" tvg-logo="https://i.imgur.com/G7zIVB7.png" group-title="General",Agenda 56 (720p)
+https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
+
+#EXTINF:-1 ,Azteca Honduras
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:-1 tvg-id="Boreal.do" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Undefined",Boreal
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+
+#EXTINF:-1 ,Canal 6
+https://d25v5vivhcrrh5.cloudfront.net/hls/canal6.m3u8
+
+#EXTINF:-1 ,Cinco TV
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+
+#EXTINF:-1 ,Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 ,COCO TV
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+
+#EXTINF:-1 ,DTV
+https://emisoras.hn:8081/dtv/index.m3u8
+
+#EXTINF:-1 ,Genesis TV
+http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
+
+#EXTINF:-1 ,MegaTV
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
