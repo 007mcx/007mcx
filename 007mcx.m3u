@@ -143,3 +143,110 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 ,Onda Algeciras TV
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+
+#EXTINF:-1 , Tooncast
+http://181.189.243.254:8000/play/a0s3/index.m3u8
+
+#EXTINF:-1 , Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
+
+#EXTINF:-1 ,TVG Cativ@s
+https://xabarintv-r2-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 ,TVG Mociñ@s
+https://xabarintv-r3-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 ,Cine Infantil
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/687
+
+#EXTINF:-1 ,Cine Infantil Sagas
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/694
+
+#EXTINF:-1 ,Top FM TV (Atalaya)
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+
+#EXTINF:-1 ,Orbita TV
+https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
+
+#EXTINF:-1 ,Oriental TV
+https://paz.sytes.net:5443/live/streams/orientaltv.m3u8
+
+#EXTINF:-1 ,WTV Canal 20 
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+
+#EXTINF:-1 , Syfy
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SYFY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSYFY_stream_gb&_cdn_session=918031035&_cdn_timestamp=1687992737&_cdn_token=509fe3869aac265cc2a375f87f8aac694fa9c3e6
+
+#EXTINF:-1 ,Cine Ficcion/Fantasia 1
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/709
+
+#EXTINF:-1 ,Sensación TV
+https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
+
+#EXTINF:-1 ,Origen TV 
+https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
+
+#EXTINF:-1 ,ORBIT TV 
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
+#EXTINF:-1 ,MyTime movie network Spain
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics", GOLDEN PLUS
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 ,Cine Terror
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/693
+
+#EXTINF:-1 ,Cine Zombis
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/688
+
+#EXTINF:-1 ,TechScience 365
+https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
+
+#EXTINF:-1 ,Telemax (XEWH-TDT)
+http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
+
+#EXTINF:-1 ,The Pet Collective
+https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 ,Telenord 8 
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+
+#EXTINF:-1 ,Teleunion 
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
+
+#EXTINF:-1 ,WXWZ-LD1
+https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
+
+#EXTINF:-1 ,8 TV
+https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
+
+#EXTINF:-1 ,Tele 2 Web
+https://inliveserver.com:1936/11516/11516/playlist.m3u8
+
+#EXTINF:-1 ,Tele2000
+https://servilive.com:3126/live/tele2000live.m3u8
+
+#EXTINF:-1 ,VZ TV
+https://live.obslivestream.com/vztv/index.m3u8
