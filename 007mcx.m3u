@@ -67,7 +67,7 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 
 #EXTINF:-1 ,TVS Retro
-http://204.12.202.90:8080/playgt/playgt2023/60
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 #EXTINF:-1 , TV y TV
 https://Stmv1.zcasthn.com.br/tvytv/tvytv/playlist.m3u8?PlaylistM3UCL
@@ -151,9 +151,6 @@ https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 , Tooncast
 http://181.189.243.254:8000/play/a0s3/index.m3u8
 
-#EXTINF:-1 , Retro Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
-
 #EXTINF:-1, Disney Channel
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -208,21 +205,11 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SYFY/40-hls/live-media.m3u8?_
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/709
 
-#EXTINF:-1, Cine Ficcion/Fantasia 2
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/710
-
 #EXTINF:-1 ,Sensación TV
 https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
 
 #EXTINF:-1 ,Origen TV 
 https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
-
-#EXTINF:-1 ,ORBIT TV 
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 #EXTINF:-1 ,Xtrema Cine Asia 
 https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
@@ -326,3 +313,48 @@ https://inliveserver.com:1936/11516/11516/playlist.m3u8
 
 #EXTINF:-1 ,Tele2000
 https://servilive.com:3126/live/tele2000live.m3u8
+
+#EXTINF:-1 ,Lim TV
+https://live.limplay.ml/limtv.m3u8
+
+#EXTINF:-1 ,Magic
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1 ,Magic Kids TV
+https://acl-server.linky.com.co/hls/magictv.m3u8
+
+#EXTINF:-1 ,El Magic TV
+https://kali.vdopanel.com:3070/stream/play.m3u8
+
+#EXTINF:-1 ,Pitufo TV
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+
+#EXTINF:-1 ,Mi TV Television Clasica
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+
+#EXTINF:-1 ,Teleclasica
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+
+#EXTINF:-1 ,TV Retro Palmares
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+
+#EXTINF:-1 ,Zaz TV
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+
+#EXTINF:-1 ,Rakuten TV Familia
+http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 ,Chiquilines HD
+https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
+
+#EXTINF:-1 ,Tvg2 HD/Eventos 3
+http://events3-crtvg.flumotion.com/crtvg/events3_high/chunks.m3u8
+
+#EXTINF:-1 ,Pluto TV Anime Latino
+https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
+
+#EXTINF:-1 ,Pluto TV Anime Spain
+https://i.mjh.nz/PlutoTV/608035b8d8705f0007260287-alt.m3u8
+
+#EXTINF:-1 ,Doctor Who Pluto TV
+https://i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8
