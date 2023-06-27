@@ -79,9 +79,6 @@ https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 ,Xtrema Cine Comedy
 https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
 
-#EXTINF:-1 ,Xtrema Cine Terror
-https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
-
 #EXTINF:-1 ,Xtrema Retro Cartoons
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 
@@ -90,9 +87,6 @@ https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 
 #EXTINF:-1 ,Canal 9 (480p)
 http://138.117.4.70:8075/Canal09_CooTel/playlist.m3u8
-
-#EXTINF:-1 ,Impacto Televisión (360p) [Not 24/7]
-https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
 #EXTINF:-1 ,Educanal (720p) [Not 24/7]
 https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
