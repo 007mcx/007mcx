@@ -135,9 +135,6 @@ https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live
 #EXTINF:-1 tvg-id="Agenda56TV.do" tvg-logo="https://i.imgur.com/G7zIVB7.png" group-title="General",Agenda 56 (720p)
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 
-#EXTINF:-1 ,Azteca Honduras
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-
 #EXTINF:-1 tvg-id="Boreal.do" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Undefined",Boreal
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 
@@ -161,3 +158,9 @@ http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
 
 #EXTINF:-1 ,MegaTV
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
+
+#EXTINF:-1 ,MyTime movie network Mexico
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 ,Onda Algeciras TV
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
