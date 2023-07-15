@@ -195,8 +195,12 @@ https://v3.playerlatino.live/stream/m3u8/687
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/694
 
-#EXTINF:-1 , Syfy
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SYFY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSYFY_stream_gb&_cdn_session=918031035&_cdn_timestamp=1687992737&_cdn_token=509fe3869aac265cc2a375f87f8aac694fa9c3e6
+#EXTINF:-1,SyFy
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/151
 
 #EXTINF:-1 ,Cine Ficcion/Fantasia 1
 #EXTVLCOPT--http-reconnect=true
