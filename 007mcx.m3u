@@ -375,6 +375,13 @@ https://i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8
 #EXTINF:-1 , USA | Universal Cinema
 http://181.189.243.254:8000/play/a0v2/index.m3u8
 
+#EXTINF:-1, group-title="Infantiles",Universal TV
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/184
+
 #EXTINF:-1, Cinecanal
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -389,3 +396,9 @@ https://v3.playerlatino.live/stream/m3u8/18
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/20
 
+#EXTINF:-1 ,TNT Series
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/90
