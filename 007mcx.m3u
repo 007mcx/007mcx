@@ -185,14 +185,14 @@ https://v3.playerlatino.live/stream/m3u8/29
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/645
 
-#EXTINF:-1 , Nickelodeon
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource
-
 #EXTINF:-1 ,TVG Cativ@s
 https://xabarintv-r2-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 ,TVG Mociñ@s
 https://xabarintv-r3-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 , Nickelodeon
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource
 
 #EXTINF:-1 ,TeenNick
 #EXTVLCOPT--http-reconnect=true
