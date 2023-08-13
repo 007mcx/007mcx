@@ -168,7 +168,7 @@ http://181.189.243.254:8000/play/a0s3/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/29
 
-#EXTINF:-1, Nick op2
+#EXTINF:-1, Nick
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -249,7 +249,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,MyTime movie network Spain
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Bics", GOLDEN PLUS
+#EXTINF:-1 group-title="Bics", Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 #EXTINF:-1, AMC
@@ -392,9 +392,6 @@ https://v3.playerlatino.live/stream/m3u8/179
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/90
 
-#EXTINF:-1 ,Doctor Who Pluto TV
-https://i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8
-
 #EXTINF:-1, Canal 5
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -529,3 +526,6 @@ https://v3.playerlatino.live/stream/m3u8/152
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/98
+
+#EXTINF:-1 ,Doctor Who Pluto TV
+https://i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8
