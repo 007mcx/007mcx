@@ -320,12 +320,6 @@ https://live.limplay.ml/limtv.m3u8
 #EXTINF:-1 ,Magic
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
-#EXTINF:-1 ,Magic Kids TV
-https://acl-server.linky.com.co/hls/magictv.m3u8
-
-#EXTINF:-1 ,El Magic TV
-https://kali.vdopanel.com:3070/stream/play.m3u8
-
 #EXTINF:-1 ,Pitufo TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
@@ -484,13 +478,6 @@ https://v3.playerlatino.live/stream/m3u8/67
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/68
-
-#EXTINF:-1, group-title="Entretenimiento",Lifetime
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/152
 
 #EXTINF:-1 ,Doctor Who Pluto TV
 https://i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8
