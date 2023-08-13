@@ -464,20 +464,6 @@ https://v3.playerlatino.live/stream/m3u8/28
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/187
 
-#EXTINF:-1, group-title="Peliculas",Golden
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/57
-
-#EXTINF:-1, group-title="Peliculas",Golden Edge
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/58
-
 #EXTINF:-1, group-title="Cultura",H2
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
