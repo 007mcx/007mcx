@@ -350,9 +350,6 @@ https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
 #EXTINF:-1 ,Tvg2 HD/Eventos 3
 http://events3-crtvg.flumotion.com/crtvg/events3_high/chunks.m3u8
 
-#EXTINF:-1 , Universal Cinema
-http://181.189.243.254:8000/play/a0v2/index.m3u8
-
 #EXTINF:-1, group-title="Infantiles",Universal TV
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -367,7 +364,21 @@ https://v3.playerlatino.live/stream/m3u8/184
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/18
 
-#EXTINF:-1 ,TNT
+#EXTINF:-1, Paramount Network
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/647
+
+#EXTINF:-1, TNT
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/179
+
+#EXTINF:-1, TNT Mexico
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -384,10 +395,10 @@ https://i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/14
 
-#EXTINF:-1 , AZTECA UNO
+#EXTINF:-1 , Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 , AZTECA 7
+#EXTINF:-1 , Azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 #EXTINF:-1  , MVS
@@ -400,34 +411,6 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/1
 
-#EXTINF:-1 , A3Series
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/444
-
-#EXTINF:-1, CHV Chilevision
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/198
-
-#EXTINF:-1, Cine Latino
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/295
-
-#EXTINF:-1, Cine Romance
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/689
-
 #EXTINF:-1, group-title="Entretenimiento",Comedy Central
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -435,7 +418,7 @@ https://v3.playerlatino.live/stream/m3u8/689
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/135
 
-#EXTINF:-1, Animal Planet OP2
+#EXTINF:-1, Animal Planet
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -533,42 +516,7 @@ https://v3.playerlatino.live/stream/m3u8/68
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/152
 
-#EXTINF:-1,  group-title="Peliculas",Paramount op2
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/647
-
-#EXTINF:-1,  group-title="Peliculas",Space
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/83
-
-#EXTINF:-1, group-title="Peliculas",Studio Universal
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/84
-
-#EXTINF:-1, group-title="Peliculas",TNT
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/179
-
-#EXTINF:-1, group-title="Entretenimiento",TNT Series
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/90
-
-#EXTINF:-1, group-title="Entretenimiento",Unicable
+#EXTINF:-1, Unicable
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
