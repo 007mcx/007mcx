@@ -446,13 +446,6 @@ https://v3.playerlatino.live/stream/m3u8/689
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/135
 
-#EXTINF:-1, Animal Planet
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/3
-
 #EXTINF:-1, Animal Planet OP2
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -460,26 +453,12 @@ https://v3.playerlatino.live/stream/m3u8/3
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/633
 
-#EXTINF:-1, group-title="Peliculas",De Película
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/21
-
 #EXTINF:-1, group-title="Peliculas",DHE
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/844
-
-#EXTINF:-1,  group-title="Cultura",Discovery Channel
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/22
 
 #EXTINF:-1, group-title="Cultura",Discovery Channel op2
 #EXTVLCOPT--http-reconnect=true
@@ -494,21 +473,6 @@ https://v3.playerlatino.live/stream/m3u8/639
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/23
-
-#EXTINF:-1, group-title="Cultura",Discovery H&H
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/24
-
-
-#EXTINF:-1, group-title="Infantiles",Discovery Kids
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/25
 
 #EXTINF:-1,  group-title="Cultura",Discovery SCI
 #EXTVLCOPT--http-reconnect=true
@@ -614,13 +578,6 @@ https://v3.playerlatino.live/stream/m3u8/179
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/90
-
-#EXTINF:-1,  group-title="Entretenimiento",TruTV
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/96
 
 #EXTINF:-1, group-title="Entretenimiento",Unicable
 #EXTVLCOPT--http-reconnect=true
