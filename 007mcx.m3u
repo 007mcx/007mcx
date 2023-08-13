@@ -364,6 +364,13 @@ https://v3.playerlatino.live/stream/m3u8/184
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/18
 
+#EXTINF:-1, Studio Universal
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/137
+
 #EXTINF:-1, Paramount Network
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -522,10 +529,3 @@ https://v3.playerlatino.live/stream/m3u8/152
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/98
-
-#EXTINF:-1, Studio Universal
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/137
