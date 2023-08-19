@@ -63,20 +63,6 @@ https://scl.edge.grupoz.cl/movie/live/movie.m3u8
 #EXTINF:-1 , Terror Tv
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?
 
-#EXTINF:-1 ,Cine Terror
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/693
-
-#EXTINF:-1 ,Cine Zombis
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/688
-
 #EXTINF:-1 , Telesistema
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
@@ -161,20 +147,6 @@ https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 , Tooncast
 http://181.189.243.254:8000/play/a0s3/index.m3u8
 
-#EXTINF:-1, Disney Channel
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/29
-
-#EXTINF:-1, Nick
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/645
-
 #EXTINF:-1 ,TVG Cativ@s
 https://xabarintv-r2-crtvg.flumotion.com/playlist.m3u8
 
@@ -183,13 +155,6 @@ https://xabarintv-r3-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 , Nickelodeon
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource
-
-#EXTINF:-1 ,TeenNick
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/882
 
 #EXTINF:-1 ,Sensación TV
 https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
