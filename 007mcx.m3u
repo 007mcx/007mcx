@@ -11,6 +11,7 @@ https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/95
 
 #EXTINF:-1 ,EnerGeek Retro
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
