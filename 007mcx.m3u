@@ -12,9 +12,6 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 ,EnerGeek Fanpop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
-EXTINF:-1 ,ACS Network TV 
-https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
-
 #EXTINF:-1 ,AnimeStation
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 
@@ -258,3 +255,6 @@ https://i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/95
+
+EXTINF:-1 ,ACS Network TV
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
