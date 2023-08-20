@@ -6,6 +6,12 @@ https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 ,Retro Magico
 https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 
+#EXTINF:-1 , Tooncast
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+
 #EXTINF:-1 ,EnerGeek Retro
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
@@ -27,14 +33,29 @@ https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
 #EXTINF:-1 ,PlanetaTV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 
+EXTINF:-1 ,ACS Network TV
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
+
+#EXTINF:-1 ,TVS Retro
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 , TV y TV
+https://Stmv1.zcasthn.com.br/tvytv/tvytv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,Mi TV Television Clasica
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+
+#EXTINF:-1 ,Teleclasica
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+
+#EXTINF:-1 ,TV Pop
+https://v4.tustreaming.cl/poptv/index.m3u8
+
 #EXTINF:-1 ,GenTV
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
 #EXTINF:-1 , Moni TV
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
-
-#EXTINF:-1 ,ACS Network TV
-https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 
 #EXTINF:-1 ,Sexy Kpop TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
@@ -48,8 +69,8 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 ,Retro Plus TV Señal 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
-#EXTINF:-1 ,TV Pop
-https://v4.tustreaming.cl/poptv/index.m3u8
+#EXTINF:-1 , Telesistema
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
 #EXTINF:-1 ,Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
@@ -63,20 +84,11 @@ https://scl.edge.grupoz.cl/movie/live/movie.m3u8
 #EXTINF:-1 , Terror Tv
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?
 
-#EXTINF:-1 , Telesistema
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
-
 #EXTINF:-1 ,eSports Max TV | VE
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 #EXTINF:-1 ,Xtrema Retro Series
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
-
-#EXTINF:-1 ,TVS Retro
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-
-#EXTINF:-1 , TV y TV
-https://Stmv1.zcasthn.com.br/tvytv/tvytv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,7 TeleValencia
 https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
@@ -143,9 +155,6 @@ https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 
 #EXTINF:-1 ,Xtrema Retro Cartoons
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-
-#EXTINF:-1 , Tooncast
-http://181.189.243.254:8000/play/a0s3/index.m3u8
 
 #EXTINF:-1 ,TVG Cativ@s
 https://xabarintv-r2-crtvg.flumotion.com/playlist.m3u8
@@ -221,12 +230,6 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 
 #EXTINF:-1 ,Pitufo TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
-
-#EXTINF:-1 ,Mi TV Television Clasica
-https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
-
-#EXTINF:-1 ,Teleclasica
-https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
 #EXTINF:-1 ,TV Retro Palmares
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
