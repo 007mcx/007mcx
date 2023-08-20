@@ -12,13 +12,6 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 ,EnerGeek Fanpop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
-#EXTINF:-1 ,Tooncast
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/95
-
 EXTINF:-1 ,ACS Network TV 
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
@@ -250,11 +243,18 @@ http://events3-crtvg.flumotion.com/crtvg/events3_high/chunks.m3u8
 #EXTINF:-1 , Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 , Azteca 7
+#EXTINF:-1 ,Azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
-#EXTINF:-1  , MVS
+#EXTINF:-1  ,MVS
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 ,Doctor Who Pluto TV
 https://i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8
+
+#EXTINF:-1 ,Tooncast
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/95
