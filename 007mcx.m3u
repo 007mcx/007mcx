@@ -1,15 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 ,Tooncast
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/95
-
-#EXTINF:-1 ,ACS Network TV
-https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
-
 #EXTINF:-1 ,Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
@@ -49,6 +39,9 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1 ,Teleclasica
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
+#EXTINF:-1 ,ACS Network TV
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
+
 #EXTINF:-1 ,TV Pop
 https://v4.tustreaming.cl/poptv/index.m3u8
 
@@ -57,9 +50,6 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
 #EXTINF:-1 , Moni TV
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
-
-#EXTINF:-1 ,Sexy Kpop TV
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #EXTINF:-1 ,Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
@@ -255,4 +245,3 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 ,Doctor Who Pluto TV
 https://i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8
-
