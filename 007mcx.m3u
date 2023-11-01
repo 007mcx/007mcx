@@ -144,12 +144,6 @@ https://xabarintv-r2-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 ,TVG Mociñ@s
 https://xabarintv-r3-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 , Nickelodeon
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource
-
-#EXTINF:-1 ,Sensación TV
-https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
-
 #EXTINF:-1 ,Origen TV 
 https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
 
