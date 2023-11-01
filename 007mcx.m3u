@@ -30,12 +30,6 @@ https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 ,TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
-#EXTINF:-1 ,TV y TV
-https://Stmv1.zcasthn.com.br/tvytv/tvytv/playlist.m3u8
-
-#EXTINF:-1 ,Mi TV Television Clasica
-https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
-
 #EXTINF:-1 ,Teleclasica
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
