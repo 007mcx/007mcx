@@ -207,12 +207,6 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 ,Pitufo TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
-#EXTINF:-1 ,TV Retro Palmares
-https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
-
-#EXTINF:-1 ,Zaz TV
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-
 #EXTINF:-1 ,Rakuten TV Familia
 http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 
