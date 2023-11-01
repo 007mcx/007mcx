@@ -171,9 +171,6 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,MyTime movie network Spain
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Bics", Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u
-
 #EXTINF:-1 ,Educanal
 https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
 
