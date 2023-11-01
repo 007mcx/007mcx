@@ -228,12 +228,6 @@ https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
 #EXTINF:-1 ,Tvg2 HD/Eventos 3
 http://events3-crtvg.flumotion.com/crtvg/events3_high/chunks.m3u8
 
-#EXTINF:-1 , Azteca Uno
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-
-#EXTINF:-1 ,Azteca 7
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-
 #EXTINF:-1  ,MVS
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
