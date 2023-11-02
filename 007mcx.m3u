@@ -54,14 +54,14 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 , Telesistema
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
-#EXTINF:-1 ,Planeta TV
-https://live.obslivestream.com/planetatv/index.m3u8
-
 #EXTINF:-1 ,Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 #EXTINF:-1 ,PlanetaTV Movies
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8
+
+#EXTINF:-1 ,Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 , Terror Tv
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?
@@ -80,9 +80,6 @@ https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 
 #EXTINF:-1 ,DTV
 https://emisoras.hn:8081/dtv/index.m3u8
-
-#EXTINF:-1 ,Genesis TV
-http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
 
 #EXTINF:-1 ,7 TeleValencia
 https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
@@ -153,14 +150,14 @@ http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
 #EXTINF:-1 ,VZ TV
 https://live.obslivestream.com/vztv/index.m3u8
 
-#EXTINF:-1 ,Cine Sony
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-
 #EXTINF:-1 ,MyTime movie network Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 ,MyTime movie network Spain
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 ,Planeta TV
+https://live.obslivestream.com/planetatv/index.m3u8
 
 #EXTINF:-1 ,Educanal
 https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
