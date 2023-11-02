@@ -27,7 +27,7 @@ https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
 #EXTINF:-1 ,PlanetaTV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 
-#EXTINF:-1 ,VISION TV
+#EXTINF:-1 ,Vision TV
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 #EXTINF:-1 ,Teleclasica
@@ -72,8 +72,8 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 ,Xtrema Retro Series
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 
-#EXTINF:-1 ,7 TeleValencia
-https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
+#EXTINF:-1 ,Orbita TV Canal 25
+https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
 
 #EXTINF:-1 ,Top FM TV (Atalaya)
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
@@ -84,8 +84,8 @@ https://emisoras.hn:8081/dtv/index.m3u8
 #EXTINF:-1 ,Genesis TV
 http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
 
-#EXTINF:-1 ,Orbita TV Canal 25
-https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
+#EXTINF:-1 ,7 TeleValencia
+https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
 
 #EXTINF:-1 ,WTV Canal 20 
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
