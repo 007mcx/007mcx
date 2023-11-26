@@ -64,9 +64,9 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 , Telesistema
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 
-#EXTINF:-1 ,Orbit TV
+#EXTINF:-1 ,Retro Plus
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 #EXTINF:-1 ,PlanetaTV Movies
