@@ -159,9 +159,6 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,MyTime movie network Spain
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 ,Planeta TV
-https://live.obslivestream.com/planetatv/index.m3u8
-
 #EXTINF:-1 ,Educanal
 https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
 
@@ -183,12 +180,6 @@ https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
 #EXTINF:-1 ,Tele 2 Web
 https://inliveserver.com:1936/11516/11516/playlist.m3u8
 
-#EXTINF:-1 ,Tele2000
-https://servilive.com:3126/live/tele2000live.m3u8
-
-#EXTINF:-1 ,Lim TV
-https://live.limplay.ml/limtv.m3u8
-
 #EXTINF:-1 ,Magic
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
@@ -200,9 +191,6 @@ http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 ,Chiquilines HD
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
-
-#EXTINF:-1 ,Tvg2 HD/Eventos 3
-http://events3-crtvg.flumotion.com/crtvg/events3_high/chunks.m3u8
 
 #EXTINF:-1  ,MVS
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
