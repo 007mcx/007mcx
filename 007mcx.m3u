@@ -63,8 +63,8 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 ,Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 , Telesistema
-https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1 ,Estacion Retro
+https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/09aad3dd77caa0ed9af428f21870dc79/index.m3u8
 
 #EXTINF:-1 ,Retro Plus
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
@@ -143,9 +143,6 @@ https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
 
 #EXTINF:-1 ,Xtrema Cine Comedy
 https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
-
-#EXTINF:-1 ,Coco TV
-https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 
 #EXTINF:-1 ,Telenord 8 
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
