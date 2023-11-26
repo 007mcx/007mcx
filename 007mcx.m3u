@@ -108,12 +108,6 @@ https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Agenda 56
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 
-#EXTINF:-1 ,Canal 6
-https://d25v5vivhcrrh5.cloudfront.net/hls/canal6.m3u8
-
-#EXTINF:-1 ,8 TV
-https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
-
 #EXTINF:-1 ,Cinco TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
@@ -125,9 +119,6 @@ https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 
 #EXTINF:-1 ,Boreal
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
-
-#EXTINF:-1 , Lanco TV
-https://lancotv.ngrok.app/hls/stream.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,Xtrema Anime
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
