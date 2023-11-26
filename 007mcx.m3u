@@ -150,9 +150,6 @@ https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
 #EXTINF:-1 ,Telenord 8 
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
 
-#EXTINF:-1 ,VZ TV
-https://live.obslivestream.com/vztv/index.m3u8
-
 #EXTINF:-1 ,MyTime movie network Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
@@ -170,12 +167,6 @@ http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 
 #EXTINF:-1 ,The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 ,Teleunion 
-http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
-
-#EXTINF:-1 ,WXWZ-LD1
-https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
 
 #EXTINF:-1 ,Tele 2 Web
 https://inliveserver.com:1936/11516/11516/playlist.m3u8
