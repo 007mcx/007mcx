@@ -66,8 +66,11 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 ,Estacion Retro
 https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/09aad3dd77caa0ed9af428f21870dc79/index.m3u8
 
-#EXTINF:-1 ,Retro Plus
+#EXTINF:-1 ,Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
+#EXTINF:-1 ,Retro Plus
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 
 #EXTINF:-1 ,PlanetaTV Movies
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8
