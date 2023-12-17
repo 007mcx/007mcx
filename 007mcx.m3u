@@ -36,6 +36,12 @@ https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 ,Vision TV
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
+#EXTINF:-1 ,Telecinco
+https://videohd.live:19360/8016/8016.m3u8
+
+#EXTINF:-1 ,Tele Koreano
+https://xhateaec.com:8800/hls/TeleKoreano/SeuolKorea/1050a0ed7561aebc5d32ef81b2a235dc/index.m3u8
+
 #EXTINF:-1 ,Teleclasica
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
