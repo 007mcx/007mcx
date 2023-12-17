@@ -30,7 +30,7 @@ https://i.mjh.nz/PlutoTV/608035b8d8705f0007260287-alt.m3u8
 #EXTINF:-1 ,Latino Kids TV
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
 
-#EXTINF:-1 ,PlanetaTV Kids
+#EXTINF:-1 ,Planeta TV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 
 #EXTINF:-1 ,Vision TV
@@ -135,6 +135,9 @@ https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 #EXTINF:-1 ,Xtrema Retro Cartoons
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 
+#EXTINF:-1 ,Super Kaos Television
+https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
+
 #EXTINF:-1 ,TVG Cativ@s
 https://xabarintv-r2-crtvg.flumotion.com/playlist.m3u8
 
@@ -149,6 +152,9 @@ https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
 
 #EXTINF:-1 ,Xtrema Cine Comedy
 https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+
+#EXTINF:-1 ,Xtrema Cine Family
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
 
 #EXTINF:-1 ,Telenord 8 
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
