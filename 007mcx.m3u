@@ -60,6 +60,12 @@ https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 #EXTINF:-1 , 24-7 TV
 https://stmv5.voxtvhd.com.br/247tv/247tv/playlist.m3u8
 
+#EXTINF:-1 , Caracola TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+
+#EXTINF:-1 , TV y TV
+https://stmv5.voxtvhd.com.br/tvytv/tvytv/playlist.m3u8
+
 #EXTINF:-1 ,Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
@@ -107,9 +113,6 @@ https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 , Señal 21
 https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 ,Agenda 56
-https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 
 #EXTINF:-1 ,Cinco TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
@@ -167,6 +170,9 @@ https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/playlist.m3u8
 
 #EXTINF:-1 ,Chiquilines HD
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
+
+#EXTINF:-1 ,Agenda 56
+https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 
 #EXTINF:-1 ,Tele Koreano
 https://xhateaec.com:8800/hls/TeleKoreano/SeuolKorea/1050a0ed7561aebc5d32ef81b2a235dc/index.m3u8
