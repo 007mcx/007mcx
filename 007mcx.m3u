@@ -162,23 +162,11 @@ http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,Tv En Linea Cusco
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 
-#EXTINF:-1 ,Multivision
-https://5790d294af2dc.streamlock.net/multivision/multivision/playlist.m3u8
-
-#EXTINF:-1 ,RTV Naranjal
-https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/playlist.m3u8
-
 #EXTINF:-1 ,Chiquilines HD
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
 
 #EXTINF:-1 ,Agenda 56
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
-
-#EXTINF:-1 ,Tele Koreano
-https://xhateaec.com:8800/hls/TeleKoreano/SeuolKorea/1050a0ed7561aebc5d32ef81b2a235dc/index.m3u8
-
-#EXTINF:-1 ,Super Kaos Television
-https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 
 #EXTINF:-1 ,Pluto TV Anime Latino
 https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
