@@ -9,6 +9,9 @@ https://vsd74.mycdn.me/hls/4858246007425.m3u8/sig/HskhG2bVkH4/expires/1718849435
 #EXTINF:-1 ,Classic Channel
 https://paneltv.online:1936/8046/8046/playlist.m3u8
 
+#EXTINF:-1, Locomotion | AR
+http://51.222.85.85:81/hls/loco/index.m3u8
+
 #EXTINF:-1 ,AnimeStation
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 
