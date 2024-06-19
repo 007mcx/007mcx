@@ -192,9 +192,6 @@ https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8
 #EXTINF:-1, Mega Cine TV | DO
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
-#EXTINF:-1, Retro Play TV | CL
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
-
 #EXTINF:-1, Telered | CR
 https://video20.klm99.com:3558/live/teleredlive.m3u8
 
