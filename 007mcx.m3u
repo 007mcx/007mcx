@@ -75,7 +75,7 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 ,Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 ,Estacion Retro
+#EXTINF:-1 ,Big Cine
 https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8
 
 #EXTINF:-1 ,Orbit TV
