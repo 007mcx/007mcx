@@ -179,3 +179,39 @@ https://i.mjh.nz/PlutoTV/608035b8d8705f0007260287-alt.m3u8
 
 #EXTINF:-1 ,Doctor Who Pluto TV
 https://i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8
+
+#EXTINF:-1 tvg-id="1583" tvg-name="Greekz" tvg-logo="https://cdn.m3u.cl/logo/1583_Greekz.png", Greekz | CL
+https://stream.zafirehosting.com:3911/live/greekztvlive.m3u8
+
+#EXTINF:-1, Magic Kids | AR
+https://ssh101-fl.bozztv.com/ssh101/magic2019/index.m3u8
+
+#EXTINF:-1, VariedTV | AR
+https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8
+
+#EXTINF:-1, Kpop TV | BR
+https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
+
+#EXTINF:-1, The Retro Channel | PR
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+#EXTINF:-1, Mega Cine TV | DO
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+
+#EXTINF:-1, Retro Play TV | CL
+https://v4.tustreaming.cl/retroplaytv/index.m3u8
+
+#EXTINF:-1, Telered | CR
+https://video20.klm99.com:3558/live/teleredlive.m3u8
+
+#EXTINF:-1, Telesistema | CR
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
+
+#EXTINF:-1, Terror TV | CL
+https://tv.streaming-chile.com:19360/8140/8140.m3u8
+
+#EXTINF:-1, TV Prime Peliculas | CL
+https://premium.tvcontrolcp.com:19360/8062/8062.m3u8
+
+#EXTINF:-1, Cloudflare TV | US
+https://cloudflare.tv/hls/live.m3u8
