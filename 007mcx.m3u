@@ -192,12 +192,6 @@ https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8
 #EXTINF:-1, Mega Cine TV | DO
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
-#EXTINF:-1, Telered | CR
-https://video20.klm99.com:3558/live/teleredlive.m3u8
-
-#EXTINF:-1, Telesistema | CR
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
-
 #EXTINF:-1, Terror TV | CL
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 
