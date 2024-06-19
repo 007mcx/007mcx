@@ -197,6 +197,3 @@ https://tv.streaming-chile.com:19360/8140/8140.m3u8
 
 #EXTINF:-1, TV Prime Peliculas | CL
 https://premium.tvcontrolcp.com:19360/8062/8062.m3u8
-
-#EXTINF:-1, Cloudflare TV | US
-https://cloudflare.tv/hls/live.m3u8
