@@ -96,9 +96,6 @@ https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 , EGM Channel
 https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 , Señal 21
-https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 ,Cinco TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
@@ -162,14 +159,11 @@ https://i.mjh.nz/PlutoTV/608035b8d8705f0007260287-alt.m3u8
 #EXTINF:-1 ,Doctor Who Pluto TV
 https://i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8
 
-#EXTINF:-1 tvg-id="1583" tvg-name="Greekz" tvg-logo="https://cdn.m3u.cl/logo/1583_Greekz.png", Greekz | CL
+#EXTINF:-1, Greekz | CL
 https://stream.zafirehosting.com:3911/live/greekztvlive.m3u8
 
 #EXTINF:-1, Magic Kids | AR
 https://ssh101-fl.bozztv.com/ssh101/magic2019/index.m3u8
-
-#EXTINF:-1, Mega Cine TV | DO
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
 #EXTINF:-1, Terror TV | CL
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
