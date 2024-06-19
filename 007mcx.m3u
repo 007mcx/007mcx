@@ -21,9 +21,6 @@ https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 ,Latino Kids TV
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 
-#EXTINF:-1 ,Planeta TV Family
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
-
 #EXTINF:-1 ,TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
@@ -42,7 +39,7 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1 ,Mi TV Televisión Clásica
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
-#EXTINF:-1, Estacion Retro | CO
+#EXTINF:-1, Big Cine
 https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8
 
 #EXTINF:-1 ,TV Pop
@@ -75,26 +72,11 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 ,Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 ,Big Cine
-https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8
-
-#EXTINF:-1 ,Orbit TV
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-
-#EXTINF:-1 ,Retro Plus
-https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
-
-#EXTINF:-1 ,PlanetaTV Movies
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8
-
 #EXTINF:-1 ,Wow Tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #EXTINF:-1 ,Orbita TV Canal 25
 https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
-
-#EXTINF:-1 , Terror Tv
-https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?
 
 #EXTINF:-1 ,eSports Max TV | VE
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
@@ -185,9 +167,6 @@ https://stream.zafirehosting.com:3911/live/greekztvlive.m3u8
 
 #EXTINF:-1, Magic Kids | AR
 https://ssh101-fl.bozztv.com/ssh101/magic2019/index.m3u8
-
-#EXTINF:-1, VariedTV | AR
-https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8
 
 #EXTINF:-1, Mega Cine TV | DO
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
