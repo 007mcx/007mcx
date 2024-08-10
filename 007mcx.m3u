@@ -180,29 +180,11 @@ https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1335" tvg-name="VariedTV" tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png", VariedTV | AR
 https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", ZTV Anime | CL
-https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="506" tvg-name="Arirang" tvg-logo="https://cdn.m3u.cl/logo/506_Arirang.png", Arirang | KR
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="782" tvg-name="Kpop TV" tvg-logo="https://cdn.m3u.cl/logo/782_Kpop_TV.jpg", Kpop TV | BR
-https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="1092" tvg-name="Planeta TV" tvg-logo="https://cdn.m3u.cl/logo/1092_Planeta_TV.png", Planeta TV | PE
 https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1014" tvg-name="PlanetaTV" tvg-logo="https://cdn.m3u.cl/logo/1014_PlanetaTV.png", PlanetaTV | CL
 https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1319" tvg-name="Play Music Conectados" tvg-logo="https://cdn.m3u.cl/logo/1319_Play_Music_Conectados.png", Play Music Conectados | CL
-https://premium.tvcontrolcp.com:19360/8052/8052.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://cdn.m3u.cl/logo/31_Portal_FoxMix.png", Portal FoxMix | CL
-https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="785" tvg-name="Re7" tvg-logo="https://cdn.m3u.cl/logo/785_Re7.png", Re7 | CL
-https://live.cloudhostservers.com:3163/live/re7evolucionlive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png", Recuerdos Retro Radio TV | CL
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
