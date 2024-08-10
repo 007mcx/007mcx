@@ -173,12 +173,3 @@ https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://cdn.m3u.cl/logo/1055_Mega_Cine_TV.png", Mega Cine TV | DO
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="472" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://cdn.m3u.cl/logo/472_Mi_TV_Television_Clasica.png", Mi TV Televisión Clásica | US
-https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://cdn.m3u.cl/logo/897_Retro_Play_TV.png", Retro Play TV | CL
-https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://cdn.m3u.cl/logo/476_WOW_TV.png", WOW TV | SV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
