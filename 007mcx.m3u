@@ -4,7 +4,7 @@
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
 #EXTINF:-1 ,Retro Magico
-https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 
 #EXTINF:-1 ,Classic Channel
 https://paneltv.online:1936/8046/8046/playlist.m3u8
@@ -4288,8 +4288,11 @@ https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
 http://204.199.3.2/.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="RBDRadioMultimedia.ar",RBD Radio Multimedia (720p)
 https://videostream.shockmedia.com.ar:19360/rbdradio/rbdradio.m3u8
+
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="RetroMagico.ar",RetroMágico (720p)
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+
+
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="RTN.ar",RTN (Neuquén) (720p) [Not 24/7]
 https://media.neuquen.gov.ar/rtn/television/media.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="SanPedroTV.ar",San Pedro TV (1080p) [Not 24/7]
@@ -5212,35 +5215,7 @@ http://177.53.153.20:8001/play/a0cd/index.m3u8
 http://177.53.153.20:8001/play/a0cw/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02y.png",TNT Series HD
 http://177.53.153.20:8001/play/a02y/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0c2.png",Adult Swim HD
-http://177.53.153.20:8001/play/a02k/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0ij.png",TV PERU TRANSCODING
-http://177.53.153.20:8001/play/a0ij/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a034.png",TV+ HD
-http://177.53.153.20:8001/play/a034/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a026.png",TVN HD
-http://177.53.153.20:8001/play/a026/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Telehit Musica
-http://177.53.153.20:8001/play/a0bu/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0ct.png",Tlnovelas
-http://177.53.153.20:8001/play/a0ct/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0c9.png",VISION TV
-http://177.53.153.20:8001/play/a0c9/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01o.png",Venus
-http://177.53.153.20:8001/play/a01o/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0eg.png",WIN SPORTS + HD M3U
-http://177.53.153.20:8001/play/a0eg/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01u.png",Warner Channel HD
-http://177.53.153.20:8001/play/a01u/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03j.png",Win Sports+ HD
-http://177.53.153.20:8001/play/a03j/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0db.png",la tele Colombia HD
-http://177.53.153.20:8001/play/a0db/index.m3u8
-
-
-
-﻿
-
+#EXTINF:-1 group-title="
 #EXTINF:-1 tvg-id="ESPN MX" tvg-name="ESPN MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png" group-title="PLAY",ESPN | Mexico
 http://38.56.118.88:4000/play/a00j/index.m3u8
 
