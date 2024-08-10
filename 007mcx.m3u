@@ -189,38 +189,13 @@ https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png", Recuerdos Retro Radio TV | CL
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1403" tvg-name="Red Circle" tvg-logo="https://cdn.m3u.cl/logo/1403_Red_Circle.png", Red Circle | CL
-https://5e3483cba9114.streamlock.net:443/8016/8016/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV | CL
-https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png", Retro Plus TV Señal 2 | CL
-https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="911" tvg-name="Tele Clasicos" tvg-logo="https://cdn.m3u.cl/logo/911_Tele_Clasicos.png", Tele Clasicos | CR
-https://tvdatta.com:3574/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="17" tvg-name="The Retro Channel" tvg-logo="https://cdn.m3u.cl/logo/17_The_Retro_Channel.png", The Retro Channel | PR
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="35" tvg-name="TOP Latino TV" tvg-logo="https://cdn.m3u.cl/logo/35_TOP_Latino_TV.png", TOP Latino TV | PE
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png", +Cine | CL
 https://tv.streaming-chile.com:19360/8142/8142.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-id="1430" tvg-name="Classic Channel" tvg-logo="https://cdn.m3u.cl/logo/1430_Classic_Channel.png", Classic Channel | CL
-https://paneltv.online:1936/8046/8046/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1545" tvg-name="Estacion Retro" tvg-logo="https://cdn.m3u.cl/logo/1545_Estacion_Retro.png", Estacion Retro | CO
-https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1074" tvg-name="Eva Retro" tvg-logo="https://cdn.m3u.cl/logo/1074_Eva_Retro.png", Eva Retro | CL
-https://premium.tvcontrolcp.com:19360/evaretro/evaretro.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="481" tvg-name="FMTV 1" tvg-logo="https://cdn.m3u.cl/logo/481_FMTV_1.png", FMTV 1 | US
-https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1276" tvg-name="Horrorfy - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1276_Horrorfy___Freetv_com.png", Horrorfy - Freetv.com | US
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8?PlaylistM3UCL
