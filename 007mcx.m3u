@@ -3155,35 +3155,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aab1d2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="Pluto Spain2" tvg-id="PlutoTVKids.es",Pluto TV Kids (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 group-title="Pluto Spain2" tvg-id="PlutoTVKids.es",Pluto TV Kids (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Pluto Spain2" tvg-id="PlutoTVKids.es",Pluto TV Kids (Spain) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aab1d29b39600073e243f&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=910&terminate=false&userId=
-#EXTINF:-1 group-title="Pluto Spain2" tvg-id="MTVCatfishTVShow.es",Pluto TV MTV Catfish (Spain) (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1ab3c7778230000735cf41&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=305&terminate=false&userId=
-#EXTINF:-1 group-title="Pluto Spain2" tvg-id="PlutoTVMTVMusicMadeinSpain.us",Pluto TV MTV Music Made in Spain (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Pluto Spain2" tvg-id="MTVOriginals.es",Pluto TV MTV Originals (Spain) (480p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aadf373bed3000794d1d7&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=300&terminate=false&userId=
-#EXTINF:-1 group-title="Pluto Spain2" tvg-id="PlutoTVRealitiesESP.us",Pluto TV Realities ESP (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d93b4d71754e6a4298d086e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=953&terminate=false&userId=
-#EXTINF:-1 group-title="Pluto Spain2" tvg-id="PlutoTVRealitiesESP.us",Pluto TV Realities ESP (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Pluto Spain2" tvg-id="PlutoTVTeenStars.es",Pluto TV Teen Stars (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Pluto Spain2" tvg-id="PlutoTVTelenovelas.es",Pluto TV Telenovelas (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Pluto Spain2" tvg-id="PlutoTVTheWalkingDeadESP.us",Pluto TV The Walking Dead ESP (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e82bb378601b80007b4bd78&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=925&terminate=false&userId=
-#EXTINF:-1 group-title="Pluto Spain2" tvg-id="PlutoTVTheWalkingDeadESP.us",Pluto TV The Walking Dead ESP (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Pluto Spain2" tvg-id="PlutoTVToonsClasico.es",Pluto TV Toons Clásico (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Pluto Spain2" tvg-id="TopGear.uk",Top Gear (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-
-﻿
 
 #EXTINF:-1 channel-id="samsung-USBD7000017L" tvg-id="USBD7000017L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000017L_20240520T212739SQUARE.png" tvg-chno="3809" group-title="Samsung Latino" , AMC en Español
 https://jmp2.uk/SamsungTVPlus/USBD7000017L.m3u8
@@ -3266,198 +3238,6 @@ https://jmp2.uk/SamsungTVPlus/USAJ1700009QJ.m3u8
 #EXTINF:-1 channel-id="samsung-USBD3300007PB" tvg-id="USBD3300007PB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20240520T212941SQUARE.png" tvg-chno="4338" group-title="Samsung Latino" , XITE Nuevo Latino
 https://jmp2.uk/SamsungTVPlus/USBD3300007PB.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBD3300010L9" tvg-id="USBD3300010L9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20240520T212947SQUARE.png" tvg-chno="4343" group-title="Samsung Latino" , XITE Siempre Latino
-https://jmp2.uk/SamsungTVPlus/USBD3300010L9.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC3600015GF" tvg-id="USBC3600015GF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20240520T212912SQUARE.png" tvg-chno="4406" group-title="Samsung Latino" , Vevo Latino
-https://jmp2.uk/SamsungTVPlus/USBC3600015GF.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3500017CE" tvg-id="USBD3500017CE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20240520T212846SQUARE.png" tvg-chno="4466" group-title="Samsung Latino" , Stingray Romance Latino
-https://jmp2.uk/SamsungTVPlus/USBD3500017CE.m3u8
-
-
-
-
-
-#EXTINF:-1 channel-id="samsung-USBC21000142T" tvg-id="USBC21000142T" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC21000142T_20240520T221511SQUARE.png" tvg-chno="2005" group-title="Home & Food" , Home Refresh
-https://jmp2.uk/SamsungTVPlus/USBC21000142T.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3000006X5" tvg-id="USAJ3000006X5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000006X5_20240520T221228SQUARE.png" tvg-chno="2010" group-title="Home & Food" , Home.Made.Nation
-https://jmp2.uk/SamsungTVPlus/USAJ3000006X5.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3400020KC" tvg-id="USAJ3400020KC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400020KC_20240520T221350SQUARE.png" tvg-chno="2012" group-title="Home & Food" , Tiny House Nation
-https://jmp2.uk/SamsungTVPlus/USAJ3400020KC.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC13000065U" tvg-id="USBC13000065U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC13000065U_20240702T044847SQUARE.png" tvg-chno="2015" group-title="Home & Food" , This Old House
-https://jmp2.uk/SamsungTVPlus/USBC13000065U.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC1300005T6" tvg-id="USBC1300005T6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300005T6_20240520T221600SQUARE.png" tvg-chno="2016" group-title="Home & Food" , This Old House Makers
-https://jmp2.uk/SamsungTVPlus/USBC1300005T6.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD4200008RS" tvg-id="USBD4200008RS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200008RS_20240528T020859SQUARE.png" tvg-chno="2020" group-title="Home & Food" , Flipping Nation by A&E
-https://jmp2.uk/SamsungTVPlus/USBD4200008RS.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD700022M5" tvg-id="USBD700022M5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700022M5_20240611T050256SQUARE.png" tvg-chno="2023" group-title="Home & Food" , Homeful
-https://jmp2.uk/SamsungTVPlus/USBD700022M5.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD25000138Y" tvg-id="USBD25000138Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD25000138Y_20240520T221410SQUARE.png" tvg-chno="2026" group-title="Home & Food" , At Home with Family Handyman
-https://jmp2.uk/SamsungTVPlus/USBD25000138Y.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC3200022W6" tvg-id="USBC3200022W6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200022W6_20240702T044837SQUARE.png" tvg-chno="2029" group-title="Home & Food" , Tastemade Home
-https://jmp2.uk/SamsungTVPlus/USBC3200022W6.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB40000028E" tvg-id="USBB40000028E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB40000028E_20240520T221314SQUARE.png" tvg-chno="2032" group-title="Home & Food" , NBC LX Home
-https://jmp2.uk/SamsungTVPlus/USBB40000028E.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3200024V5" tvg-id="USBB3200024V5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200024V5_20240520T221310SQUARE.png" tvg-chno="2035" group-title="Home & Food" , Million Dollar Listing
-https://jmp2.uk/SamsungTVPlus/USBB3200024V5.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1200022S1" tvg-id="USBD1200022S1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200022S1_20240520T221556SQUARE.png" tvg-chno="2038" group-title="Home & Food" , The Design Network
-https://jmp2.uk/SamsungTVPlus/USBD1200022S1.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD4200017GS" tvg-id="USBD4200017GS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200017GS_20240520T221538SQUARE.png" tvg-chno="2041" group-title="Home & Food" , PBS Antiques Roadshow
-https://jmp2.uk/SamsungTVPlus/USBD4200017GS.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC600018CF" tvg-id="USBC600018CF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600018CF_20240520T221408SQUARE.png" tvg-chno="2044" group-title="Home & Food" , Antiques Roadshow
-https://jmp2.uk/SamsungTVPlus/USBC600018CF.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC600017FG" tvg-id="USBC600017FG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600017FG_20240520T221414SQUARE.png" tvg-chno="2099" group-title="Home & Food" , BBC Home & Garden
-https://jmp2.uk/SamsungTVPlus/USBC600017FG.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC6000108Z" tvg-id="USBC6000108Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000108Z_20240520T221412SQUARE.png" tvg-chno="2100" group-title="Home & Food" , BBC Food
-https://jmp2.uk/SamsungTVPlus/USBC6000108Z.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3800002KI" tvg-id="USBA3800002KI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800002KI_20240520T221120SQUARE.png" tvg-chno="2110" group-title="Home & Food" , America's Test Kitchen
-https://jmp2.uk/SamsungTVPlus/USBA3800002KI.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC44000226R" tvg-id="USBC44000226R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC44000226R_20240625T011313SQUARE.png" tvg-chno="2112" group-title="Home & Food" , Bon Appétit
-https://jmp2.uk/SamsungTVPlus/USBC44000226R.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAK3508724A" tvg-id="USAK3508724A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508724A_20240520T221220SQUARE.png" tvg-chno="2114" group-title="Home & Food" , Gusto TV
-https://jmp2.uk/SamsungTVPlus/USAK3508724A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC4400016CL" tvg-id="USBC4400016CL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400016CL_20240520T221522SQUARE.png" tvg-chno="2116" group-title="Home & Food" , Jamie Oliver
-https://jmp2.uk/SamsungTVPlus/USBC4400016CL.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ2200009C2" tvg-id="USAJ2200009C2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200009C2_20240520T221233SQUARE.png" tvg-chno="2118" group-title="Home & Food" , Hungry
-https://jmp2.uk/SamsungTVPlus/USAJ2200009C2.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD7000189R" tvg-id="USBD7000189R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000189R_20240520T221550SQUARE.png" tvg-chno="2120" group-title="Home & Food" , Tastemade
-https://jmp2.uk/SamsungTVPlus/USBD7000189R.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD700017WC" tvg-id="USBD700017WC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700017WC_20240520T221554SQUARE.png" tvg-chno="2130" group-title="Home & Food" , Tastemade Travel
-https://jmp2.uk/SamsungTVPlus/USBD700017WC.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB1000003HL" tvg-id="USBB1000003HL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1000003HL_20240520T221245SQUARE.png" tvg-chno="2133" group-title="Home & Food" , Journy
-https://jmp2.uk/SamsungTVPlus/USBB1000003HL.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC4400005HY" tvg-id="USBC4400005HY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400005HY_20240520T221526SQUARE.png" tvg-chno="2140" group-title="Home & Food" , Localish
-https://jmp2.uk/SamsungTVPlus/USBC4400005HY.m3u8
-
-#EXTINF:-1 channel-id="samsung-US1400001WV" tvg-id="US1400001WV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400001WV_20240625T011416SQUARE.png" tvg-chno="2315" group-title="Sports & Outdoors" , MLB Channel
-https://jmp2.uk/SamsungTVPlus/US1400001WV.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB4800005VO" tvg-id="USBB4800005VO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4800005VO_20240520T220042SQUARE.png" tvg-chno="2330" group-title="Sports & Outdoors" , CBS Sports HQ
-https://jmp2.uk/SamsungTVPlus/USBB4800005VO.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD420002446" tvg-id="USBD420002446" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD420002446_20240528T020945SQUARE.png" tvg-chno="2338" group-title="Sports & Outdoors" , NBC Sports
-https://jmp2.uk/SamsungTVPlus/USBD420002446.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD700013BW" tvg-id="USBD700013BW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700013BW_20240611T050255SQUARE.png" tvg-chno="2358" group-title="Sports & Outdoors" , DraftKings Network
-https://jmp2.uk/SamsungTVPlus/USBD700013BW.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300031OT" tvg-id="USBA300031OT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300031OT_20240520T215945SQUARE.png" tvg-chno="2362" group-title="Sports & Outdoors" , SportsGrid
-https://jmp2.uk/SamsungTVPlus/USBA300031OT.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD12000255B" tvg-id="USBD12000255B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20240520T220058SQUARE.png" tvg-chno="2368" group-title="Sports & Outdoors" , FIFA+
-https://jmp2.uk/SamsungTVPlus/USBD12000255B.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ4300001Q7" tvg-id="USAJ4300001Q7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300001Q7_20240520T220024SQUARE.png" tvg-chno="2372" group-title="Sports & Outdoors" , beIN SPORTS XTRA
-https://jmp2.uk/SamsungTVPlus/USAJ4300001Q7.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ2200023Z0" tvg-id="USAJ2200023Z0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200023Z0_20240520T220026SQUARE.png" tvg-chno="2380" group-title="Sports & Outdoors" , fubo Sports Network
-https://jmp2.uk/SamsungTVPlus/USAJ2200023Z0.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504705A" tvg-id="USAJ3504705A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504705A_20240520T215947SQUARE.png" tvg-chno="2384" group-title="Sports & Outdoors" , Stadium
-https://jmp2.uk/SamsungTVPlus/USAJ3504705A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300034DB" tvg-id="USBA300034DB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300034DB_20240520T215920SQUARE.png" tvg-chno="2392" group-title="Sports & Outdoors" , Pac-12 Insider
-https://jmp2.uk/SamsungTVPlus/USBA300034DB.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD25000161U" tvg-id="USBD25000161U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD25000161U_20240520T220028SQUARE.png" tvg-chno="2396" group-title="Sports & Outdoors" , ACC Digital Network
-https://jmp2.uk/SamsungTVPlus/USBD25000161U.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1200010I8" tvg-id="USBD1200010I8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200010I8_20240520T220120SQUARE.png" tvg-chno="2400" group-title="Sports & Outdoors" , Origin Sports
-https://jmp2.uk/SamsungTVPlus/USBD1200010I8.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB1000001XP" tvg-id="USBB1000001XP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1000001XP_20240520T215955SQUARE.png" tvg-chno="2408" group-title="Sports & Outdoors" , TNA Wrestling
-https://jmp2.uk/SamsungTVPlus/USBB1000001XP.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD300021B8" tvg-id="USBD300021B8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300021B8_20240520T220114SQUARE.png" tvg-chno="2424" group-title="Sports & Outdoors" , MSG SportsZone
-https://jmp2.uk/SamsungTVPlus/USBD300021B8.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3400015BY" tvg-id="USAJ3400015BY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400015BY_20240520T215924SQUARE.png" tvg-chno="2428" group-title="Sports & Outdoors" , People Are Awesome
-https://jmp2.uk/SamsungTVPlus/USAJ3400015BY.m3u8
-
-#EXTINF:-1 channel-id="samsung-US400001M2" tvg-id="US400001M2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400001M2_20240520T220124SQUARE.png" tvg-chno="2436" group-title="Sports & Outdoors" , PGA Tour
-https://jmp2.uk/SamsungTVPlus/US400001M2.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB400000145" tvg-id="USBB400000145" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20240520T215845SQUARE.png" tvg-chno="2438" group-title="Sports & Outdoors" , GOLFPASS
-https://jmp2.uk/SamsungTVPlus/USBB400000145.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC600001QL" tvg-id="USBC600001QL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600001QL_20240611T050339SQUARE.png" tvg-chno="2442" group-title="Sports & Outdoors" , T2
-https://jmp2.uk/SamsungTVPlus/USBC600001QL.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD4200016QR" tvg-id="USBD4200016QR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200016QR_20240520T220130SQUARE.png" tvg-chno="2444" group-title="Sports & Outdoors" , PickleballTV
-https://jmp2.uk/SamsungTVPlus/USBD4200016QR.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD12000183X" tvg-id="USBD12000183X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000183X_20240520T220037SQUARE.png" tvg-chno="2446" group-title="Sports & Outdoors" , Billiard TV
-https://jmp2.uk/SamsungTVPlus/USBD12000183X.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1700009P5" tvg-id="USBD1700009P5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700009P5_20240520T220204SQUARE.png" tvg-chno="2448" group-title="Sports & Outdoors" , World Poker Tour
-https://jmp2.uk/SamsungTVPlus/USBD1700009P5.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB10000058A" tvg-id="USBB10000058A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB10000058A_20240520T215943SQUARE.png" tvg-chno="2480" group-title="Sports & Outdoors" , SURF NOW TV
-https://jmp2.uk/SamsungTVPlus/USBB10000058A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504707A" tvg-id="USAJ3504707A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504707A_20240520T215914SQUARE.png" tvg-chno="2485" group-title="Sports & Outdoors" , Outside
-https://jmp2.uk/SamsungTVPlus/USAJ3504707A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB440002055" tvg-id="USBB440002055" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB440002055_20240520T220157SQUARE.png" tvg-chno="2487" group-title="Sports & Outdoors" , Waypoint TV
-https://jmp2.uk/SamsungTVPlus/USBB440002055.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD17000025J" tvg-id="USBD17000025J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000025J_20240520T220137SQUARE.png" tvg-chno="2489" group-title="Sports & Outdoors" , Pursuit UP
-https://jmp2.uk/SamsungTVPlus/USBD17000025J.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1200020Y4" tvg-id="USBD1200020Y4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200020Y4_20240520T220122SQUARE.png" tvg-chno="2491" group-title="Sports & Outdoors" , Outdoor America
-https://jmp2.uk/SamsungTVPlus/USBD1200020Y4.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC2400027NG" tvg-id="USBC2400027NG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400027NG_20240528T020745SQUARE.png" tvg-chno="2515" group-title="Motor Sports" , Top Gear
-https://jmp2.uk/SamsungTVPlus/USBC2400027NG.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB5200027Z5" tvg-id="USBB5200027Z5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200027Z5_20240528T020713SQUARE.png" tvg-chno="2520" group-title="Motor Sports" , Torque
-https://jmp2.uk/SamsungTVPlus/USBB5200027Z5.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC3600005U9" tvg-id="USBC3600005U9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600005U9_20240528T020727SQUARE.png" tvg-chno="2525" group-title="Motor Sports" , MotorTrend FAST TV
-https://jmp2.uk/SamsungTVPlus/USBC3600005U9.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1700019RN" tvg-id="USBD1700019RN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700019RN_20240528T020739SQUARE.png" tvg-chno="2530" group-title="Motor Sports" , MAVTV Select
-https://jmp2.uk/SamsungTVPlus/USBD1700019RN.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD2500017XQ" tvg-id="USBD2500017XQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500017XQ_20240528T020725SQUARE.png" tvg-chno="2535" group-title="Motor Sports" , POWERNATION
-https://jmp2.uk/SamsungTVPlus/USBD2500017XQ.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC3200019WF" tvg-id="USBC3200019WF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200019WF_20240528T020722SQUARE.png" tvg-chno="2540" group-title="Motor Sports" , NHRA TV
-https://jmp2.uk/SamsungTVPlus/USBC3200019WF.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD4200011W4" tvg-id="USBD4200011W4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200011W4_20240528T020717SQUARE.png" tvg-chno="2545" group-title="Motor Sports" , Hagerty
-https://jmp2.uk/SamsungTVPlus/USBD4200011W4.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504545A" tvg-id="USAJ3504545A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504545A_20240528T020747SQUARE.png" tvg-chno="2550" group-title="Motor Sports" , Cars
-https://jmp2.uk/SamsungTVPlus/USAJ3504545A.m3u8
-
-
-
 
 #EXTINF:-1 channel-id="samsung-ESBC4100001NZ" tvg-id="ESBC4100001NZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20240611T061840SQUARE.png" tvg-chno="4001" group-title="Samsung Spain" , La 1
 https://jmp2.uk/SamsungTVPlus/ESBC4100001NZ.m3u8
@@ -3486,19 +3266,7 @@ https://jmp2.uk/SamsungTVPlus/ESBD3000002GP.m3u8
 #EXTINF:-1 channel-id="samsung-ESBD1300004IG" tvg-id="ESBD1300004IG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300004IG_20231115T012149SQUARE.png_20231115012149.png" tvg-chno="4108" group-title="Samsung Spain" , Azteca Internacional
 https://jmp2.uk/SamsungTVPlus/ESBD1300004IG.m3u8
 
-#EXTINF:-1 channel-id="samsung-ESAJ3800003LX" tvg-id="ESAJ3800003LX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800003LX_20221026T004500SQUARE.png_20221026004501.png" tvg-chno="4110" group-title="Samsung Spain" , MTV Catfish
-https://jmp2.uk/SamsungTVPlus/ESAJ3800003LX.m3u8
 
-#EXTINF:-1 channel-id="samsung-ESAJ3800006TT" tvg-id="ESAJ3800006TT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800006TT_20231213T033347SQUARE.png_20231213033348.png" tvg-chno="4113" group-title="Samsung Spain" , MTV Cribs
-https://jmp2.uk/SamsungTVPlus/ESAJ3800006TT.m3u8
-
-#EXTINF:-1 channel-id="samsung-ESAJ380000226" tvg-id="ESAJ380000226" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ380000226_20231213T033345SQUARE.png_20231213033345.png" tvg-chno="4115" group-title="Samsung Spain" , MTV Originals
-https://jmp2.uk/SamsungTVPlus/ESAJ380000226.m3u8
-
-#EXTINF:-1 channel-id="samsung-ESBA1400006NP" tvg-id="ESBA1400006NP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400006NP_20221026T004520SQUARE.png_20221026004521.png" tvg-chno="4116" group-title="Samsung Spain" , FailArmy
-https://jmp2.uk/SamsungTVPlus/ESBA1400006NP.m3u8
-
-#EXTINF:-1 channel-id="samsung-ESAJ4500023Y5" tvg-id="ESAJ4500023Y5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500023Y5_20220323T081726SQUARE.png_20220323081728.png" tvg-chno="4119" group-title="Samsung Spain" , People Are Awesome
 https://jmp2.uk/SamsungTVPlus/ESAJ4500023Y5.m3u8
 
 #EXTINF:-1 channel-id="samsung-ESBA3300033PL" tvg-id="ESBA3300033PL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300033PL_20221109T010939SQUARE.png_20221109010939.png" tvg-chno="4121" group-title="Samsung Spain" , Encantador de Perros
@@ -3513,11 +3281,11 @@ https://jmp2.uk/SamsungTVPlus/ESBC3900001G6.m3u8
 #EXTINF:-1 channel-id="samsung-ESBC3900002L8" tvg-id="ESBC3900002L8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900002L8_20221012T021029SQUARE.png_20221012021029.png" tvg-chno="4124" group-title="Samsung Spain" , Vivir con Gatos
 https://jmp2.uk/SamsungTVPlus/ESBC3900002L8.m3u8
 
-#EXTINF:-1 channel-id="samsung-ESAJ3800005C5" tvg-id="ESAJ3800005C5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20240402T134057SQUARE.png" tvg-chno="4128" group-title="Samsung Spain" , Comedia Made in Spain
-https://jmp2.uk/SamsungTVPlus/ESAJ3800005C5.m3u8
 
-#EXTINF:-1 channel-id="samsung-ESBC4700003RJ" tvg-id="ESBC4700003RJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700003RJ_20230412T042445SQUARE.png_20230412042445.png" tvg-chno="4130" group-title="Samsung Spain" , Teen Vee
-https://jmp2.uk/SamsungTVPlus/ESBC4700003RJ.m3u8
+
+
+
+
 
 #EXTINF:-1 channel-id="samsung-ESBC1700004PX" tvg-id="ESBC1700004PX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20240117T032710SQUARE.png_20240117032711.png" tvg-chno="4131" group-title="Samsung Spain" , Trailers
 https://jmp2.uk/SamsungTVPlus/ESBC1700004PX.m3u8
