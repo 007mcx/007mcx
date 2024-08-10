@@ -183,9 +183,6 @@ https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", ZTV Anime | CL
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 , Geekdot
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-id="506" tvg-name="Arirang" tvg-logo="https://cdn.m3u.cl/logo/506_Arirang.png", Arirang | KR
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
 
