@@ -183,18 +183,8 @@ https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1092" tvg-name="Planeta TV" tvg-logo="https://cdn.m3u.cl/logo/1092_Planeta_TV.png", Planeta TV | PE
 https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1014" tvg-name="PlanetaTV" tvg-logo="https://cdn.m3u.cl/logo/1014_PlanetaTV.png", PlanetaTV | CL
-https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png", Recuerdos Retro Radio TV | CL
-https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-
-
 #EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png", +Cine | CL
 https://tv.streaming-chile.com:19360/8142/8142.m3u8?PlaylistM3UCL
-
-
-
 
 
 #EXTINF:-1 tvg-id="1276" tvg-name="Horrorfy - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1276_Horrorfy___Freetv_com.png", Horrorfy - Freetv.com | US
@@ -211,9 +201,6 @@ https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1420" tvg-name="Terror TV" tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png", Terror TV | CL
 https://tv.streaming-chile.com:19360/8140/8140.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1273" tvg-name="Top Cine - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1273_Top_Cine___Freetv_com.png", Top Cine - Freetv.com | US
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1320" tvg-name="TV Prime Peliculas" tvg-logo="https://cdn.m3u.cl/logo/1320_TV_Prime_Peliculas.png", TV Prime Peliculas | CL
 https://premium.tvcontrolcp.com:19360/8062/8062.m3u8?PlaylistM3UCL
