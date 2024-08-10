@@ -292,20 +292,8 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="472" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://cdn.m3u.cl/logo/472_Mi_TV_Television_Clasica.png", Mi TV Televisión Clásica | US
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://cdn.m3u.cl/logo/486_Orbit_TV.png", Orbit TV | DO
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://cdn.m3u.cl/logo/897_Retro_Play_TV.png", Retro Play TV | CL
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="479" tvg-name="Retro TV Palmares" tvg-logo="https://cdn.m3u.cl/logo/479_Retro_TV_Palmares.png", Retro TV Palmares | CR
-http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="477" tvg-name="Telered" tvg-logo="https://cdn.m3u.cl/logo/477_Telered.png", Telered | CR
-https://video20.klm99.com:3558/live/teleredlive.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="478" tvg-name="Telesistema" tvg-logo="https://cdn.m3u.cl/logo/478_Telesistema.png", Telesistema | CR
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1420" tvg-name="Terror TV" tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png", Terror TV | CL
 https://tv.streaming-chile.com:19360/8140/8140.m3u8?PlaylistM3UCL
@@ -313,20 +301,8 @@ https://tv.streaming-chile.com:19360/8140/8140.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1273" tvg-name="Top Cine - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1273_Top_Cine___Freetv_com.png", Top Cine - Freetv.com | US
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1280" tvg-name="Tu Cine - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1280_Tu_Cine___Freetv_com.png", Tu Cine - Freetv.com | US
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="1320" tvg-name="TV Prime Peliculas" tvg-logo="https://cdn.m3u.cl/logo/1320_TV_Prime_Peliculas.png", TV Prime Peliculas | CL
 https://premium.tvcontrolcp.com:19360/8062/8062.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://cdn.m3u.cl/logo/476_WOW_TV.png", WOW TV | SV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1581" tvg-name="Cloudflare TV" tvg-logo="https://cdn.m3u.cl/logo/1581_Cloudflare_TV.png", Cloudflare TV | US
-https://cloudflare.tv/hls/live.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1247" tvg-name="Humor 24/7" tvg-logo="https://cdn.m3u.cl/logo/1247_Humor_24_7.png", Humor 24/7 | CR
-https://srv.panelcast.net/humor247/humor247/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1454" tvg-name="Platzi TV" tvg-logo="https://cdn.m3u.cl/logo/1454_Platzi_TV.png", Platzi TV | US
-https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8?PlaylistM3UCL
