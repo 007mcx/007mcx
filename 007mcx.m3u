@@ -18,8 +18,8 @@ https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1, Pandamax TV | CL
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 
-#EXTINF:-1 ,Latino Kids TV
-https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
+#EXTINF:-1 , Planeta TV | PE
+https://live.obslivestream.com/planetatv/index.m3u8
 
 #EXTINF:-1 ,TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
@@ -168,8 +168,7 @@ https://premium.tvcontrolcp.com:19360/8062/8062.m3u8
 #EXTINF:-1 tvg-id="1585" tvg-name="AniRetro" tvg-logo="https://cdn.m3u.cl/logo/1585_AniRetro.png", AniRetro | CL
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
 
-#EXTINF:-1 tvg-id="1092" tvg-name="Planeta TV" tvg-logo="https://cdn.m3u.cl/logo/1092_Planeta_TV.png", Planeta TV | PE
-https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://cdn.m3u.cl/logo/1055_Mega_Cine_TV.png", Mega Cine TV | DO
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
