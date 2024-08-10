@@ -96,9 +96,6 @@ https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Cinco TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
-#EXTINF:-1 ,Mega TV
-https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
-
 #EXTINF:-1 ,Onda Algeciras TV
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 
@@ -122,9 +119,6 @@ https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
 
 #EXTINF:-1 ,TechScience 365
 https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
-
-#EXTINF:-1 ,Telemax (XEWH-TDT)
-http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 
 #EXTINF:-1 ,The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
