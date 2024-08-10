@@ -333,24 +333,6 @@ https://stream-02.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2me2XeQ4iR2bQeoTF2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOQ7LkW.png" group-title="REGIONAL",CAM: TRC Television
 https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i4N1CVp.png" group-title="REGIONAL",CHP: Canal 10
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://canal28.tv/wp-content/uploads/2015/08/cropped-cropped-28-192x192.png" group-title="REGIONAL",CHH: Canal 28 Chihuahua
-https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CANAL 44" tvg-name="CANAL 44" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="REGIONAL",CHH: CANAL 44
-https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.canal6tv.com/favicon/android-icon-192x192.png" group-title="REGIONAL",CMX: Canal 6 Tv del Valle de Cd Mexico
-https://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eBmnWbRkKKsu3nqabm9GlX02JOj3CDNXzodJMDEN2dk3/a_4gqi2xn5hjms.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.foromedios.com/uploads/monthly_2017_04/large.58f3a89dbca56_CadenaH.png.92c316bdc55cf1f2148eac61f66b9cab.png" group-title="REGIONAL",CMX: Cadena H
-http://l3d.us:8080/MARQUEZ14/wgxs2LaSTp/10813
-
-#EXTINF:-1 tvg-logo="https://jefedejefes.files.wordpress.com/2009/04/logo_teaser.jpg" group-title="REGIONAL",CMX: Efekto TV
-https://cdn.jwplayer.com/manifests/bez1terN.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1279085519406796800/HU4loQ5e.jpg" group-title="REGIONAL",COA: NRT Mexico
 https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8
 
@@ -360,38 +342,11 @@ http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKpOCv8.png" group-title="REGIONAL",COA: RCG 1 Saltillo op2
 https://5caf24a595d94.streamlock.net:1937/8078/8078/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fKpOCv8.png" group-title="REGIONAL",COA: RCG 2 Saltillo
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fKpOCv8.png" group-title="REGIONAL",COA: RCG 3 Saltillo
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cs16OLz.png" group-title="REGIONAL",COA: Canal 4 Saltillo
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XCN0uTV.png" group-title="REGIONAL",COA: 15TV Sabinas
-https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Xleqj_FOs1k/XznWH-cfnjI/AAAAAAAA4j8/-62Imo72kWsnkrTnkF4yfysBUYstwSh0wCK8BGAsYHg/s0/2020-08-16.jpg" group-title="REGIONAL",COL: Canal 12 Colima
-https://5ca9af4645e15.streamlock.net:443/canal11/videocanal11/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zUCCiHA.png" group-title="REGIONAL",DUR: Canal 10 Durango
-http://204.12.193.98:1935/TvHD/canal10/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EgRlfG8qS6k/XzxtdI0B6vI/AAAAAAAA4pw/x3UCH8j26U4wOZjlUJMOLVC86mgg5JhOACK8BGAsYHg/s0/2020-08-18.png" group-title="REGIONAL",DUR: TV Lobo Durango
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/noticias-01.png" group-title="REGIONAL",GUA: TV Cuatro 4.1 Noticias
 https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/chunklist_w2069453657_b1428000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/cultura-01.png" group-title="REGIONAL",GUA: TV Cuatro 4.2 Cultura
-https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/cultura-01.png" group-title="REGIONAL",GUA: TV Cuatro 4.2 Cultura
-https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/chunklist_w2048905456_b3428000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/deportes-02.png" group-title="REGIONAL",GUA: TV Cuatro 4.3 Deportes
-https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bfbjgfo.png" group-title="REGIONAL",GRO: RTG Guerrero
 https://edge.hls.hitbox.tv/hls/opdirtg/index.m3u8?st=JVMxGg7_WifoL7JeIIyg5g;ci=RNAk81LG9e5MYxOLBtUbhQ
@@ -401,21 +356,6 @@ http://stream.duplika.com:1935/tvacapulco/tvacapulco/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.hidalgo.gob.mx/logo_hgo_2019.png" group-title="REGIONAL",HID: Hidalgo TV
 http://189.204.60.62/hls-live/livepkgr/_definst_/liveevent/mylivestream3.m3u8
-
-#EXTINF:-1 tvg-logo="https://quierotv.mx/imagenes/quiero.jpg"  group-title="REGIONAL",JAL: Quiero TV
-https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOiWvvEJEOV2lUlX7TGIS1DLiKoN_OF1lTDAc1dUEv1NF)/dm/3/x8452uw/s/live-4.m3u8#cell=lnyc
-
-#EXTINF:-1 tvg-logo="https://quierotv.mx/imagenes/quiero.jpg"  group-title="REGIONAL",JAL: Quiero TV
-https://www.dailymotion.com/cdn/live/video/x8452uw.m3u8?sec=3oQ5c4gq8LjFYNYFmKSckxWrMMPGPPhQEnqH_7rFdCGF6_CYEfC6gm0aEHP8igA4dqiihyvotsNFwuH89CbRcQ&dmTs=177986&dmV1st=D3C0C34CA6DBB329B6DDDCE2B3BB6737
-
-#EXTINF:-1 tvg-logo="https://quierotv.mx/imagenes/quiero.jpg"  group-title="REGIONAL",JAL: Quiero TV
-https://stream.oursnetworktv.com/latin/encoder12/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://xtitv.com/wp-content/uploads/2017/12/Logo-160-x-140.png" group-title="REGIONAL",JAL: Xti TV
-http://streamingcws10.com:1935/xtitv/videoxtitv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://rocodromo.ameyallicamp.com/wp-content/uploads/2016/04/C7.png" group-title="REGIONAL",JAL: Jalisco TV
-https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfGK8QTzI5pvouAEWwCuQn6IRbWqHY5ecuHb-w=s900-mo-c-c0xffffffff-rj-k-no" group-title="REGIONAL",JAL: C7 Cultura Jalisco
 http://streamingcws20.com:1935/c7cultura/videoc7cultura/chunklist_w1060565358.m3u8
