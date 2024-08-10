@@ -159,20 +159,11 @@ https://i.mjh.nz/PlutoTV/608035b8d8705f0007260287-alt.m3u8
 #EXTINF:-1 ,Doctor Who Pluto TV
 https://i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8
 
-#EXTINF:-1, Magic Kids | AR
-https://ssh101-fl.bozztv.com/ssh101/magic2019/index.m3u8
-
 #EXTINF:-1, Terror TV | CL
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 
 #EXTINF:-1, TV Prime Peliculas | CL
 https://premium.tvcontrolcp.com:19360/8062/8062.m3u8
-
-#EXTINF:-1 tvg-id="1513" tvg-name="Kan 11" tvg-logo="https://cdn.m3u.cl/logo/1513_Kan_11.png", Kan 11 ✪ | IL
-https://kan11.media.kan.org.il/hls/live/2024514/2024514/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1421" tvg-name="13 Kids" tvg-logo="https://cdn.m3u.cl/logo/1421_13_Kids.png", 13 Kids | CL
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?
 
 #EXTINF:-1 tvg-id="1585" tvg-name="AniRetro" tvg-logo="https://cdn.m3u.cl/logo/1585_AniRetro.png", AniRetro | CL
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
@@ -180,30 +171,11 @@ https://tv.streaming-chile.com:19360/8068/8068.m3u8
 #EXTINF:-1 tvg-id="1279" tvg-name="Chiquilines - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1279_Chiquilines___Freetv_com.png", Chiquilines - Freetv.com | US
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="1583" tvg-name="Greekz" tvg-logo="https://cdn.m3u.cl/logo/1583_Greekz.png", Greekz | CL
-https://stream.zafirehosting.com:3911/live/greekztvlive.m3u8
-
-#EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://cdn.m3u.cl/logo/1019_Latino_Kids_TV.png", Latino Kids TV | UY
-https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id="1304" tvg-name="Magic Kids" tvg-logo="https://cdn.m3u.cl/logo/1304_Magic_Kids.png", Magic Kids | AR
-https://ssh101-fl.bozztv.com/ssh101/magic2019/index.m3u8
-
 #EXTINF:-1 tvg-id="1300" tvg-name="Moni TV" tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png", Moni TV | CL
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="45" tvg-name="NTV" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png", NTV | CL
 https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="206" tvg-name="Paka Paka" tvg-logo="https://cdn.m3u.cl/logo/206_Paka_Paka.png", Paka Paka | AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1466" tvg-name="Pandamax TV" tvg-logo="https://cdn.m3u.cl/logo/1466_Pandamax_TV.png", Pandamax TV | CL
-https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="200" tvg-name="Pequeradio TV" tvg-logo="https://cdn.m3u.cl/logo/200_Pequeradio_TV.jpg", Pequeradio TV | ES
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1335" tvg-name="VariedTV" tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png", VariedTV | AR
 https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
@@ -211,20 +183,8 @@ https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", ZTV Anime | CL
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1603" tvg-name="Caras TV" tvg-logo="https://cdn.m3u.cl/logo/1603_Caras_TV.png", Caras TV | AR
-https://unlimited2-cl-isp.dps.live/carastv/carastv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1274" tvg-name="Saber Mas - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1274_Saber_Mas___Freetv_com.png", Saber Mas - Freetv.com | US
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1288" tvg-name="Suyai TV" tvg-logo="https://cdn.m3u.cl/logo/1288_Suyai_TV.png", Suyai TV | CL
-https://stream.skarnetchile.com:19360/suyaitv/suyaitv.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1445" tvg-name="Teatrix" tvg-logo="https://cdn.m3u.cl/logo/1445_Teatrix.png", Teatrix | CL
-https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1169" tvg-name="Geekdot" tvg-logo="https://cdn.m3u.cl/logo/1169_Geekdot.png", Geekdot | BR
-https://stream.ichibantv.com:3764/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 , Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="506" tvg-name="Arirang" tvg-logo="https://cdn.m3u.cl/logo/506_Arirang.png", Arirang | KR
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
