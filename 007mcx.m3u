@@ -162,26 +162,19 @@ https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:-1 , Horrorfy
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, TV Prime Peliculas | CL
+#EXTINF:-1, TV Prime Peliculas
 https://premium.tvcontrolcp.com:19360/8062/8062.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="Ani Retro" tvg-name="Ani Retro" tvg-logo="https://i.ibb.co/Np8WdpM/Logo-Ani-Retro.png" group-title="JOVENES Y ADULTOS",Ani Retro | Chile
+#EXTINF:-1,Ani Retro
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
 
-#EXTINF:-1 tvg-id="Kpop Tv Play" tvg-name="Kpop Tv Play" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="JOVENES Y ADULTOS",Kpop Tv Play | Brasil
+#EXTINF:-1 ,Kpop Tv Play
 https://fl1001.bozztv.com/ssh101/kpoptv/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-name="Max Anime" tvg-id="" tvg-logo="https://i.imgur.com/aiCirDm.png" group-title="JOVENES Y ADULTOS",Max Anime | Argentina
+#EXTINF:-1 ,Max Anime
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="Toonami Tv" tvg-name="Toonami Tv" tvg-logo="https://imgur.com/UJwhZfS.jpg" group-title="JOVENES Y ADULTOS",Toonami Tv | ND
+#EXTINF:-1 ,Toonami Tv
 https://fl1001.bozztv.com/ssh101/toonamitv/playlist.m3u8
 
 
@@ -288,9 +281,6 @@ https://jmp2.uk/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8
 #EXTINF:-1 channel-id="pluto-645d1abbe1979c0008779d5a" tvg-id="645d1abbe1979c0008779d5a" tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png" tvg-chno="552" group-title="Pluto Mexico" , Archivos Extraterrestres
 https://jmp2.uk/PlutoTV/645d1abbe1979c0008779d5a-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5de5758e1a30dc00094fcd6c" tvg-id="5de5758e1a30dc00094fcd6c" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" tvg-chno="563" group-title="Pluto Mexico" , Pluto TV Historia
-https://jmp2.uk/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
-
 #EXTINF:-1 channel-id="pluto-5dd8364ea1d6780009929902" tvg-id="5dd8364ea1d6780009929902" tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" tvg-chno="572" group-title="Pluto Mexico" , Pluto TV Ciencia
 https://jmp2.uk/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
 
@@ -311,9 +301,6 @@ https://jmp2.uk/PlutoTV/5ea71d48af1d0b0007d837f4-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f610042272f68000867685b" tvg-id="5f610042272f68000867685b" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" tvg-chno="601" group-title="Pluto Mexico" , Misterios sin Resolver
 https://jmp2.uk/PlutoTV/5f610042272f68000867685b-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-62310d5a5dc9550007c6f580" tvg-id="62310d5a5dc9550007c6f580" tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG.png" tvg-chno="677" group-title="Pluto Mexico" , CBS News
-https://jmp2.uk/PlutoTV/62310d5a5dc9550007c6f580-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-646ccd3681844c000974d6f4" tvg-id="646ccd3681844c000974d6f4" tvg-logo="https://images.pluto.tv/channels/646ccd3681844c000974d6f4/colorLogoPNG.png" tvg-chno="703" group-title="Pluto Mexico" , ADN40
 https://jmp2.uk/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
@@ -424,32 +411,32 @@ https://jmp2.uk/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
 
 
 
-#EXTINF:-1 channel-id="samsung-USBD7000017L" tvg-id="USBD7000017L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000017L_20240520T212739SQUARE.png" tvg-chno="3809" group-title="Samsung Latino" , AMC en Español
+#EXTINF:-1 , AMC en Español
 https://jmp2.uk/SamsungTVPlus/USBD7000017L.m3u8
 
-#EXTINF:-1 channel-id="samsung-USAJ3504719A" tvg-id="USAJ3504719A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504719A_20240520T212555SQUARE.png" tvg-chno="3890" group-title="Samsung Latino" , Sony Canal Competencias
+#EXTINF:-1  , Sony Canal Competencias
 https://jmp2.uk/SamsungTVPlus/USAJ3504719A.m3u8
 
-#EXTINF:-1 channel-id="samsung-USAJ22000057N" tvg-id="USAJ22000057N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ22000057N_20240520T212553SQUARE.png" tvg-chno="3892" group-title="Samsung Latino" , Sony Canal Comedias
+#EXTINF:-1  , Sony Canal Comedias
 https://jmp2.uk/SamsungTVPlus/USAJ22000057N.m3u8
 
 #EXTINF:-1 channel-id="samsung-ESAJ4500016BH" tvg-id="ESAJ4500016BH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500016BH_20230222T012037SQUARE.png_20230222012037.png" tvg-chno="4122" group-title="Samsung Spain" , The Pet Collective
 https://jmp2.uk/SamsungTVPlus/ESAJ4500016BH.m3u8
 
-#EXTINF:-1 channel-id="samsung-ESBC3900001G6" tvg-id="ESBC3900001G6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900001G6_20221012T021030SQUARE.png_20221012021030.png" tvg-chno="4123" group-title="Samsung Spain" , Vivir con Perros
+#EXTINF:-1 , Vivir con Perros
 https://jmp2.uk/SamsungTVPlus/ESBC3900001G6.m3u8
 
-#EXTINF:-1 channel-id="samsung-ESBC3900002L8" tvg-id="ESBC3900002L8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900002L8_20221012T021029SQUARE.png_20221012021029.png" tvg-chno="4124" group-title="Samsung Spain" , Vivir con Gatos
+#EXTINF:-1 , Vivir con Gatos
 https://jmp2.uk/SamsungTVPlus/ESBC3900002L8.m3u8
 
-#EXTINF:-1 group-title="MEXICO2" tvg-id="Azteca7.mx",Azteca 7 (720p) [Geo-blocked]
+#EXTINF:-1 ,Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-#EXTINF:-1 group-title="MEXICO2" tvg-id="AztecaInternacional.mx",Azteca Internacional (1080p)
+#EXTINF:-1 ,Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 group-title="MEXICO2" tvg-id="AztecaUno.mx",Azteca Uno (720p) [Geo-blocked]
+#EXTINF:-1 ,Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="MULTIMEDIOSTV.mx" tvg-logo="https://i.imgur.com/M3RpKt3.png"group-title="MEXICO",6.1 Canal 6
+#EXTINF:-1 ,Canal 6
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
