@@ -9,6 +9,12 @@ https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CtQE6r6ku4gpt2hL2LLePSdtUAY
 #EXTINF:-1 ,Classic Channel
 https://paneltv.online:1936/8046/8046/playlist.m3u8
 
+#EXTINF:-1 group-title="MEXICO2" tvg-id="ZAZ.mx",ZAZ
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="TV PREMIUM",Tooncast HD
+http://45.181.122.13:8000/play/016
+
 #EXTINF:-1, Locomotion | AR
 http://51.222.85.85:81/hls/loco/index.m3u8
 
@@ -200,7 +206,14 @@ https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 #EXTINF:-1 tvg-id="Toonami Tv" tvg-name="Toonami Tv" tvg-logo="https://imgur.com/UJwhZfS.jpg" group-title="JOVENES Y ADULTOS",Toonami Tv | ND
 https://fl1001.bozztv.com/ssh101/toonamitv/playlist.m3u8
 
+#EXTINF:-1 group-title="MEXICO2" tvg-id="Azteca7.mx",Azteca 7 (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
+#EXTINF:-1 group-title="MEXICO2" tvg-id="AztecaInternacional.mx",Azteca Internacional (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+#EXTINF:-1 group-title="MEXICO2" tvg-id="AztecaUno.mx",Azteca Uno (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 
 #EXTINF:-1 channel-id="pluto-5dcde437229eff00091b6c30" tvg-id="5dcde437229eff00091b6c30" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" tvg-chno="18" group-title="Pluto Mexico" , Pluto TV Cine Estelar
@@ -1336,24 +1349,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009
 #EXTINF:-1 channel-id="samsung-USBD7000017L" tvg-id="USBD7000017L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000017L_20240520T212739SQUARE.png" tvg-chno="3809" group-title="Samsung Latino" , AMC en Español
 https://jmp2.uk/SamsungTVPlus/USBD7000017L.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBD1700016X9" tvg-id="USBD1700016X9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20240520T212951SQUARE.png" tvg-chno="3820" group-title="Samsung Latino" , Zona TUDN
-https://jmp2.uk/SamsungTVPlus/USBD1700016X9.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC4400020H7" tvg-id="USBC4400020H7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400020H7_20240520T212815SQUARE.png" tvg-chno="3840" group-title="Samsung Latino" , Telemundo California
-https://jmp2.uk/SamsungTVPlus/USBC4400020H7.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3200016HO" tvg-id="USBB3200016HO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200016HO_20240520T212635SQUARE.png" tvg-chno="3850" group-title="Samsung Latino" , Telemundo Al Día
-https://jmp2.uk/SamsungTVPlus/USBB3200016HO.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300040WR" tvg-id="USBA300040WR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300040WR_20240520T212527SQUARE.png" tvg-chno="3870" group-title="Samsung Latino" , Estrella TV
-https://jmp2.uk/SamsungTVPlus/USBA300040WR.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ2200020N4" tvg-id="USAJ2200020N4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200020N4_20240520T212525SQUARE.png" tvg-chno="3872" group-title="Samsung Latino" , Estrella News
-https://jmp2.uk/SamsungTVPlus/USAJ2200020N4.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC24000145I" tvg-id="USBC24000145I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000145I_20240520T212753SQUARE.png" tvg-chno="3874" group-title="Samsung Latino" , Estrella Games
-https://jmp2.uk/SamsungTVPlus/USBC24000145I.m3u8
-
 #EXTINF:-1 channel-id="samsung-USAJ3504719A" tvg-id="USAJ3504719A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504719A_20240520T212555SQUARE.png" tvg-chno="3890" group-title="Samsung Latino" , Sony Canal Competencias
 https://jmp2.uk/SamsungTVPlus/USAJ3504719A.m3u8
 
@@ -1366,87 +1361,8 @@ https://jmp2.uk/SamsungTVPlus/USAJ3000002OC.m3u8
 #EXTINF:-1 channel-id="samsung-USBC39000080S" tvg-id="USBC39000080S" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000080S_20240520T212744SQUARE.png" tvg-chno="3900" group-title="Samsung Latino" , Canela.TV
 https://jmp2.uk/SamsungTVPlus/USBC39000080S.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBB44000099N" tvg-id="USBB44000099N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB44000099N_20240520T212704SQUARE.png" tvg-chno="3930" group-title="Samsung Latino" , ViX Novelas de romance
-https://jmp2.uk/SamsungTVPlus/USBB44000099N.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD17000172A" tvg-id="USBD17000172A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000172A_20240625T011318SQUARE.png" tvg-chno="3935" group-title="Samsung Latino" , Las 3 Marías
-https://jmp2.uk/SamsungTVPlus/USBD17000172A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC2100012EJ" tvg-id="USBC2100012EJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100012EJ_20240520T212920SQUARE.png" tvg-chno="3940" group-title="Samsung Latino" , ViX Grandes Parejas
-https://jmp2.uk/SamsungTVPlus/USBC2100012EJ.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC2100011WI" tvg-id="USBC2100011WI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100011WI_20240528T020906SQUARE.png" tvg-chno="3945" group-title="Samsung Latino" , ViX Villanos de Novela
-https://jmp2.uk/SamsungTVPlus/USBC2100011WI.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC2100010OS" tvg-id="USBC2100010OS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100010OS_20240520T212922SQUARE.png" tvg-chno="3950" group-title="Samsung Latino" , ViX JaJaJa
-https://jmp2.uk/SamsungTVPlus/USBC2100010OS.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1700018II" tvg-id="USBD1700018II" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700018II_20240520T212811SQUARE.png" tvg-chno="3955" group-title="Samsung Latino" , Rebelde
-https://jmp2.uk/SamsungTVPlus/USBD1700018II.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD2700002DU" tvg-id="USBD2700002DU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700002DU_20240528T020915SQUARE.png" tvg-chno="3960" group-title="Samsung Latino" , Galanes
-https://jmp2.uk/SamsungTVPlus/USBD2700002DU.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD2500022U5" tvg-id="USBD2500022U5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500022U5_20240520T212746SQUARE.png" tvg-chno="3965" group-title="Samsung Latino" , Cine Retro
-https://jmp2.uk/SamsungTVPlus/USBD2500022U5.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD2700005KL" tvg-id="USBD2700005KL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700005KL_20240625T011323SQUARE.png" tvg-chno="3970" group-title="Samsung Latino" , Cine de Oro
-https://jmp2.uk/SamsungTVPlus/USBD2700005KL.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD2700004ME" tvg-id="USBD2700004ME" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700004ME_20240528T020913SQUARE.png" tvg-chno="3975" group-title="Samsung Latino" , Como Dice el Dicho
-https://jmp2.uk/SamsungTVPlus/USBD2700004ME.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD2700003F3" tvg-id="USBD2700003F3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700003F3_20240520T212807SQUARE.png" tvg-chno="3980" group-title="Samsung Latino" , Pequenos Gigantes
-https://jmp2.uk/SamsungTVPlus/USBD2700003F3.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1700015J1" tvg-id="USBD1700015J1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700015J1_20240528T020910SQUARE.png" tvg-chno="3985" group-title="Samsung Latino" , Aquí y Ahora
-https://jmp2.uk/SamsungTVPlus/USBD1700015J1.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1700014QU" tvg-id="USBD1700014QU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700014QU_20240520T212804SQUARE.png" tvg-chno="3987" group-title="Samsung Latino" , Noticias Univision 24/7
-https://jmp2.uk/SamsungTVPlus/USBD1700014QU.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3800001E0" tvg-id="USBA3800001E0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800001E0_20240520T212517SQUARE.png" tvg-chno="3990" group-title="Samsung Latino" , Cine Romantico
-https://jmp2.uk/SamsungTVPlus/USBA3800001E0.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ1700009QJ" tvg-id="USAJ1700009QJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ1700009QJ_20240520T212534SQUARE.png" tvg-chno="3993" group-title="Samsung Latino" , FreeTV Estelar
-https://jmp2.uk/SamsungTVPlus/USAJ1700009QJ.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3300007PB" tvg-id="USBD3300007PB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20240520T212941SQUARE.png" tvg-chno="4338" group-title="Samsung Latino" , XITE Nuevo Latino
-https://jmp2.uk/SamsungTVPlus/USBD3300007PB.m3u8
-
-
-#EXTINF:-1 channel-id="samsung-ESBC4100001NZ" tvg-id="ESBC4100001NZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20240611T061840SQUARE.png" tvg-chno="4001" group-title="Samsung Spain" , La 1
-https://jmp2.uk/SamsungTVPlus/ESBC4100001NZ.m3u8
-
-#EXTINF:-1 channel-id="samsung-ES400002P5" tvg-id="ES400002P5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20240611T061836SQUARE.png" tvg-chno="4002" group-title="Samsung Spain" , Cuéntame cómo pasó
-https://jmp2.uk/SamsungTVPlus/ES400002P5.m3u8
-
-#EXTINF:-1 channel-id="samsung-ESAJ4500024LR" tvg-id="ESAJ4500024LR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500024LR_20230222T012038SQUARE.png_20230222012039.png" tvg-chno="4003" group-title="Samsung Spain" , Euronews en directo
-https://jmp2.uk/SamsungTVPlus/ESAJ4500024LR.m3u8
-
-#EXTINF:-1 channel-id="samsung-ESAJ2900003ND" tvg-id="ESAJ2900003ND" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900003ND_20240117T032717SQUARE.png_20240117032717.png" tvg-chno="4004" group-title="Samsung Spain" , Estilo y Vida – Rakuten TV
-https://jmp2.uk/SamsungTVPlus/ESAJ2900003ND.m3u8
-
-#EXTINF:-1 channel-id="samsung-ESBC410000577" tvg-id="ESBC410000577" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20240611T061853SQUARE.png" tvg-chno="4005" group-title="Samsung Spain" , Teledeporte
-https://jmp2.uk/SamsungTVPlus/ESBC410000577.m3u8
-
-#EXTINF:-1 channel-id="samsung-ES700004C8" tvg-id="ES700004C8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20240611T061846SQUARE.png" tvg-chno="4006" group-title="Samsung Spain" , Runtime Familia
-https://jmp2.uk/SamsungTVPlus/ES700004C8.m3u8
-
-#EXTINF:-1 channel-id="samsung-ESBC4100002AG" tvg-id="ESBC4100002AG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20221109T010944SQUARE.png_20221109010944.png" tvg-chno="4105" group-title="Samsung Spain" , La 2
-https://jmp2.uk/SamsungTVPlus/ESBC4100002AG.m3u8
-
-#EXTINF:-1 channel-id="samsung-ESBD3000002GP" tvg-id="ESBD3000002GP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20240611T061832SQUARE.png" tvg-chno="4107" group-title="Samsung Spain" , Canal Sur Andalucía
-https://jmp2.uk/SamsungTVPlus/ESBD3000002GP.m3u8
-
 #EXTINF:-1 channel-id="samsung-ESBD1300004IG" tvg-id="ESBD1300004IG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300004IG_20231115T012149SQUARE.png_20231115012149.png" tvg-chno="4108" group-title="Samsung Spain" , Azteca Internacional
 https://jmp2.uk/SamsungTVPlus/ESBD1300004IG.m3u8
-
-
-https://jmp2.uk/SamsungTVPlus/ESAJ4500023Y5.m3u8
-
-#EXTINF:-1 channel-id="samsung-ESBA3300033PL" tvg-id="ESBA3300033PL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300033PL_20221109T010939SQUARE.png_20221109010939.png" tvg-chno="4121" group-title="Samsung Spain" , Encantador de Perros
-https://jmp2.uk/SamsungTVPlus/ESBA3300033PL.m3u8
 
 #EXTINF:-1 channel-id="samsung-ESAJ4500016BH" tvg-id="ESAJ4500016BH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500016BH_20230222T012037SQUARE.png_20230222012037.png" tvg-chno="4122" group-title="Samsung Spain" , The Pet Collective
 https://jmp2.uk/SamsungTVPlus/ESAJ4500016BH.m3u8
@@ -1456,185 +1372,3 @@ https://jmp2.uk/SamsungTVPlus/ESBC3900001G6.m3u8
 
 #EXTINF:-1 channel-id="samsung-ESBC3900002L8" tvg-id="ESBC3900002L8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900002L8_20221012T021029SQUARE.png_20221012021029.png" tvg-chno="4124" group-title="Samsung Spain" , Vivir con Gatos
 https://jmp2.uk/SamsungTVPlus/ESBC3900002L8.m3u8
-
-
-
-
-#EXTINF:-1 channel-id="samsung-ESBD800001RJ" tvg-id="ESBD800001RJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20240507T094205SQUARE.png" tvg-chno="4980" group-title="Samsung Spain" , Cine Friki
-https://jmp2.uk/SamsungTVPlus/ESBD800001RJ.m3u8
-
-
-#EXTINF:-1 group-title="MEXICO2" tvg-id="AMXNoticias.mx",AMX Noticias (720p) [Not 24/7]
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO2" tvg-id="AntenaTV.mx",Antena TV (1080p)
-https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO2" tvg-id="APlus.mx",A+ (480p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 group-title="MEXICO2" tvg-id="AsiSucedeGuanajuato.mx",Así Sucede Guanajuato (720p) [Not 24/7]
-https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO2" tvg-id="Azteca7.mx",Azteca 7 (720p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 group-title="MEXICO2" tvg-id="AztecaInternacional.mx",Azteca Internacional (1080p)
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 group-title="MEXICO2" tvg-id="AztecaUno.mx",Azteca Uno (720p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-
-
-#EXTINF:-1 group-title="MEXICO2" tvg-id="Canal5.mx",Canal 5 (1080p)
-https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-
-#EXTINF:-1 group-title="MEXICO2" tvg-id="Canal5.mx",Canal 5 (1080p)
-https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="MEXICO2" tvg-id="Canal13Campeche.mx",Canal 13 Campeche (720p) [Not 24/7]
-https://dbdfj5y8nz2u4.cloudfront.net/c13campeche/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-
-
-
-
-#EXTINF:-1 group-title="MEXICO2" tvg-id="DePeliculaLatinAmerica.mx",De Película (576p)
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO2" tvg-id="DePeliculaPlus.mx",De Película Plus (576p)
-https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="MEXICO2" tvg-id="DistritoComedia.mx",Distrito Comedia (576p)
-https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="MEXICO2" tvg-id="TelemarCampeche.mx",Telemar Campeche (720p) [Not 24/7]
-https://5e50264bd6766.streamlock.net/telemarcampeche/videotelemarcampeche/playlist.m3u8
-
-#EXTINF:-1 group-title="MEXICO2" tvg-id="TRCTV.mx",TRC Televisión (720p)
-https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="MEXICO2" tvg-id="ZAZ.mx",ZAZ
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="TV PREMIUM",Tooncast HD
-http://45.181.122.13:8000/play/016
-
-
-
-
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula.png",De Pelicula Clasico | Mexico
-http://bgtv.xyz/player/play-400.php?lam=0021&token=asdfasdf|user-agent=CCCCC
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula.png",De Pelicula Clasico op2 | Mexico
-http://bgtv.xyz/player/play-400.php?lam=0021&token=asdfasdf
-#EXTINF:-1 group-title="TV PREMIUM",Uno
-http://181.78.105.146:2000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",LAS ESTRELLAS
-http://181.78.105.146:2000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Imagen
-http://181.78.105.146:2000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Cinco
-http://181.78.105.146:2000/play/a038/index.m3u8
-
-#EXTINF:-1 group-title="TV PREMIUM",Universal
-http://181.78.105.146:2000/play/a03d/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",SONY
-http://181.78.105.146:2000/play/a002/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",WB
-http://181.78.105.146:2000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",TNTSE
-http://181.78.105.146:2000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",AXN
-http://181.78.105.146:2000/play/a05y/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",FX
-http://181.78.105.146:2000/play/a05z/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Space MX
-http://181.78.105.146:2000/play/a04x/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",A&E
-http://181.78.105.146:2000/play/a03f/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Investigation Discovery La
-http://181.78.105.146:2000/play/a04y/index.m3u8
-
-#EXTINF:-1 group-title="TV PREMIUM",ComedyC
-http://181.78.105.146:2000/play/a04a/index.m3u8
-
-#EXTINF:-1 group-title="TV PREMIUM",DisneyJR
-http://181.78.105.146:2000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",NICKELODEON
-http://181.78.105.146:2000/play/a014/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",CartoonNetwork
-http://181.78.105.146:2000/play/a03k/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Discovery kids
-http://181.78.105.146:2000/play/a015/index.m3u8
-
-
-#EXTINF:-1 group-title="TV PREMIUM",Discovery
-http://181.78.105.146:2000/play/a03x/index.m3u8
-
-#EXTINF:-1 group-title="TV PREMIUM",History
-http://181.78.105.146:2000/play/a017/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",History2
-http://181.78.105.146:2000/play/a00v/index.m3u8
-
-#EXTINF:-1 group-title="TV PREMIUM",TNT
-http://181.78.105.146:2000/play/a018/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",MC
-http://181.78.105.146:2000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",CineCanal O
-http://181.78.105.146:2000/play/a04q/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Film&Arts
-http://181.78.105.146:2000/play/a08i/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",StudioUniversal
-http://181.78.105.146:2000/play/a04o/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Paramount
-http://181.78.105.146:2000/play/a01s/index.m3u8
-
-#EXTINF:-1 group-title="TV PREMIUM",Azteca 7
-http://181.78.105.146:2000/play/a08z/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Telemundo USA
-http://181.78.105.146:2000/play/a093/index.m3u8
-
-#EXTINF:-1 group-title="TV PREMIUM",UNICABLE
-http://181.78.105.146:2000/play/a08f/index.m3u8
-
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s.png",A&E HD
-http://177.53.153.20:8001/play/a01s/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a039.png",AMC HD
-http://177.53.153.20:8001/play/a039/index.m3u8
-
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02g.png",ATRES SERIES HD
-http://177.53.153.20:8001/play/a02g/index.m3u8
-HD
-http://177.53.153.20:8001/play/a020/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02i.png",Comedy Central HD
-http://177.53.153.20:8001/play/a02i/index.m3u8
-
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02p.png",Discovery H&H HD
-http://177.53.153.20:8001/play/a02p/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02q.png",Discovery Theater HD
-http://177.53.153.20:8001/play/a02q/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a037.png",Discovery World HD
-http://177.53.153.20:8001/play/a037/index.m3u8
-
-http://177.53.153.20:8001/play/a03t/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0dn.png",HBO 2 HD
-http://177.53.153.20:8001/play/a0dn/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a04g.png",HBO Family HD
-http://177.53.153.20:8001/play/a04g/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03b.png",HBO HD
-http://177.53.153.20:8001/play/a03b/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01y.png",HBO POP HD
-http://177.53.153.20:8001/play/a01y/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0dc.png",HBO XTREME HD
-http://177.53.153.20:8001/play/a0dc/index.m3u8
-
-
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a023.png",Nick HD
-http://177.53.153.20:8001/play/a023/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03e.png",Paramount HD
-http://177.53.153.20:8001/play/a03e/index.m3u8
-
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01p.png",Sextreme
-http://177.53.153.20:8001/play/a01p/index.m3u8
-
-#EXTINF:-1 group-title="TV PREMIUM" tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02y.png",TNT Series HD
-http://177.53.153.20:8001/play/a02y/index.m3u8
-#EXTINF:-1 group-title="
