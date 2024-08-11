@@ -177,8 +177,6 @@ https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 #EXTINF:-1 ,Toonami Tv
 https://fl1001.bozztv.com/ssh101/toonamitv/playlist.m3u8
 
-
-
 #EXTINF:-1 , Pluto TV Cine Estelar
 https://jmp2.uk/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
 
@@ -238,12 +236,6 @@ https://jmp2.uk/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 
 #EXTINF:-1  , MTV Catfish
 https://jmp2.uk/PlutoTV/625461ef01f27a0007976ad1-alt.m3u8
-
-#EXTINF:-1  , Pluto TV  Competencias
-https://jmp2.uk/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
-
-#EXTINF:-1  , Desafío Super Humanos
-https://jmp2.uk/PlutoTV/6495af324c014a000842e923-alt.m3u8
 
 #EXTINF:-1  , Pluto TV Animales
 https://jmp2.uk/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
@@ -341,8 +333,7 @@ https://jmp2.uk/PlutoTV/5ff3934600d4c7000733ff49-alt.m3u8
 #EXTINF:-1  , Nick Teen
 https://jmp2.uk/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
 
-#EXTINF:-1 
-, iCarly
+#EXTINF:-1 , iCarly
 https://jmp2.uk/PlutoTV/620ff0a01f9e8700076c6f9d-alt.m3u8
 
 #EXTINF:-1  , Kenan y Kel
