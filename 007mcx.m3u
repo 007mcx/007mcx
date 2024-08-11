@@ -9,7 +9,7 @@ https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CtQE6r6ku4gpt2hL2LLePSdtUAY
 #EXTINF:-1 ,Classic Channel
 https://paneltv.online:1936/8046/8046/playlist.m3u8
 
-#EXTINF:-1 group-title="MEXICO2" tvg-id="ZAZ.mx",ZAZ
+#EXTINF:-1 ,ZAZ
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
 #EXTINF:-1 ,Tooncast HD
@@ -132,6 +132,19 @@ https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
 #EXTINF:-1 ,The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1  , The Pet Collective
+https://jmp2.uk/SamsungTVPlus/ESAJ4500016BH.m3u8
+
+#EXTINF:-1  , The Pet Collective
+https://jmp2.uk/PlutoTV/5ebacbcae43a6d000787b88e-alt.m3u8
+
+#EXTINF:-1 , Vivir con Perros
+https://jmp2.uk/SamsungTVPlus/ESBC3900001G6.m3u8
+
+#EXTINF:-1 , Vivir con Gatos
+https://jmp2.uk/SamsungTVPlus/ESBC3900002L8.m3u8
+
+
 #EXTINF:-1 ,Tele 2 Web
 https://inliveserver.com:1936/11516/11516/playlist.m3u8
 
@@ -237,9 +250,6 @@ https://jmp2.uk/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 #EXTINF:-1  , MTV Catfish
 https://jmp2.uk/PlutoTV/625461ef01f27a0007976ad1-alt.m3u8
 
-#EXTINF:-1  , Pluto TV Animales
-https://jmp2.uk/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
-
 #EXTINF:-1  , El Encantador de Perros
 https://jmp2.uk/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
 
@@ -291,8 +301,7 @@ https://jmp2.uk/PlutoTV/64df7a9a44fe100009b6ac5a-alt.m3u8
 #EXTINF:-1  , PFL MMA
 https://jmp2.uk/PlutoTV/64f6163a30ab3300083d870e-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5ebacbcae43a6d000787b88e" tvg-id="5ebacbcae43a6d000787b88e" tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" tvg-chno="1014" group-title="Pluto Mexico" , The Pet Collective
-https://jmp2.uk/PlutoTV/5ebacbcae43a6d000787b88e-alt.m3u8
+
 
 #EXTINF:-1  , Pluto TV Anime
 https://jmp2.uk/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
@@ -342,7 +351,7 @@ https://jmp2.uk/PlutoTV/5fcea93ffcf94500071c4b2f-alt.m3u8
 #EXTINF:-1  , Pluto TV Teen
 https://jmp2.uk/PlutoTV/5dd6de52b9914200091f047a-alt.m3u8
 
-#EXTINF:-1  , PAW Patrol Patrulla de Cachorros
+#EXTINF:-1  , PAW Patrol
 https://jmp2.uk/PlutoTV/6495c6ad115d060008bf6b52-alt.m3u8
 
 #EXTINF:-1  , Las Pistas de Blue
@@ -372,14 +381,7 @@ https://jmp2.uk/SamsungTVPlus/USAJ3504719A.m3u8
 #EXTINF:-1  , Sony Canal Comedias
 https://jmp2.uk/SamsungTVPlus/USAJ22000057N.m3u8
 
-#EXTINF:-1  , The Pet Collective
-https://jmp2.uk/SamsungTVPlus/ESAJ4500016BH.m3u8
 
-#EXTINF:-1 , Vivir con Perros
-https://jmp2.uk/SamsungTVPlus/ESBC3900001G6.m3u8
-
-#EXTINF:-1 , Vivir con Gatos
-https://jmp2.uk/SamsungTVPlus/ESBC3900002L8.m3u8
 
 #EXTINF:-1 ,Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
