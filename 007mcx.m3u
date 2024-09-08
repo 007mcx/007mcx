@@ -1,16 +1,16 @@
  #EXTM3U
 
-#EXTINF:-1 ,Dreiko TV
-https://cloudvideo.servers10.com:8081/8138/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N1NNgs5/Logo-Dreiko-TV.png" group-title="Familiares",Dreiko TV
+https://cloudvideo.servers10.com:8081/8096/playlist.m3u8
 
-#EXTINF:-1 ,Retro Magico
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CtQE6r6ku4gpt2hL2LLePSdtUAYk49LvwE_Ofn9VeYy7x6yDk08B_p1mgDKtthsreaiDrl1Zgh04IJbzHEorKKhLrziHZRX6iIA8kVe9OO9k0n7woly5HsV7vnYMWjSpS9ovCkJmZWd3Mv0MzVX6uUSY5ufrn23Pv4gAFVffkCBOfWanBl6eN3eavvuBYiMdDrU37T83TcbeZYbGw4kwxZg-3vOYilrCluW4O9Sflu6CcGfRJthdsbbSkJ1_IE6tF4pfcyzE0-9Tj5iB-kNfjAVWAfTxRQub-OxdAgoa_99GXIdAV0In5B5QKUmzV_aYa9qwPoM8Huaewc9gtczrOg2vNUCZt7n1CkchJSd5fs-eJO6fLi5CmFl3F1niHTA5s2CwAvl642bo7UUrG8yhSF6uY-y7GsfcXfERZcaIv9kaIRylBSflhcx9ua-aTpqYgZuU4gXLDh7fe5zJspBp3638gzzEkFPL7IrcYfs60StuQ5hWTwJg2OOMuAWeXAqRiYtmPqfWIH88a1G0w6yxa56aBOa8G9mYutxTWVxmk3bHs7AHtXpPll72dZ3JrYt_DSw_AtsVjTbFMywZ4xOiArpysCmKp8vliW09Cm-ZpxLT0APx24StaZy2MXtjPMy26v8AFwWudcHqPh95wPWoEB1o1dG_PDS7D6y0ETHZ76tLx3UBOGRarhL1CAPRXnPwzD51nlLj9_2cArzBnZMyk9NJ9CvygboX0zXoQXJpQWCC2u6kMJe_MLynUF-Ud55GfoSqolATtkQLIGo6IBQVlFpKZ7Guyf4aDDBJBSxOnYClMBtc_iABKgl1cy1lYXN0LTIwjAo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fXKF932/Logo-Retro-Magico.png" group-title="Familiares",Retro Magico
+https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 
 #EXTINF:-1 ,Classic Channel
 https://paneltv.online:1936/8046/8046/playlist.m3u8
 
-#EXTINF:-1 ,ZAZ
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sFwwMyt/logo-Zaz-TV.png" group-title="Familiares",Zaz TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2369
 
 #EXTINF:-1 ,Tooncast HD
 http://45.181.122.13:8000/play/016
@@ -204,12 +204,6 @@ https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 #EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="JOVENES Y ADULTOS",Etc TV
 http://45.160.12.253:8000/play/007
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N1NNgs5/Logo-Dreiko-TV.png" group-title="Familiares",Dreiko TV
-https://cloudvideo.servers10.com:8081/8096/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fXKF932/Logo-Retro-Magico.png" group-title="Familiares",Retro Magico
-https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Big TV" tvg-name="Big TV" tvg-logo="https://i.ibb.co/MBqjnP4/logo-Big-TV.png" group-title="Familiares",Big TV
 https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
 
@@ -218,6 +212,7 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Np8WdpM/Logo-Ani-Retro.png" group-title="Familiares",Ani Retro
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cLbZwwK/Logo-Toonz-Kids.png" group-title="Familiares",Toonz Kids
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
 
@@ -230,9 +225,6 @@ https://mitv.zplay.cl/Zkids/video.m3u8?token=D4lm1R0m-tFJES
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TvH9gvB/Logo-Pitufo-TV.png" group-title="Familiares",Pitufo TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sFwwMyt/logo-Zaz-TV.png" group-title="Familiares",Zaz TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2369
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ht40z3D/logo-Channel-Max-Cartoon.jpg" group-title="Familiares",Channel Max Cartoon
 https://ssh101-fl.bozztv.com/ssh101/visionamerica/playlist.m3u8
@@ -288,17 +280,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV TokuSato" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV TokuSato
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-id="667" tvg-name="Multimedios CDMX" tvg-logo="https://cdn.m3u.cl/logo/667_Multimedios_CDMX.png", Multimedios CDMX | MX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
 #EXTINF:-1 tvg-id="658" tvg-name="ADN 40" tvg-logo="https://cdn.m3u.cl/logo/658_ADN_40.png", ADN 40 | MX
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="659" tvg-name="Canal 10 Cancun" tvg-logo="https://cdn.m3u.cl/logo/659_Canal_10_Cancun.png", Canal 10 Cancun | MX
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="652" tvg-name="Mexiquense TV" tvg-logo="https://cdn.m3u.cl/logo/652_Mexiquense_TV.png", Mexiquense TV | MX
-https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8
-
-#EXTINF:-1 tvg-id="667" tvg-name="Multimedios CDMX" tvg-logo="https://cdn.m3u.cl/logo/667_Multimedios_CDMX.png", Multimedios CDMX | MX
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
 #EXTINF:-1 tvg-id="683" tvg-name="TRC TV Campeche" tvg-logo="https://cdn.m3u.cl/logo/683_TRC_TV_Campeche.png", TRC TV Campeche | MX
 https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
