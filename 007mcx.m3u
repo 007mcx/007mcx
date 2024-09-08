@@ -231,35 +231,11 @@ http://45.160.12.253:8000/play/007
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N1NNgs5/Logo-Dreiko-TV.png" group-title="Familiares",Dreiko TV
 https://cloudvideo.servers10.com:8081/8096/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9ws93wN/logo-Magic-Kids-TV.png" group-title="Familiares",Magic Kids TV HD
-https://ssh101.bozztv.com/ssh101/magic2019/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fF03ZRC/Logo-Magic-Kids.png" group-title="Familiares",Magic
-https://magicstream.ddns.net/magicstream/stream.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fXKF932/Logo-Retro-Magico.png" group-title="Familiares",Retro Magico
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bN8f137/Logo-El-Magic-TV.png" group-title="Familiares",El Magic TV
-https://kali1.everestcast.com:3600/stream/play.m3u8
-
 #EXTINF:-1 tvg-id="Big TV" tvg-name="Big TV" tvg-logo="https://i.ibb.co/MBqjnP4/logo-Big-TV.png" group-title="Familiares",Big TV
 https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png" group-title="Familiares",Planeta Junior TV HD
-https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nbprpqk/Logo-Plenitud-TV.jpg" group-title="Familiares",Plenitud TV HD
-https://ssh101.bozztv.com/ssh101/testvideo40/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NCXZr58/Logo-Volviendo-TV.jpg" group-title="Familiares",Volviendo TV HD
-https://xhateaec.com:8800/hls/VOLVIENDOTV/VOLVIENDOTV/fd719e0731f3850be7114c13ab56fb0e/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gF5gsdH/Logo-Red-TV.jpg" group-title="Familiares",Red TV HD
-https://ssh101.bozztv.com/ssh101/testvideo50/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BGwcmQT/Logo-FUNtv.png" group-title="Familiares",FUNtv
-https://ssh101-fl.bozztv.com/ssh101/funtvretro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wYbrT2X/Logo-Extrema-TV-Kids.png" group-title="Familiares",Extrema TV Kids
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
@@ -276,17 +252,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 https://mitv.zplay.cl/Zkids/video.m3u8?token=D4lm1R0m-tFJES
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mFkXy5h/logo-Latino-Kids-TV.png" group-title="Familiares",Latino Kids TV
-https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TvH9gvB/Logo-Pitufo-TV.png" group-title="Familiares",Pitufo TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sFwwMyt/logo-Zaz-TV.png" group-title="Familiares",Zaz TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2369
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sFwwMyt/logo-Zaz-TV.png" group-title="Familiares",Zaz TV 2
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ht40z3D/logo-Channel-Max-Cartoon.jpg" group-title="Familiares",Channel Max Cartoon
 https://ssh101-fl.bozztv.com/ssh101/visionamerica/playlist.m3u8
@@ -300,17 +270,8 @@ https://ssh101-fl.bozztv.com/ssh101/retrotvcr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KFD5rmn/logo-Retrox-TV.png" group-title="Familiares",Retrox TV
 https://cloudvideo.servers10.com:8081/8064/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KFKnckg/Logo-Memorias-Series.png" group-title="Familiares",Memorias Series HD
-https://stmv6.voxtvhd.com.br/memoriasseries/memoriasseries/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/stNp4PL/Logo-Cine-Kids.jpg" group-title="Familiares",Cine Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dBChFBX/logo-Chile-Visual-Canal-1.png" group-title="Familiares",Chilevisual Retro HD
-https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dBChFBX/logo-Chile-Visual-Canal-1.png" group-title="Familiares",Chilevisual Kids HD
-https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2M0xFtd/logo-Rakuten-TV-en-Familia.png" group-title="Familiares",Rakuten TV en Familia HD
 http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
@@ -318,29 +279,8 @@ http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/ZhE9QqM.png" group-title="Familiares",Cartoon Network LA
 http://45.160.12.200:8008/play/009
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="Familiares",Tooncast HD
-http://45.181.122.13:8000/play/016
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GswGgT8/Logo-Disney-Channel-HD.png" group-title="Familiares",Disney Channel Spain HD
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GswGgT8/Logo-Disney-Channel-HD.png" group-title="Familiares",Disney Channel Spain HD (opcion 2)
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SNQqsW6/logo-Azteca-7.png" group-title="LATINO",Azteca 7 HD en Info7
 https://live.info7.mx/info7/stream/_hi1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bgZSyCg/Logo-Las-Estrellas.png" group-title="LATINO",Las Estrellas HD
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M2wqPgQ/Logo-Plus-Cine.png" group-title="LATINO",Plus Cine
-https://tv.streaming-chile.com:19360/8142/8142.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/G04k3Z4/Logo-Memorias-Film.png" group-title="LATINO",Memorias Film HD
-https://stmv6.voxtvhd.com.br/memoriasfilm/memoriasfilm/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8MVLX6/Logo-Tele-Posadas.png" group-title="LATINO",Tele Posadas HD (opcion 2)
-https://cdnhd.iblups.com/hls/dlcjWhjkPu.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k9YDwcp/Logo-Sony-Canal-Comedias.png" group-title="LATINO",Sony Canal Comedias
 https://62d4f4f024504aeb8d60e3692175780b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8
