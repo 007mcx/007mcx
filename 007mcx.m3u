@@ -144,9 +144,6 @@ https://mitv.zplay.cl/ZRetro/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1 ,Adult Swim
 http://190.61.42.218:9000/play/a00u
 
-#EXTINF:-1 ,Toonami
-https://ssh101-fl.bozztv.com/ssh101/toonamitv/playlist.m3u8
-
 #EXTINF:-1, Canal Anime Onegai
 https://live.animeonegai.com/2secondtv0147728054173312/2e8b02ec75d7198df8c1ccbbeaa7329b.sdp/playlist.m3u8
 
@@ -173,10 +170,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 ,Zona de Accion
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
-
-#EXTINF:-1 ,Canela Kids
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-https://mitv.zplay.cl/Zkids/video.m3u8?token=D4lm1R0m-tFJES
 
 #EXTINF:-1 ,Retro TV
 https://ssh101-fl.bozztv.com/ssh101/retrotvcr/playlist.m3u8
