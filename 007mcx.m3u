@@ -135,13 +135,13 @@ https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 #EXTINF:-1 ,Toonami Tv
 https://fl1001.bozztv.com/ssh101/toonamitv/playlist.m3u8
 
-#EXTINF:-1 ,ZTV Anime
+#EXTINF:-1 ,ZTV
 https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
 
-#EXTINF:-1 ,Toonizaki HD
+#EXTINF:-1 ,Toonizaki
 https://mitv.zplay.cl/ZRetro/video.m3u8?token=D4lm1R0m-tFJES
 
-#EXTINF:-1 ,Adult Swim LA
+#EXTINF:-1 ,Adult Swim
 http://190.61.42.218:9000/play/a00u
 
 #EXTINF:-1 ,Toonami
@@ -190,12 +190,6 @@ http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/ZhE9QqM.png" group-title="Familiares",Cartoon Network LA
 http://45.160.12.200:8008/play/009
 
-#EXTINF:-1 ,Azteca 7 HD en Info7
-https://live.info7.mx/info7/stream/_hi1/index.m3u8
-
-#EXTINF:-1 ,Sony Canal Comedias
-https://62d4f4f024504aeb8d60e3692175780b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8
-
 #EXTINF:-1 ,Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
@@ -222,3 +216,9 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
 #EXTINF:-1 ,ADN 40 | MX
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 ,Azteca 7 HD
+https://live.info7.mx/info7/stream/_hi1/index.m3u8
+
+#EXTINF:-1 ,Sony Canal Comedias
+https://62d4f4f024504aeb8d60e3692175780b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8
