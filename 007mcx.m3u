@@ -66,9 +66,6 @@ https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 , Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
-#EXTINF:-1 , 24-7 TV
-https://stmv5.voxtvhd.com.br/247tv/247tv/playlist.m3u8
-
 #EXTINF:-1 , Caracola TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
@@ -120,11 +117,8 @@ https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
 #EXTINF:-1 ,Agenda 56
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 
-#EXTINF:-1, Terror TV | CL
+#EXTINF:-1, Terror TV
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
-
-#EXTINF:-1 , Horrorfy
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
 
 #EXTINF:-1, TV Prime Peliculas
 https://premium.tvcontrolcp.com:19360/8062/8062.m3u8
@@ -177,9 +171,6 @@ https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 #EXTINF:-1 ,Etc TV
 http://45.160.12.253:8000/play/007
 
-#EXTINF:-1 ,Ani Retro
-https://tv.streaming-chile.com:19360/8068/8068.m3u8
-
 #EXTINF:-1 ,Toonz Kids
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
 
@@ -189,9 +180,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 #EXTINF:-1 ,Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 https://mitv.zplay.cl/Zkids/video.m3u8?token=D4lm1R0m-tFJES
-
-#EXTINF:-1 ,Pitufo TV
-https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
 #EXTINF:-1 ,Retro TV HD
 https://ssh101-fl.bozztv.com/ssh101/retrotvcr/playlist.m3u8
