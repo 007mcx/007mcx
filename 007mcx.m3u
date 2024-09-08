@@ -180,7 +180,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
 #EXTINF:-1 ,Rakuten TV en Familia HD
 http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 ,Cartoon Network LA
+#EXTINF:-1 ,Cartoon Network
 http://45.160.12.200:8008/play/009
 
 #EXTINF:-1 ,Bayres TV
@@ -210,7 +210,7 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 ,ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 ,Azteca 7 HD
+#EXTINF:-1 ,Azteca 7
 https://live.info7.mx/info7/stream/_hi1/index.m3u8
 
 #EXTINF:-1 ,Sony Canal Comedias
