@@ -132,9 +132,6 @@ https://fl1001.bozztv.com/ssh101/kpoptv/playlist.m3u8
 #EXTINF:-1 ,Max Anime
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 
-#EXTINF:-1 ,Toonami Tv
-https://fl1001.bozztv.com/ssh101/toonamitv/playlist.m3u8
-
 #EXTINF:-1 ,Toonizaki
 https://mitv.zplay.cl/ZRetro/video.m3u8?token=D4lm1R0m-tFJES
 
@@ -165,9 +162,6 @@ http://45.160.12.253:8000/play/007
 #EXTINF:-1 ,Toonz Kids
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
 
-#EXTINF:-1 ,Zona de Accion
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
-
 #EXTINF:-1 ,Retro TV
 https://ssh101-fl.bozztv.com/ssh101/retrotvcr/playlist.m3u8
 
@@ -176,9 +170,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
 
 #EXTINF:-1 ,Cartoon Network
 http://45.160.12.200:8008/play/009
-
-#EXTINF:-1 ,Bayres TV
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1 ,Pluto TV Anime Kids
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/636e83511fa9600007e5ae19/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
