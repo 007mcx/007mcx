@@ -117,17 +117,11 @@ http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,Chiquilines
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
 
-#EXTINF:-1 ,Agenda 56
-https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
-
 #EXTINF:-1, Terror TV
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 
 #EXTINF:-1,Ani Retro
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
-
-#EXTINF:-1 ,Kpop Tv Play
-https://fl1001.bozztv.com/ssh101/kpoptv/playlist.m3u8
 
 #EXTINF:-1 ,Max Anime
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
