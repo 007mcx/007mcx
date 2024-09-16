@@ -30,7 +30,7 @@ https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1, ACS Network
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
-#EXTINF:-1 ,Max Cartoon
+#EXTINF:-1, Max Cartoon
 https://ssh101-fl.bozztv.com/ssh101/visionamerica/playlist.m3u8
 
 #EXTINF:-1, Locomotion
@@ -75,7 +75,7 @@ https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1, +Cine
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 
-#EXTINF:-1 ,GenTV
+#EXTINF:-1, GenTV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
 #EXTINF:-1, Moni TV
@@ -108,7 +108,7 @@ https://stmv5.voxtvhd.com.br/tvytv/tvytv/playlist.m3u8
 #EXTINF:-1, Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1 ,Wow Tv
+#EXTINF:-1, Wow Tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #EXTINF:-1, Top FM TV (Atalaya)
@@ -132,20 +132,17 @@ http://190.61.42.218:9000/play/a00u
 #EXTINF:-1, Etc TV
 http://45.160.12.253:8000/play/007
 
-#EXTINF:-1 ,Toonz Kids
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
-
-#EXTINF:-1 ,Cartoon Network
+#EXTINF:-1, Cartoon Network
 http://45.160.12.200:8008/play/009
 
-#EXTINF:-1 ,Pluto TV TokuSato
+#EXTINF:-1, Pluto TV TokuSato
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 ,Multimedios CDMX
+#EXTINF:-1, Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
-#EXTINF:-1 ,Azteca Internacional
+#EXTINF:-1, Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 ,Once México
+#EXTINF:-1, Once México
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
