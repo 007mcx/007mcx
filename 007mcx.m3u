@@ -177,35 +177,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c3
 #EXTINF:-1 ,Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
-
-
-
-
-#EXTINF:-1 ,Canal Catorce
-https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
-
-#EXTINF:-1 ,Canal 22
-https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ2OjAzIFBNJmhhc2hfdmFsdWU9WmpCTERYMHh6UVVzcTJ0cmtNd25mQT09JnZhbGlkbWludXRlcz01JmlkPQ==
-
-#EXTINF:-1 ,Canal 22 +
-https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ5OjA5IFBNJmhhc2hfdmFsdWU9dmZ0MEZRMTMwZ3J6V3hXNndXeDFIUT09JnZhbGlkbWludXRlcz01JmlkPQ==
-
 #EXTINF:-1 ,ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 ,Trecevision Yucatan
-http://streamingcws20.com:1935/trecevision/videotrecevision/playlist.m3u8
-
-#EXTINF:-1 ,Teleplay Merida
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CANELA TV" tvg-id="",Accion Mexicana
+#EXTINF:-1 ,Accion Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
-
-
-#EXTINF:-1 group-title="CHILE" tvg-id="13T.cl",13 Teleseries (720p)
-https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
 #EXTINF:-1 ,Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
@@ -216,17 +192,8 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 ,Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 ,Canal 22
-https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
-
-#EXTINF:-1 ,Ingenio TV
-https://aprende-usea.streaming.media.azure.net/9317ea3f-03a0-4266-9292-ac97a0e41c4d/output-20230609-123537-manifest.ism/manifest(format=m3u8-cmaf).m3u8
-
-#EXTINF:-1 g,Meganoticias MX
+#EXTINF:-1 ,Meganoticias MX
 https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 ,NRT México Región Sureste
-https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
 
 #EXTINF:-1 ,Once México
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
