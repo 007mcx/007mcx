@@ -213,32 +213,6 @@ https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
 #EXTINF:-1 group-title="CANELA TV" tvg-id="",Accion Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="XtremaAnimal.ar",Xtrema Animal (360p)
-https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="XtremaAnime.ar",Xtrema Anime (360p)
-https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="XtremaCartoons.ar",Xtrema Cartoons (360p)
-https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="XtremaAccion.ar",Xtrema Cine Acción (268p)
-https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="XtremaAsia.ar",Xtrema Cine Asia (268p)
-https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="XtremaComedy.ar",Xtrema Cine Comedy (344p)
-https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="XtremaRetroCartoons.ar",Xtrema Retro Cartoons (360p)
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="XtremaRetroSeries.ar",Xtrema Retro Series (360p)
-https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="XtremaSeries.ar",Xtrema Series (360p)
-https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 
 #EXTINF:-1 group-title="CHILE" tvg-id="13T.cl",13 Teleseries (720p)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
