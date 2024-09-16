@@ -106,7 +106,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1  , The Pet Collective
-https://jmp2.uk/PlutoTV/5ebacbcae43a6d000787b88e-alt.m3u8
+https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 ,Pitufo TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
@@ -199,11 +199,6 @@ https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8?wmsAut
 #EXTINF:-1 tvg-id="ADN 40" tvg-name="ADN 40" tvg-logo="https://i.imgur.com/qO0nkZz.png" group-title="MEXICO",40.1 ADN 40 op2
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.canal6tv.com/favicon/android-icon-192x192.png" group-title="REGIONAL",CMX: Canal 6 Tv del Valle de Cd Mexico
-https://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eBmnWbRkKKsu3nqabm9GlX02JOj3CDNXzodJMDEN2dk3/a_4gqi2xn5hjms.m3u8
-
-#EXTINF:-1 tvg-logo="http://tvt.mx/wp-content/uploads/2019/06/logo_tvt_retina.png" group-title="REGIONAL",TAB: TVT Tabasco
-https://live10.cdnmedia.tv/rtvtabascolive/smil:tvt.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.trecevisionyucatan.com.mx/img/logo.png" group-title="REGIONAL",YUC: Trecevision Yucatan
 http://streamingcws20.com:1935/trecevision/videotrecevision/playlist.m3u8
@@ -211,23 +206,9 @@ http://streamingcws20.com:1935/trecevision/videotrecevision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-REFH6RkuaQ0/X5wY1UPCWqI/AAAAAAAA63w/-tUyjCx_2PUJrqQuDXUxiRnf6HLXy-zMQCK8BGAsYHg/s0/2020-10-30.png" group-title="REGIONAL",YUC: Teleplay Merida
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://corporativo.sipse.com/wp-content/uploads/revslider/corporativo-sipse/gsipse-logo-medium.png" group-title="REGIONAL",YUC: SipseTv Merida
-http://74.222.24.25:1935/live/ngrp:galatvmerida_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Miramax Tv" tvg-name="Miramax Tv" tvg-logo="https://i.imgur.com/vIa08pj.jpg" group-title="CANALES INDEPENDIENTES",Miramax Tv | ND
-https://fl1001.bozztv.com/ssh101/miramaxtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SYFY LA HD" tvg-name="SYFY LA HD" tvg-logo="https://i.imgur.com/lJG4neh.png" group-title="CANALES INDEPENDIENTES",SYFY LA HD | ND
-https://live.autistici.org/hls/syfy3239498_src.m3u8
 
-#EXTINF:-1 group-title="SAMSUNG US" tvg-id="MyTimeMovieNetwork.mx",MyTime Movie Network Mexico (720p)
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="SAMSUNG ES" tvg-id="SuperToons.bg",Supertoons TV
-https://kedoo-supertoonstv-2-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="SAMSUNG ES" tvg-id="ThePetCollective.es",The Pet Collective
-https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="CANELA TV" tvg-id="",Accion Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
