@@ -84,6 +84,15 @@ https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 , Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
+#EXTINF:-1, Terror TV
+https://tv.streaming-chile.com:19360/8140/8140.m3u8
+
+#EXTINF:-1 ,MyTime movie network Mexico
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 ,MyTime movie network Spain
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 , Caracola TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
@@ -111,15 +120,6 @@ https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Boreal
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 
-#EXTINF:-1, Terror TV
-https://tv.streaming-chile.com:19360/8140/8140.m3u8
-
-#EXTINF:-1 ,MyTime movie network Mexico
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 ,MyTime movie network Spain
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-
 #EXTINF:-1  , The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
@@ -128,9 +128,6 @@ https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
 #EXTINF:-1 ,Rakuten TV Familia
 http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 ,Toonizaki
-https://mitv.zplay.cl/ZRetro/video.m3u8?token=D4lm1R0m-tFJES
 
 #EXTINF:-1 ,Adult Swim
 http://190.61.42.218:9000/play/a00u
@@ -152,9 +149,6 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
 #EXTINF:-1 ,Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-
-#EXTINF:-1 ,Meganoticias MX
-https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 ,Once México
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
