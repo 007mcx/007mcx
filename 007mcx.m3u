@@ -12,16 +12,16 @@ https://paneltv.online:1936/8046/8046/playlist.m3u8
 #EXTINF:-1 ,Retro TV
 https://ssh101-fl.bozztv.com/ssh101/retrotvcr/playlist.m3u8
 
-#EXTINF:-1 ,Teleclasica
+#EXTINF:-1, Teleclasica
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
-#EXTINF:-1 ,Retrox TV
+#EXTINF:-1, Retrox TV
 https://ssh101-fl.bozztv.com/ssh101/retroxcr/playlist.m3u8
 
-#EXTINF:-1 ,TVS Retro
+#EXTINF:-1, TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
-#EXTINF:-1 ,ZTV
+#EXTINF:-1, ZTV Cine Anime
 https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
 
 #EXTINF:-1 ,Max Cartoon
@@ -81,6 +81,9 @@ https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1, Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
+#EXTINF:-1, Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
 #EXTINF:-1, Terror TV
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 
@@ -90,6 +93,9 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1, MyTime movie network Spain
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
+#EXTINF:-1, Rakuten TV Familia
+http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1, Caracola TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
@@ -98,9 +104,6 @@ https://stmv5.voxtvhd.com.br/tvytv/tvytv/playlist.m3u8
 
 #EXTINF:-1, Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-
-#EXTINF:-1, Neo TV
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 ,Wow Tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
@@ -117,19 +120,16 @@ https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Boreal
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 
-#EXTINF:-1  , The Pet Collective
+#EXTINF:-1, The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 ,Pitufo TV
+#EXTINF:-1, Pitufo TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
-#EXTINF:-1 ,Rakuten TV Familia
-http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 ,Adult Swim
+#EXTINF:-1, Adult Swim
 http://190.61.42.218:9000/play/a00u
 
-#EXTINF:-1 ,Etc TV
+#EXTINF:-1, Etc TV
 http://45.160.12.253:8000/play/007
 
 #EXTINF:-1 ,Toonz Kids
