@@ -18,10 +18,7 @@ https://ssh101-fl.bozztv.com/ssh101/visionamerica/playlist.m3u8
 #EXTINF:-1, Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1, AnimeStation
-https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
-
-#EXTINF:-1, Pandamax TV
+#EXTINF:-1, Canal Hex
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 
 #EXTINF:-1 , Planeta TV
@@ -36,7 +33,7 @@ https://ssh101-fl.bozztv.com/ssh101/retroxcr/playlist.m3u8
 #EXTINF:-1 ,Teleclasica
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
-#EXTINF:-1 ,ACS Network TV
+#EXTINF:-1 ,ACS Network
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
 #EXTINF:-1 ,Mi TV Televisión Clásica
@@ -107,9 +104,6 @@ https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
 #EXTINF:-1 ,Rakuten TV Familia
 http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 ,Chiquilines
-https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
 
 #EXTINF:-1, Terror TV
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
