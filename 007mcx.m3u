@@ -72,46 +72,43 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1 ,Mi TV Televisión Clásica
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
-#EXTINF:-1 ,TV Pop
-https://v4.tustreaming.cl/poptv/index.m3u8
-
 #EXTINF:-1 ,+Cine
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 
 #EXTINF:-1 ,GenTV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
-#EXTINF:-1 , Moni TV
+#EXTINF:-1, Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
 #EXTINF:-1, Terror TV
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 
-#EXTINF:-1 ,MyTime movie network Mexico
+#EXTINF:-1, MyTime movie network Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 ,MyTime movie network Spain
+#EXTINF:-1, MyTime movie network Spain
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 , Caracola TV
+#EXTINF:-1, Caracola TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
-#EXTINF:-1 , TV y TV
+#EXTINF:-1, TV y TV
 https://stmv5.voxtvhd.com.br/tvytv/tvytv/playlist.m3u8
 
-#EXTINF:-1 ,Cosmos TV
+#EXTINF:-1, Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1 ,Neo TV
+#EXTINF:-1, Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 ,Wow Tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-#EXTINF:-1 ,Top FM TV (Atalaya)
+#EXTINF:-1, Top FM TV (Atalaya)
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 
-#EXTINF:-1 ,7 TeleValencia
+#EXTINF:-1, TeleValencia
 https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
 
 #EXTINF:-1 , EGM Channel
