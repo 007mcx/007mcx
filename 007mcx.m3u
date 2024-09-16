@@ -246,46 +246,11 @@ https://cdn.jwplayer.com/manifests/bez1terN.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1279085519406796800/HU4loQ5e.jpg" group-title="REGIONAL",COA: NRT Mexico
 https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fKpOCv8.png" group-title="REGIONAL",COA: RCG 1 Saltillo
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fKpOCv8.png" group-title="REGIONAL",COA: RCG 1 Saltillo op2
-https://5caf24a595d94.streamlock.net:1937/8078/8078/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EgRlfG8qS6k/XzxtdI0B6vI/AAAAAAAA4pw/x3UCH8j26U4wOZjlUJMOLVC86mgg5JhOACK8BGAsYHg/s0/2020-08-18.png" group-title="REGIONAL",DUR: TV Lobo Durango
-http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/noticias-01.png" group-title="REGIONAL",GUA: TV Cuatro 4.1 Noticias
-https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/chunklist_w2069453657_b1428000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/cultura-01.png" group-title="REGIONAL",GUA: TV Cuatro 4.2 Cultura
-https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/cultura-01.png" group-title="REGIONAL",GUA: TV Cuatro 4.2 Cultura
-https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/chunklist_w2048905456_b3428000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/deportes-02.png" group-title="REGIONAL",GUA: TV Cuatro 4.3 Deportes
-https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfGK8QTzI5pvouAEWwCuQn6IRbWqHY5ecuHb-w=s900-mo-c-c0xffffffff-rj-k-no" group-title="REGIONAL",JAL: C7 Cultura Jalisco
 http://streamingcws20.com:1935/c7cultura/videoc7cultura/chunklist_w1060565358.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Media Group Radio" tvg-name="Media Group Radio" tvg-logo="https://i.imgur.com/JTNF4Rs.png" group-title="REGIONAL",MIC: Media Group Radio
-https://5ca3e84a76d30.streamlock.net/canal6mich/videocanal6mich/chunklist_w157206410.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIzIDE6MTk6MjQgUE0maGFzaF92YWx1ZT1yUmh6dG1ERHhBTEJMRUNSWlpxUXRRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0%3D
-
-#EXTINF:-1 tvg-id="SMRTV Michoacan" tvg-name="SMRTV Michoacan" tvg-logo="http://www.sistemamichoacano.tv/images/stories/joomlart/logo_white.png" group-title="REGIONAL",MIC: SMRTV Michoacan
-https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal 13 Michoacan" tvg-name="Canal 13 Michoacan" tvg-logo="https://ubicalas.com/uploads/905fa23c469a88abda3485387a953c5a6092c9ba3a2e844dd420ed57f8636e203b64dbdf2e93504c507576780bfd37a770360c0eb5cc4bbdaaa58d9be979d87e.jpg" group-title="REGIONAL",MIC: Canal 13 Michoacan
-https://dbdfj5y8nz2u4.cloudfront.net/c13michoacan/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.csiete.net/contenido/imagenes/2017/08/Logo-c7-New1-1-2.png" group-title="REGIONAL",MIC: Canal 7 Uruapan
-https://devimages.apple.com.edgekey.net/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.nuestravision.com.mx/templates/rt_salient/images/logo/logo-header.png" group-title="REGIONAL",MIC: Nuestra Vision Noticias
 http://8.242.192.56:8888/canal6mobiles.m3u8
@@ -334,20 +299,7 @@ https://mvtvstream.com:444/live/6456eb2e56ab7/index.m3u8
 #EXTINF:-1 tvg-logo="https://static1.s123-cdn-static-a.com/uploads/2287839/400_filter_nobg_62422bfc29a52.png" group-title="REGIONAL",SLP: Nueve TV
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w2067160029.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpacifico.mx/images/_tvp/logos/logo_tvp_vacontigo_02.png" group-title="REGIONAL",SIN: TVP Mazatlan
-https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpacifico.mx/images/_tvp/logos/logo_tvp_vacontigo_02.png" group-title="REGIONAL",SIN: TVP Culiacan
-https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpacifico.mx/images/_tvp/logos/logo_tvp_vacontigo_02.png" group-title="REGIONAL",SIN: TVP Los Mochis
-https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpacifico.mx/images/_tvp/logos/logo_tvp_vacontigo_02.png" group-title="REGIONAL",SON: TVP Cd. Obregon
-https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1903526755_b1428000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.telemax.com.mx/wp-content/themes/multinews/images/logo.png" group-title="REGIONAL",SON: Telemax Sonora
-http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvt.mx/wp-content/uploads/2019/06/logo_tvt_retina.png" group-title="REGIONAL",TAB: TVT Tabasco
 https://live10.cdnmedia.tv/rtvtabascolive/smil:tvt.smil/playlist.m3u8
@@ -372,11 +324,7 @@ https://stmv6.voxtvhd.com.br/memoriasfilm/memoriasfilm/playlist.m3u8
 #EXTINF:-1 tvg-id="Memorias Series" tvg-name="Memorias Series" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="CANALES INDEPENDIENTES",Memorias Series | Colombia
 https://stmv6.voxtvhd.com.br/memoriasseries/memoriasseries/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Memorias TV" tvg-name="Memorias TV" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="CANALES INDEPENDIENTES",Memorias TV | Colombia
-https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Memorias Salsa" tvg-name="Memorias Salsa" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="CANALES INDEPENDIENTES",Memorias Salsa | Colombia
-https://stmv6.voxtvhd.com.br/memoriassalsa/memoriassalsa/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Miramax Tv" tvg-name="Miramax Tv" tvg-logo="https://i.imgur.com/vIa08pj.jpg" group-title="CANALES INDEPENDIENTES",Miramax Tv | ND
@@ -397,69 +345,6 @@ https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-id="Clan HD" tvg-name="Clan HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/clan_tve.png" group-title="INFANTILES",Clan TVE op2 | Spain
 https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Cine" tvg-name="Cine" tvg-logo="https://i.imgur.com/ZN3ry2f.png" group-title="CINE",PlanetaTV Movie op2 | Chile
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="XHATEAEC",Canal LMS op4 | Mexico
-https://xhateaec.com:8800/hls/luisms123/luisms123/78dd321a73fccbeb82269b00f5578315/index.m3u8
-
-#EXTINF:-1 tvg-id="Cangovision Paltas" tvg-name="Cangovision Paltas" tvg-logo="https://xhateaec.com/upload/photos/2024/04/Nu4Ql5eXBGERevUi5Bq9_30_27223eef6508857cea08fe6fac995d8c_cover.jpg" group-title="XHATEAEC",Cangovision Paltas | Ecuador
-https://xhateaec.com:8800/hls/nelsonvicente/nelsonvicente/ec5fe7db35d01766c8fa9f5eec5ae8e1/index.m3u8
-
-#EXTINF:-1 tvg-id="FidesPlay" tvg-name="FidesPlay" tvg-logo="https://xhateaec.com/upload/photos/f-avatar.jpg" group-title="XHATEAEC",FidesPlay | Bolivia
-https://xhateaec.com:8800/hls/FidesPlay/FidesPlay/a5bda693926e86a854791beb587ea12b/index.m3u8
-
-#EXTINF:-1 tvg-id="FM Recuerdos de Siempre" tvg-name="FM Recuerdos de Siempre" tvg-logo="https://xhateaec.com/upload/photos/2024/06/xPIz6UXfJ3cfBXLAz7QW_11_73349c30dff25492f1d49498dfbac1f5_avatar.png" group-title="XHATEAEC",FM Recuerdos de Siempre | Uruguay
-https://xhateaec.com:8800/hls/CanalRecuerdos80902000/CanalRecuerdos80902000/812ac380636c61222f29bc28d244def4/index.m3u8
-
-#EXTINF:-1 tvg-id="Futbol Regio" tvg-name="Futbol Regio" tvg-logo="https://i.imgur.com/fPQ170p.jpg" group-title="XHATEAEC",Futbol Regio | Mexico
-https://xhateaec.com:8800/hls/futbolregioligamx/futbolregioligamx/9aa6357786054c8e085f3d55b536b5a4/index.m3u8
-
-#EXTINF:-1 tvg-id="Futve Stream" tvg-name="Futve Stream" tvg-logo="https://xhateaec.com/upload/photos/2024/04/eG2jFbEa8NWIu6wx8wGo_20_8d8414b5fbf8498a7cc2abf41bdcbd92_avatar.png" group-title="XHATEAEC",Futve Stream | Venezuela
-https://xhateaec.com:8800/hls/futvestream/futvestream/edbca3b2547d473382a81145b263ce70/index.m3u8
-
-#EXTINF:-1 tvg-id="Futve Stream 2" tvg-name="Futve Stream 2" tvg-logo="https://xhateaec.com/upload/photos/2024/04/DOOmdAQcdx2qASMAWyIp_20_28ff3f6533d34bd0e7f035553a86379b_avatar.png" group-title="XHATEAEC",Futve Stream 2 | Venezuela
-https://xhateaec.com:8800/hls/futvestream1/futvestream1/39beb8abb617ce966a380b211f737a0e/index.m3u8
-
-#EXTINF:-1 tvg-id="JTV" tvg-name="JTV" tvg-logo="https://xhateaec.com/upload/photos/2024/02/gQn3J9urlbwnSoRsV6JQ_20_cb4413de706fad20eb28728936f8c3a8_avatar.jpg" group-title="XHATEAEC",JTV | Honduras
-https://xhateaec.com:8800/hls/jesucristo/jesucristo/57328eda266dcd70fd321815a6813ac1/index.m3u8
-
-#EXTINF:-1 tvg-id="MH Radio Tv" tvg-name="MH Radio Tv" tvg-logo="https://xhateaec.com/upload/photos/2024/06/2zdWhXA6PLrvYx5R5r6V_13_1e3d8cac9196eff28b325f8516e0e137_avatar.jpg" group-title="XHATEAEC",MH Radio Tv | Peru
-https://xhateaec.com:8800/hls/MHRADIOTV/MHRADIOTV/fd050c4db199b5194266615ab0ddb96c/index.m3u8
-
-#EXTINF:-1 tvg-id="NotiPress Internacional" tvg-name="NotiPress Internacional" tvg-logo="https://xhateaec.com/upload/photos/2022/08/kzMzt5jBfH6GXcmpIqBs_18_860f4d9652f66175343056b0144427f5_avatar.jpg" group-title="XHATEAEC",NotiPress Internacional | Argentina
-https://xhateaec.com:8800/hls/miguel007/miguel007/986faf2a8074f4b213fdb55ec8fd0c9f/index.m3u8
-
-#EXTINF:-1 tvg-id="Planeta Channel" tvg-name="Planeta Channel" tvg-logo="https://xhateaec.com/upload/photos/2024/05/yyA17zSGAXPTaqaY3ozM_06_b6cf19c252477934f76a4814be64de5a_avatar.png" group-title="XHATEAEC",Planeta Channel | Ecuador
-https://xhateaec.com:8800/hls/Planeta/Planeta/d1d678af2a17329ddf642607e533ec61/index.m3u8
-
-#EXTINF:-1 tvg-id="Plenitud TV HD" tvg-name="Plenitud TV HD" tvg-logo="https://i.imgur.com/QGwcjNT.jpg" group-title="XHATEAEC",Plenitud TV HD | Chile
-https://xhateaec.com:8800/hls/PlenitudTV/PlenitudTV/4af10c3d042f9051cf0c08b13bce5aa8/index.m3u8
-
-#EXTINF:-1 tvg-id="PS Television" tvg-name="PS Television" tvg-logo="https://i.imgur.com/X0ooVPY.png" group-title="XHATEAEC",PS Television | Colombia
-https://xhateaec.com:8800/hls/Pstelevision/Pstelevision/d6259c8de31bdbd6b8f43ae8a1e40c07/index.m3u8
-
-#EXTINF:-1 tvg-id="Radio Doble Impacto" tvg-name="Radio Doble Impacto" tvg-logo="https://xhateaec.com/upload/photos/2023/10/DHn2EcSJKx54OkugvniZ_18_f649d5afdd9f52e37f286f5ab6f5681d_avatar.jpg" group-title="XHATEAEC",Radio Doble Impacto | Argentina
-https://xhateaec.com:8800/hls/carlamarquez/carlamarquez/ad0d6ad374975bbb25be8ca70d19a44b/index.m3u8
-
-#EXTINF:-1 tvg-id="Radio Ipersonica TV" tvg-name="Radio Ipersonica TV" tvg-logo="https://i.imgur.com/8eSqC8L.png" group-title="XHATEAEC",Radio Ipersonica TV | Argentina
-https://xhateaec.com:8800/hls/IPERSONICA/IPERSONICA/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
-
-#EXTINF:-1 tvg-id="Radio Latina Vzla" tvg-name="Radio Latina Vzla" tvg-logo="https://xhateaec.com/upload/photos/2024/06/oMQFQsHoL4AgKbI4hcVf_28_a0f75ea47fa85e01020bb039a28666ab_avatar.jpg" group-title="XHATEAEC",Radio Latina Vzla | Venezuela
-https://xhateaec.com:8800/hls/RadioLatinaVzla/RadioLatinaVzla/7b91487976e120cb84df011a621a8b89/index.m3u8
-
-#EXTINF:-1 tvg-id="Radio Municipal Monteros" tvg-name="Radio Municipal Monteros" tvg-logo="https://xhateaec.com/upload/photos/2024/05/WLLU1qXgUuOvuPlXqeOJ_07_5d2f474b54467ea8541057ce4a050d84_avatar.png" group-title="XHATEAEC",Radio Municipal Monteros | Argentina
-https://xhateaec.com:8800/hls/RadioMunicipalMonteros879/RadioMunicipalMonteros879/176c916c8cfe73993b2ab7024f9f1e76/index.m3u8
-
-
 
 
 #EXTINF:-1 group-title="PLUTO MX" tvg-id="PlutoTVAndromeda.us",Pluto TV Andrómeda (720p)
@@ -502,8 +387,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acba0d
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c01df1759ee03633e7b272c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=971&terminate=false&userId=
 
 
-#EXTINF:-1 group-title="PLUTO MX" tvg-id="PlutoTVMinutoParaGanar.us",Pluto TV Minuto Para Ganar (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
 #EXTINF:-1 group-title="PLUTO MX" tvg-id="PlutoTVMisterios.br",Pluto TV Misterios (480p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 group-title="PLUTO MX" tvg-id="PlutoTVMisteriosMedicos.us",Pluto TV Misterios Medicos (720p)
@@ -570,9 +454,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 
 #EXTINF:-1 group-title="PLUTO US" tvg-id="",Casos de la Dra. Polo
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cde127fb-082c-4bae-bbc8-eb5fcecf263d
-#EXTINF:-1 group-title="PLUTO US" tvg-id="Cats247.us",Cats 24/7
-
-
 
 #EXTINF:-1 group-title="PLUTO US" tvg-id="",Cine adrenalina
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4d042878-a4ee-480d-8f14-ebbfb96388e9
@@ -609,30 +490,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 
 
 
-#EXTINF:-1 group-title="Pluto Spain2" tvg-id="PlutoTVTeenStars.es",Pluto TV Teen Stars (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-
-#EXTINF:-1 group-title="Pluto Spain2" tvg-id="PlutoTVToonsClasico.es",Pluto TV Toons Clásico (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-
-
-
-
-
 #EXTINF:-1 group-title="SAMSUNG US" tvg-id="MyTimeMovieNetwork.mx",MyTime Movie Network Mexico (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="SAMSUNG ES" tvg-id="RakutenTVActionMovies.es",Rakuten Action Movies
-https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="SAMSUNG ES" tvg-id="RakutenTVComedyMovies.es",Rakuten Comedy Movies
-https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
-
 
 #EXTINF:-1 group-title="SAMSUNG ES" tvg-id="SuperToons.bg",Supertoons TV
 https://kedoo-supertoonstv-2-es.samsung.wurl.tv/playlist.m3u8
@@ -689,9 +548,6 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 group-title="MEXICO2" tvg-id="AztecaUno.mx",Azteca Uno (720p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 group-title="MEXICO2" tvg-id="MultimediosCDMX.mx",Canal 6 CDMX
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-
 #EXTINF:-1 group-title="MEXICO2" tvg-id="Canal13Campeche.mx",Canal 13 Campeche (720p) [Not 24/7]
 https://dbdfj5y8nz2u4.cloudfront.net/c13campeche/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
@@ -715,14 +571,8 @@ https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO2" tvg-id="MilenioTelevision.mx",Milenio Television
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 group-title="MEXICO2" tvg-id="NPlus.mx",NMás (1080p)
-https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
-#EXTINF:-1 group-title="MEXICO2" tvg-id="NPlusMedia.mx",NMás Media (1080p)
-https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
-#EXTINF:-1 group-title="MEXICO2" tvg-id="NPlusMedia.mx",NMás Media (1080p)
-https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
-#EXTINF:-1 group-title="MEXICO2" tvg-id="NNVeracruz.mx",NNVeracruz (640p)
-https://s.emisoras.tv:8081/nnveracruz/index.m3u8
+
+
 
 #EXTINF:-1 group-title="MEXICO2" tvg-id="NRTMexicoRegionSureste.mx",NRT México Región Sureste (720p)
 https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
@@ -738,15 +588,3 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
 #EXTINF:-1 group-title="MEXICO2" tvg-id="TeleFormula.mx",TeleFórmula (720p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 group-title="MEXICO2" tvg-id="TeleHit.mx",Telehit (576p)
-https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO2" tvg-id="TelehitMusica.mx",Telehit Música (576p)
-https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO2" tvg-id="TelemarCampeche.mx",Telemar Campeche (720p) [Not 24/7]
-https://5e50264bd6766.streamlock.net/telemarcampeche/videotelemarcampeche/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO2" tvg-id="XEWHTDT.mx",Telemax (XEWH-TDT) (1080p)
-http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO2" tvg-id="TeleplaySureste.mx",Teleplay Sureste (720p)
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO2" tvg-id="TeleplaySureste.mx",Teleplay Sureste (360p)
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
