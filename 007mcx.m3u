@@ -12,9 +12,6 @@ https://paneltv.online:1936/8046/8046/playlist.m3u8
 #EXTINF:-1 ,ZTV
 https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
 
-#EXTINF:-1 ,Zaz TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2369
-
 #EXTINF:-1 ,Max Cartoon
 https://ssh101-fl.bozztv.com/ssh101/visionamerica/playlist.m3u8
 
@@ -92,9 +89,6 @@ https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live
 
 #EXTINF:-1 , EGM Channel
 https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 ,Cinco TV
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
 #EXTINF:-1 ,Boreal
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
