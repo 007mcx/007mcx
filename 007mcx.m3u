@@ -1,7 +1,7 @@
  #EXTM3U
 
 #EXTINF:-1, Dreiko TV
-https://cloudvideo.servers10.com:8081/8096/playlist.m3u8
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
 #EXTINF:-1, Retro Magico
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
@@ -135,8 +135,8 @@ http://45.160.12.253:8000/play/007
 #EXTINF:-1, Cartoon Network
 http://45.160.12.200:8008/play/009
 
-#EXTINF:-1, Multimedios CDMX
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1, MVS TV
+https://mvs.daioncdn.net/mvstv/mvstv.m3u8
 
 #EXTINF:-1, Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
