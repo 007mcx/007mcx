@@ -347,28 +347,25 @@ https://stitcher.pluto.tv/stitch/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u
 #EXTINF:-1 tvg-id="5fcea93ffcf94500071c4b2f" tvg-name="Kenan y Kel" tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="PLUTO MX", Kenan y Kel
 https://stitcher.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
-#EXTINF:-1 tvg-id="5dd6de52b9914200091f047a" tvg-name="Pluto TV Teen" tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" group-title="PLUTO MX", Pluto TV Teen
+#EXTINF:-1 , Pluto TV Teen
 https://stitcher.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
-#EXTINF:-1 tvg-id="6495c6ad115d060008bf6b52" tvg-name="PAW Patrol Patrulla de Cachorros" tvg-logo="https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/colorLogoPNG.png" group-title="PLUTO MX", PAW Patrol Patrulla de Cachorros
+#EXTINF:-1 , PAW Patrol Patrulla de Cachorros
 https://stitcher.pluto.tv/stitch/hls/channel/6495c6ad115d060008bf6b52/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
-#EXTINF:-1 tvg-id="656e28a2954b020008ed133a" tvg-name="Dora, La Exploradora" tvg-logo="https://images.pluto.tv/channels/656e28a2954b020008ed133a/colorLogoPNG.png" group-title="PLUTO MX", Dora, La Exploradora
+#EXTINF:-1 , Dora La Exploradora
 https://stitcher.pluto.tv/stitch/hls/channel/656e28a2954b020008ed133a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
-#EXTINF:-1 tvg-id="5f9996533c9de3000759ccb5" tvg-name="Las Pistas de Blue" tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="PLUTO MX", Las Pistas de Blue
+#EXTINF:-1 , Las Pistas de Blue
 https://stitcher.pluto.tv/stitch/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
-#EXTINF:-1 tvg-id="619d5e6a093e7c0007489211" tvg-name="Baby Shark TV" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="PLUTO MX", Baby Shark TV
+#EXTINF:-1 , Baby Shark TV
 https://stitcher.pluto.tv/stitch/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
-#EXTINF:-1 tvg-id="5ebac49ce4dc8b00078b23bc" tvg-name="Babyfirst" tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="PLUTO MX", Babyfirst
+#EXTINF:-1 , Babyfirst
 https://stitcher.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
-#EXTINF:-1 tvg-id="5dcde2ac4bc6c500094ab45b" tvg-name="Pluto TV Junior" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="PLUTO MX", Pluto TV Junior
-https://stitcher.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
-
-#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" tvg-name="Nickelodeon Clásico" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="PLUTO MX", Nickelodeon Clásico
+#EXTINF:-1 , Nickelodeon Clásico
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
 #EXTINF:-1 , Nickelodeon
