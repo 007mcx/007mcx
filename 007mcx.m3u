@@ -371,18 +371,11 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u
 #EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" tvg-name="Nickelodeon Clásico" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="PLUTO MX", Nickelodeon Clásico
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
-#EXTINF:-1 tvg-id="645952687cb4b100084ed52e" tvg-name="Nickelodeon Pluto TV" tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG_1731467327130.png" group-title="PLUTO MX", Nickelodeon Pluto TV
+#EXTINF:-1 , Nickelodeon
 https://stitcher.pluto.tv/stitch/hls/channel/645952687cb4b100084ed52e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
-
-#EXTINF:-1 tvg-id="63dd5d7a4e83e700088fbca8" tvg-name="Las Tortugas Ninja" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" group-title="PLUTO MX", Las Tortugas Ninja
+#EXTINF:-1 , Las Tortugas Ninja
 https://stitcher.pluto.tv/stitch/hls/channel/63dd5d7a4e83e700088fbca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
-
-#EXTINF:-1 tvg-id="5dd6dae8ce788b0009eaf77b" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="PLUTO MX", Pluto TV Kids
-https://stitcher.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
-
-#EXTINF:-1 tvg-id="66e1e05a15d2c60008e4b2db" tvg-name="MTV Música Navideña" tvg-logo="https://images.pluto.tv/channels/66e1e05a15d2c60008e4b2db/colorLogoPNG.png" group-title="PLUTO MX", MTV Música Navideña
-https://stitcher.pluto.tv/stitch/hls/channel/66e1e05a15d2c60008e4b2db/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
 #EXTINF:-1 group-title="SAMSUNG ES" tvg-id="RakutenTVActionMovies.es",Rakuten Action Movies
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
@@ -405,56 +398,6 @@ https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SAMSUNG ES" tvg-id="ThePetCollective.es",The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="MaximaTV.ar",Maxima TV (540p)
-https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
- 
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="XtremaAnimal.ar",Xtrema Animal (360p)
-https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="XtremaAnime.ar",Xtrema Anime (360p)
-https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="XtremaCartoons.ar",Xtrema Cartoons (360p)
-https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="XtremaAccion.ar",Xtrema Cine Acción (268p)
-https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="XtremaAsia.ar",Xtrema Cine Asia (268p)
-https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="XtremaComedy.ar",Xtrema Cine Comedy (344p)
-https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="XtremaDrama.ar",Xtrema Cine Drama (360p)
-https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="XtremaEuropa.ar",Xtrema Cine Europa (360p)
-https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="XtremaFamily.ar",Xtrema Cine Family (274p)
-https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="XtremaHindi.ar",Xtrema Cine Hindi (272p)
-https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="XtremaLatina.ar",Xtrema Cine Latino (360p)
-https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="XtremaSuspenso.ar",Xtrema Cine Suspenso (360p)
-https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="XtremaTerror.ar",Xtrema Cine Terror (270p)
-https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="XtremaRetroCartoons.ar",Xtrema Retro Cartoons (360p)
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="XtremaRetroSeries.ar",Xtrema Retro Series (360p)
-https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-id="XtremaSeries.ar",Xtrema Series (360p)
-https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GUATEMALA",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
