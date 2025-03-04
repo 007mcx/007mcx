@@ -377,11 +377,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/645952687cb4b100084ed52e/master.m3u
 #EXTINF:-1 , Las Tortugas Ninja
 https://stitcher.pluto.tv/stitch/hls/channel/63dd5d7a4e83e700088fbca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
-
-
-#EXTINF:-1 group-title="SAMSUNG ES" tvg-id="Tastemade.us",Tastemade
-https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="SAMSUNG ES" tvg-id="ThePetCollective.es",The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
@@ -423,24 +418,6 @@ http://animezonetv.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-name="Toonami" tvg-id="" tvg-logo="https://i.ibb.co/KqN6PK6/Logo-Toonami.png" group-title="JOVENES Y ADULTOS",Toonami
 https://ssh101-fl.bozztv.com/ssh101/toonamitv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal Anime Onegai" tvg-name="Canal Anime Onegai" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai HD
-https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal Anime Onegai 2" tvg-name="Canal Anime Onegai 2" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai 2 HD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11057
-
-#EXTINF:-1 tvg-id="Canal Anime Onegai 3" tvg-name="Canal Anime Onegai 3" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai 3 HD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11058
-
-#EXTINF:-1 tvg-id="Canal Anime Onegai 4" tvg-name="Canal Anime Onegai 4" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai 4 HD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11059
-
-#EXTINF:-1 tvg-id="Canal Anime Onegai 5" tvg-name="Canal Anime Onegai 5" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai 5 HD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11060
-
-#EXTINF:-1 tvg-id="Canal Anime Onegai 6" tvg-name="Canal Anime Onegai 6" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="JOVENES Y ADULTOS",Canal Anime Onegai 6 HD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11061
 
 #EXTINF:-1 ,Max Anime
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
@@ -504,3 +481,6 @@ https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
 #EXTINF:-1 ,Telemar
 https://www.dailymotion.com/embed/video/x80bl3l
+
+#EXTINF:-1 tvg-id="1544" tvg-name="Megaclassic TV" tvg-logo="https://cdn.m3u.cl/logo/1544_Megaclassic_TV.png", Megaclassic TV | AR
+https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8
