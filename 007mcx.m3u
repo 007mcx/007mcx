@@ -141,30 +141,14 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1, Once México
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico.png" group-title="MEXICO",5.1 Canal Cinco
-http://181.78.105.146:2000/play/a038/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico.png" group-title="MEXICO",5.1 Canal Cinco op2
-https://channel05-onlymex.akamaized.net/hls/live/2033783/event01/index.m3u8
-
-#EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/milenio_tv-mediano.png" group-title="MEXICO",6.2 Milenio TV
+#EXTINF:-1 , Milenio TV
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7.png" group-title="MEXICO",7.1 Azteca 7
-https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7.png" group-title="MEXICO",7.1 Azteca 7 geo-block op2
+#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7.png" group-title="MEXICO", Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7.png" group-title="MEXICO",7.1 Azteca 7 op3
-https://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
-
-#EXTINF:-1 tvg-id="ADN 40" tvg-name="ADN 40" tvg-logo="https://i.imgur.com/qO0nkZz.png" group-title="MEXICO",40.1 ADN 40 op2
+#EXTINF:-1 , ADN 40 op2
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-
-
 
 #EXTINF:-1 ,VER: TVMAS Veracruz
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
@@ -345,16 +329,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/64f6163a30ab3300083d870e/master.m3u
 #EXTINF:-1 , The Pet Collective
 https://stitcher.pluto.tv/stitch/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
-#EXTINF:-1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-name="Pluto TV Hogar" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="PLUTO MX", Pluto TV Hogar
-https://stitcher.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
-
-#EXTINF:-1 tvg-id="5dcde0657444a40009cd2422" tvg-name="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="PLUTO MX", Pluto TV Cocina
-https://stitcher.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
-
-#EXTINF:-1 tvg-id="609062295c2b8f0007199e7a" tvg-name="Pluto TV Recetas" tvg-logo="https://images.pluto.tv/channels/609062295c2b8f0007199e7a/colorLogoPNG.png" group-title="PLUTO MX", Pluto TV Recetas
+#EXTINF:-1 , Pluto TV Recetas
 https://stitcher.pluto.tv/stitch/hls/channel/609062295c2b8f0007199e7a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
-#EXTINF:-1 tvg-id="5f998c1fc54853000797bacd" tvg-name="Tastemade" tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG_1730999716441.png" group-title="PLUTO MX", Tastemade
+#EXTINF:-1 , Tastemade
 https://stitcher.pluto.tv/stitch/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
 #EXTINF:-1 tvg-id="5ff3934600d4c7000733ff49" tvg-name="Pluto TV E-Sports" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" group-title="PLUTO MX", Pluto TV E-Sports
@@ -490,75 +468,22 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GUATEMALA",Canal 35 YEPOTV
 https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8
 
-#EXTINF:-1 tvg-id="Adult Swim" tvg-name="Adult Swim" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="TV PREMIUM",Adult Swim HD | ND
-http://138.118.105.190:8000/play/a0g1
-
-#EXTINF:-1 tvg-id="Adult Swim" tvg-name="Adult Swim" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="TV PREMIUM",Adult Swim HD op2 | ND
+#EXTINF:-1 ,Adult Swim HD
 http://181.78.105.146:6060/play/a01n
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="TV PREMIUM",Tooncast HD
-http://45.181.123.233:8000/play/a17g
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="TV PREMIUM",Tooncast op2 HD
-http://201.182.250.126:9999/play/a0ff
-
-
-#EXTINF:-1 tvg-id="Clan Latinoamerica" tvg-name="Clan Latinoamerica" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/clan_tve.png" group-title="TV PREMIUM",Clan Latinoamerica | Mexico
-http://190.211.250.102:8000/play/a01j
-
-#EXTINF:-1 tvg-id="Cartoon Network Sur" tvg-name="Cartoon Network Sur" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica.png" group-title="TV PREMIUM",Cartoon Network | USA
-http://45.181.123.194:8000/play/a0k9/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",Senpai TV 
 http://45.184.87.142:8000/play/a021
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
-https://use21.playlist.ttvnw.net/v1/playlist/CtAEvT_sVcXzqx8XC6Ar2-qvze0e72i_e374_TKNkmm3w7AxUMpNC2v5YckSuI-gsOj6oXYbVfdUZy6z3urILp6-7GVs6tiGDn-h-2odkF2zqEcVaWx8ZjF8prBvm51NUOYqdUUk8NDMoG98pE85j3aCLDCeYmTJx-61IBEo5HaT-OSZG6ryysZabqG-lGTkasYjO-J-0HNlZA2c8zhit9rKVLqgljT82em-az_gsfEtMFgUVxSOZTqm7jJw7-_M33X52zulsZgdKFpfF5H6XGY2K3U40BKPv7rAyinVKqPQhP0HEFSxMrO31QgeLfSs8NgGxZW3K3ovkqYDNEXj-YiBpG7t1uj1uG6GrtLDSG6DhMIsYKtMkJPZdjBud2qthy6jhXWB68_-Y0wSDZeq6dTDPAYixoHt5Wd-V13w1nBAe4vbfy0Ys1XF42lWuA5a9A79QNWpQIhndTR3XPgcOA37WmvryB9rfkd2B9ypP5JkWr5YQEYzimVQ1JXz05d24J4zcAQzdlfAv3-W2lEhQ_7Y2dsGLP7ux_rdsBv0aYAgurgx2CRAd5bam_-4DuXwV4mB3FArdZ5m6Wy9uNaltp909eYSidx4Mm_zzjjDd_sG1PodDauB3KRjuPTw9glDiiL1RnSdWTgm20cimNTIJg4CB1ZfWDoHmoC3F8M0r7M8xMAH14Qxqe1RxSfCkUklIIR7TjG9b8FAuSLCXDgB_6V1AGedoovN3kWdPw_huPGR01l9Id6V5hc9lnNgSs5wbfrXCh7dgEIQG-LYAI2GCIWjMxoM7OpZo5_Pcd-lFVtiIAEqCXVzLWVhc3QtMjDZCw.m3u8 
-
-#EXTINF:-1 tvg-name="ZTV Anime" tvg-id="ZTVAnime" tvg-logo="https://i.ibb.co/2dNtXPH/Logo-Z-TV.png" group-title="JOVENES Y ADULTOS",ZTV Anime HD
-https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
-
-#EXTINF:-1 tvg-name="Toonizaki" tvg-id="Toonizaki" tvg-logo="https://i.ibb.co/GWw3dbZ/Logo-Toonizaki-Chile.png" group-title="JOVENES Y ADULTOS",Toonizaki HD
+#EXTINF:-1 ,Toonizaki HD
 https://mitv.zplay.cl/ZRetro/video.m3u8?token=D4lm1R0m-tFJES
 
-#EXTINF:-1 tvg-name="T3l3" tvg-id="T3l3" tvg-logo="https://i.ibb.co/2dNtXPH/Logo-Z-TV.png" group-title="JOVENES Y ADULTOS",T3l3 HD
-https://mitv.zplay.cl/T3l3/video.m3u8?token=D4lm1R0m-tFJES
-
-#EXTINF:-1 tvg-name="Teletoonizaki HD" tvg-id="TeletoonizakiHD" tvg-logo="https://i.ibb.co/BBRSNJL/Logo-Teletoonizaki-HD.png" group-title="JOVENES Y ADULTOS",Teletoonizaki HD
-https://mitv.zplay.cl/TeletoonizakiHD/video.m3u8?token=D4lm1R0m-tFJES
-
-#EXTINF:-1 tvg-name=" AVI" tvg-id="Avi" tvg-logo="https://i.ibb.co/0cbMVJh/Logo-Avi.png" group-title="JOVENES Y ADULTOS",AVI HD
+#EXTINF:-1 ,AVI HD
 https://mitv.zplay.cl/Avi/video.m3u8?token=D4lm1R0m-tFJES
 
-#EXTINF:-1 tvg-name="magic Spin" tvg-id="MagicSpin" tvg-logo="https://i.ibb.co/c8ZRrND/Logo-Magic-Club.png" group-title="JOVENES Y ADULTOS",Magic Spin HD
-https://mitv.zplay.cl/NinjaZ/video.m3u8?token=D4lm1R0m-tFJES
-
-#EXTINF:-1 tvg-name="Magic Spin" tvg-id="MagicSpin" tvg-logo="https://i.ibb.co/c8ZRrND/Logo-Magic-Club.png" group-title="JOVENES Y ADULTOS",Magic Spin HD (Opcion 2)
-https://streaming-cl.sh1ny.space/memfs/fb2dbceb-85ed-4957-9216-7a3922ece1cb.m3u8
-
-#EXTINF:-1 tvg-name="BD Network" tvg-id="BDNetwork" tvg-logo="https://i.ibb.co/myNDTWk/logo-BD-Network.png" group-title="JOVENES Y ADULTOS",BD Network
-https://live.autistici.org/hls/bdnetwork_mid.m3u8
-
-#EXTINF:-1 tvg-name="Adult Swim LA" tvg-id="AdultSwimLA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
+#EXTINF:-1 ,Adult Swim LA
 http://181.78.105.146:6060/play/a01n
 
-#EXTINF:-1 tvg-name="Adult Swim Mexico" tvg-id="adultswimmx" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim Mexico
-http://138.118.105.190:8000/play/a0g1
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C7NPTsT/Logo-Invasiva-Media.jpg" group-title="JOVENES Y ADULTOS",Imvasiva Media HD
-https://tv.invasivamedia.com/hls/limtv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qdTGJsc/Logo-Maxima-TV.png" group-title="JOVENES Y ADULTOS",Maxima TV
-https://ssh101-fl.bozztv.com/ssh101/maxtvstreaming/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qdTGJsc/Logo-Maxima-TV.png" group-title="JOVENES Y ADULTOS",Maxima TV (Opcion 2)
-https://ssh101.bozztv.com/ssh101/maxtvstreaming/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Unetev HD" tvg-logo="https://i.ibb.co/sw99Kbn/Logo-Desierto-florido-TV.jpg" group-title="JOVENES Y ADULTOS",Desierto florido TV HD
+#EXTINF:-1 ,Desierto florido TV HD
 https://xhateaec.com:8800/hls/orcoviejo/orcoviejo/2107442b41d993659c67b0e5974348af/index.m3u8
 
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation HD publico
