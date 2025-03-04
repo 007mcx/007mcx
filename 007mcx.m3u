@@ -260,9 +260,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/63eb95baa99571000898a078/master.m3u
 #EXTINF:-1 , Baywatch
 https://stitcher.pluto.tv/stitch/hls/channel/66a26a7846762a0008258d4e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
-#EXTINF:-1 , Los Tres Chiflados
-https://stitcher.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
-
 #EXTINF:-1 , Catfish
 https://stitcher.pluto.tv/stitch/hls/channel/625461ef01f27a0007976ad1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
@@ -352,9 +349,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u
 
 #EXTINF:-1 , PAW Patrol Patrulla de Cachorros
 https://stitcher.pluto.tv/stitch/hls/channel/6495c6ad115d060008bf6b52/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
-
-#EXTINF:-1 , Dora La Exploradora
-https://stitcher.pluto.tv/stitch/hls/channel/656e28a2954b020008ed133a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
 #EXTINF:-1 , Las Pistas de Blue
 https://stitcher.pluto.tv/stitch/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
@@ -481,3 +475,6 @@ https://www.dailymotion.com/embed/video/x80bl3l
 
 #EXTINF:-1 tvg-id="1544" tvg-name="Megaclassic TV" tvg-logo="https://cdn.m3u.cl/logo/1544_Megaclassic_TV.png", Megaclassic TV | AR
 https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8
+
+#EXTINF:0,TELEMAR
+http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
