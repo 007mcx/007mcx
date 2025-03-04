@@ -385,12 +385,8 @@ https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SAMSUNG ES" tvg-id="ThePetCollective.es",The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GUATEMALA",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GUATEMALA",Mas Tv
-https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GUATEMALA",Vision Tv HD
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
