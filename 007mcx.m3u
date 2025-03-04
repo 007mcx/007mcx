@@ -120,9 +120,6 @@ https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1, Pitufo TV
-https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
-
 #EXTINF:-1, Adult Swim
 http://190.61.42.218:9000/play/a00u
 
@@ -165,15 +162,6 @@ https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" tvg-name="Mi TV Television Clasica" tvg-logo="https://i.imgur.com/8rJZuk0.png"  group-title="CANALES INDEPENDIENTES",Mi TV Television Clasica | USA
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://i.imgur.com/BjOe1RF.jpg" group-title="CANALES INDEPENDIENTES",Moni TV HD | Argentina
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
-
-#EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://i.imgur.com/dnqNtOF.png" group-title="CANALES INDEPENDIENTES",Moni TV HD op2 | Argentina
-https://fl1001.bozztv.com/ssh101/monitvhd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/qFndbzN.png" group-title="CANALES INDEPENDIENTES",Retro Magico | Argentina
-https://fl1001.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Retro Tv Online" tvg-name="Retro Tv Online" tvg-logo="https://i.imgur.com/9crh886.png" group-title="CANALES INDEPENDIENTES",Retro Tv Online | ND
 https://fl1001.bozztv.com/ssh101/retrotvcr/playlist.m3u8
 
@@ -186,13 +174,11 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 ,Teleclasica
 https://fl1001.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="Los Pitufos TV" tvg-name="Los Pitufos TV" tvg-logo="https://i.imgur.com/AMOcgQg.jpg" group-title="INFANTILES",Los Pitufos TV | ND
+#EXTINF:-1 Los Pitufos
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="AnimeStation" tvg-logo="https://i.imgur.com/oaa8yMT.png" group-title="JOVENES Y ADULTOS",AnimeStation | Argentina
 https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
-
 
 #EXTINF:-1 ,Ani Retro | Chile
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
@@ -214,15 +200,6 @@ https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 
 #EXTINF:-1 tvg-id="Kpop Tv Play" tvg-name="Kpop Tv Play" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="JOVENES Y ADULTOS",Kpop Tv Play | Brasil
 https://stream.gia.tv/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="JOVENES Y ADULTOS",Locomotion | Republica Dominicana
-http://51.222.85.85:81/hls/loco/index.m3u8
-
-#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="JOVENES Y ADULTOS",Locomotion op1 | Republica Dominicana
-http://85.239.54.197:81/live/loco_hi/index.m3u8
-
-#EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="JOVENES Y ADULTOS",Locomotion op2 | Republica Dominicana
-http://85.239.54.197:81/live/loco_low/index.m3u8
 
 #EXTINF:-1 tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="JOVENES Y ADULTOS",Locomotion (LQ) | Republica Dominicana
 http://locomotiontv.com/envivo/loco_ch_low/stream.m3u8
@@ -443,9 +420,6 @@ https://ssh101-fl.bozztv.com/ssh101/funtveste/playlist.m3u8
 #EXTINF:-1 ,DM Kids TV HD
 https://video03.logicahost.com.br/dmkidstv/dmkidstv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TvH9gvB/Logo-Pitufo-TV.png" group-title="Familiares",Pitufo TV
-https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
-
 #EXTINF:-1 ,Retrox TV
 https://ssh101-fl.bozztv.com/ssh101/retroxcr/playlist.m3u8
 
@@ -475,6 +449,3 @@ https://www.dailymotion.com/embed/video/x80bl3l
 
 #EXTINF:-1 tvg-id="1544" tvg-name="Megaclassic TV" tvg-logo="https://cdn.m3u.cl/logo/1544_Megaclassic_TV.png", Megaclassic TV | AR
 https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8
-
-#EXTINF:0,TELEMAR
-http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
