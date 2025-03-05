@@ -264,8 +264,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/6109a9f5531b840007a4a187/master.m3u
 #EXTINF:-1 , Los archivos del FBI
 https://stitcher.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
-#EXTINF:-1 , Archivos Forenses
-https://stitcher.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
 #EXTINF:-1 , The New Detectives
 https://stitcher.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
@@ -275,18 +273,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u
 
 #EXTINF:-1 , ITV Deportes
 https://stitcher.pluto.tv/stitch/hls/channel/63f7e3f9dff38e00082a57af/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
-
-#EXTINF:-1 , Pluto TV Peleas
-https://stitcher.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
-
-#EXTINF:-1 , Lucha Libre AAA
-https://stitcher.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
-
-#EXTINF:-1 , DAZN Combat
-https://stitcher.pluto.tv/stitch/hls/channel/64df7a9a44fe100009b6ac5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
-
-#EXTINF:-1 , PFL MMA
-https://stitcher.pluto.tv/stitch/hls/channel/64f6163a30ab3300083d870e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
 #EXTINF:-1 , The Pet Collective
 https://stitcher.pluto.tv/stitch/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
@@ -380,15 +366,6 @@ https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 #EXTINF:-1 ,BBC Doctor Who HD
 https://daiconnect.com/live/hls/tvup/tvfy-doctorwho/.m3u8
 
-#EXTINF:-1 ,Magic Kids TV
-https://giatv.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
-
-#EXTINF:-1 ,Magic
-https://magicstream.ddns.net/magicstream/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fXKF932/Logo-Retro-Magico.png" group-title="Familiares",Retro Magico
-https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
-
 #EXTINF:-1 ,Cartoon Clasico
 https://ssh101-fl.bozztv.com/ssh101/cartoonclasico/playlist.m3u8
 
@@ -415,9 +392,6 @@ http://181.119.86.1:8000/play/a01q
 
 #EXTINF:-1 ,Nickelodeon
 http://190.60.48.85:9080/play/a1bi
-
-#EXTINF:-1 ,Bitme HD
-http://190.60.33.245:4002/play/a0kd
 
 #EXTINF:-1 ,TeleRed TV HD
 https://k20.usastreams.com:8081/telered/index.m3u8
