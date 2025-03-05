@@ -30,9 +30,6 @@ https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1, Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1, Canal Hex
-https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
-
 #EXTINF:-1, Max Anime
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 
@@ -63,12 +60,6 @@ https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
 #EXTINF:-1, Energeek Radio TV
 https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
 
-#EXTINF:-1, Planeta TV
-https://live.obslivestream.com/planetatv/index.m3u8
-
-#EXTINF:-1, +Cine
-https://tv.streaming-chile.com:19360/8142/8142.m3u8
-
 #EXTINF:-1, GenTV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
@@ -77,12 +68,6 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
 #EXTINF:-1, Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-#EXTINF:-1, Terror TV
-https://tv.streaming-chile.com:19360/8140/8140.m3u8
-
-#EXTINF:-1, Boreal
-https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 
 #EXTINF:-1, MyTime movie network Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
@@ -96,9 +81,6 @@ http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1, Caracola TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
-#EXTINF:-1, TV y TV
-https://stmv5.voxtvhd.com.br/tvytv/tvytv/playlist.m3u8
-
 #EXTINF:-1, Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
@@ -108,26 +90,14 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1, Top FM TV (Atalaya)
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 
-#EXTINF:-1, TeleValencia
-https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
-
 #EXTINF:-1 , EGM Channel
 https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1, Adult Swim
+#EXTINF:-1, Discovery Home and Health
 http://190.61.42.218:9000/play/a00u
-
-#EXTINF:-1, Etc TV
-http://45.160.12.253:8000/play/007
-
-#EXTINF:-1, Cartoon Network
-http://45.160.12.200:8008/play/009
-
-#EXTINF:-1, MVS TV
-https://mvs.daioncdn.net/mvstv/mvstv.m3u8
 
 #EXTINF:-1, Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
@@ -137,12 +107,6 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
 #EXTINF:-1 , Milenio TV
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7.png" group-title="MEXICO", Azteca 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-
-#EXTINF:-1 , ADN 40 op2
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 ,VER: TVMAS Veracruz
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
@@ -165,9 +129,6 @@ https://fl1001.bozztv.com/ssh101/retrotvcr/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroX TV" tvg-name="RetroX TV" tvg-logo="https://i.imgur.com/sDTp6BD.png" group-title="CANALES INDEPENDIENTES",RetroX TV | Costa Rica
 https://fl1001.bozztv.com/ssh101/retroxcr/playlist.m3u8
 
-#EXTINF:-1 ,Sicardi TV | Argentina
-https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
-
 #EXTINF:-1 ,Teleclasica
 https://fl1001.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
@@ -176,9 +137,6 @@ https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="AnimeStation" tvg-logo="https://i.imgur.com/oaa8yMT.png" group-title="JOVENES Y ADULTOS",AnimeStation | Argentina
 https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
-
-#EXTINF:-1 ,Ani Retro | Chile
-https://tv.streaming-chile.com:19360/8068/8068.m3u8
 
 #EXTINF:-1 tvg-id="Anime Onegai Tv" tvg-name="Anime Onegai Tv" tvg-logo="https://imgur.com/uzZEcG7.png" group-title="JOVENES Y ADULTOS",Anime Onegai Tv | ND
 https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8
@@ -261,13 +219,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u
 #EXTINF:-1 , Cazador de Homicidas
 https://stitcher.pluto.tv/stitch/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
-#EXTINF:-1 , Los archivos del FBI
-https://stitcher.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
-
-
-#EXTINF:-1 , The New Detectives
-https://stitcher.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
-
 #EXTINF:-1 , Misterios sin Resolver
 https://stitcher.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
@@ -324,9 +275,6 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GUATEMALA",Canal 35 YEPOTV
 https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8
 
-#EXTINF:-1 ,Adult Swim HD
-http://181.78.105.146:6060/play/a01n
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",Senpai TV 
 http://45.184.87.142:8000/play/a021
 
@@ -351,9 +299,6 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 ,Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-name="Toonami" tvg-id="" tvg-logo="https://i.ibb.co/KqN6PK6/Logo-Toonami.png" group-title="JOVENES Y ADULTOS",Toonami
-https://ssh101-fl.bozztv.com/ssh101/toonamitv/playlist.m3u8
-
 #EXTINF:-1 ,Max Anime
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 
@@ -366,23 +311,8 @@ https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 #EXTINF:-1 ,BBC Doctor Who HD
 https://daiconnect.com/live/hls/tvup/tvfy-doctorwho/.m3u8
 
-#EXTINF:-1 ,Cartoon Clasico
-https://ssh101-fl.bozztv.com/ssh101/cartoonclasico/playlist.m3u8
-
-#EXTINF:-1 ,FUNTV
-https://giatv.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8
-
-#EXTINF:-1 ,FUNTV ESTE
-https://ssh101-fl.bozztv.com/ssh101/funtveste/playlist.m3u8
-
-#EXTINF:-1 ,DM Kids TV HD
-https://video03.logicahost.com.br/dmkidstv/dmkidstv/playlist.m3u8
-
 #EXTINF:-1 ,Retrox TV
 https://ssh101-fl.bozztv.com/ssh101/retroxcr/playlist.m3u8
-
-#EXTINF:-1 ,Diti TV HD
-https://ssh101-fl.bozztv.com/ssh101/dititv/playlist.m3u8
 
 #EXTINF:-1 ,Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
@@ -398,9 +328,6 @@ https://k20.usastreams.com:8081/telered/index.m3u8
 
 #EXTINF:-1 ,GenTV HD
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
-
-#EXTINF:-1 ,Telemar
-https://www.dailymotion.com/embed/video/x80bl3l
 
 #EXTINF:-1 , Megaclassic TV | AR
 https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8
