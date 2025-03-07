@@ -105,19 +105,15 @@ https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1, Discovery Home and Health
 http://190.61.42.218:9000/play/a00u
 
-#EXTINF:-1, Once México
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
 #EXTINF:-1 , Milenio TV
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 ,VER: TVMAS Veracruz
-https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-
 #EXTINF:-1 ,YUC: Teleplay Merida
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
 
-
+#EXTINF:-1 ,Tele Yucatan
+https://conceptoweb-studio.com/radio/video/trecevision/
 
 #EXTINF:-1 Los Pitufos
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
