@@ -137,15 +137,6 @@ https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
 #EXTINF:-1 ,Kpop Tv Play | Brasil
 https://stream.gia.tv/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 
-#EXTINF:-1 ,GenTV HD | Argentina
-https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
-
-#EXTINF:-1 ,Global TV | Republica Dominicana
-https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
-
-#EXTINF:-1 ,My Time Movie | Mexico
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 ,Orbit TV | Republica Dominicana
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
