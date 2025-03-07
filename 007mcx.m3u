@@ -110,8 +110,7 @@ https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1, Discovery Home and Health
 http://190.61.42.218:9000/play/a00u
 
-#EXTINF:-1, Azteca Internacional
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
 
 #EXTINF:-1, Once México
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
@@ -242,8 +241,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/645952687cb4b100084ed52e/master.m3u
 #EXTINF:-1 , Las Tortugas Ninja
 https://stitcher.pluto.tv/stitch/hls/channel/63dd5d7a4e83e700088fbca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
-#EXTINF:-1 ,The Pet Collective
-https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
+
 
 #EXTINF:-1 ,AVI HD
 https://mitv.zplay.cl/Avi/video.m3u8?token=D4lm1R0m-tFJES
