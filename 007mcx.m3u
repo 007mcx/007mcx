@@ -13,7 +13,7 @@ https://paneltv.online:1936/8046/8046/playlist.m3u8
 https://fl1001.bozztv.com/ssh101/retrotvcr/playlist.m3u8
 
 #EXTINF:-1, Teleclasica
-https://ssh101-fl.bozztv.com/ssh101/teleclasik/playlist.m3u8
+https://fl1001.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
 #EXTINF:-1, Retrox TV
 https://ssh101-fl.bozztv.com/ssh101/retroxcr/playlist.m3u8
@@ -118,13 +118,6 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
 
 
-
-
-#EXTINF:-1 ,RetroX TV | Costa Rica
-https://fl1001.bozztv.com/ssh101/retroxcr/playlist.m3u8
-
-#EXTINF:-1 ,Teleclasica
-https://fl1001.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
 #EXTINF:-1 Los Pitufos
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
