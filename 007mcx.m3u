@@ -15,9 +15,6 @@ https://fl1001.bozztv.com/ssh101/retrotvcr/playlist.m3u8
 #EXTINF:-1, Teleclasica
 https://fl1001.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
-#EXTINF:-1, Retrox TV
-https://www.vivalivetv.com/8652250c-9938-43cf-9f82-70a78d4b9de5
-
 #EXTINF:-1 ,Vision Tv
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
@@ -96,8 +93,6 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1, Wow Tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-
-
 #EXTINF:-1, Top FM TV (Atalaya)
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 
@@ -109,8 +104,6 @@ https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1, Discovery Home and Health
 http://190.61.42.218:9000/play/a00u
-
-
 
 #EXTINF:-1, Once México
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
@@ -248,10 +241,6 @@ https://mitv.zplay.cl/Avi/video.m3u8?token=D4lm1R0m-tFJES
 
 #EXTINF:-1 ,BBC Doctor Who HD
 https://daiconnect.com/live/hls/tvup/tvfy-doctorwho/.m3u8
-
-
-
-
 
 #EXTINF:-1 ,TeleRed TV HD
 https://k20.usastreams.com:8081/telered/index.m3u8
