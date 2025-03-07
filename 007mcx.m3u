@@ -236,17 +236,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/63dd5d7a4e83e700088fbca8/master.m3u
 #EXTINF:-1 ,The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
-
-
-
-
-
 #EXTINF:-1 ,AVI HD
 https://mitv.zplay.cl/Avi/video.m3u8?token=D4lm1R0m-tFJES
-
-
-
-
 
 #EXTINF:-1 ,BBC Doctor Who HD
 https://daiconnect.com/live/hls/tvup/tvfy-doctorwho/.m3u8
@@ -262,9 +253,6 @@ http://190.60.48.85:9080/play/a1bi
 
 #EXTINF:-1 ,TeleRed TV HD
 https://k20.usastreams.com:8081/telered/index.m3u8
-
-#EXTINF:-1 ,GenTV HD
-https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
 #EXTINF:-1 , Megaclassic TV | AR
 https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8
