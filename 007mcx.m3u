@@ -172,45 +172,30 @@ https://daiconnect.com/live/hls/tvup/tvfy-doctorwho/.m3u8
 https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/milenio_tv-mediano.png" group-title="MEXICO",6.2 Milenio TV
+#EXTINF:-1 , Milenio TV
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 tvg-id="ADN 40" tvg-name="ADN 40" tvg-logo="https://i.imgur.com/qO0nkZz.png" group-title="MEXICO",40.1 ADN 40
+#EXTINF:-1 ,ADN 40
 https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 
 
-#EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="MULTIMEDIOSTV.mx" tvg-logo="https://i.imgur.com/M3RpKt3.png" group-title="REGIONAL",Multimedios CdMexico
+#EXTINF:-1 ,Multimedios Cd Mexico
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
 
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="Los Pitufos TV" tvg-name="Los Pitufos TV" tvg-logo="https://i.imgur.com/AMOcgQg.jpg" group-title="INFANTILES",Los Pitufos TV | ND
+#EXTINF:-1 ,Los Pitufos TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Max Anime" tvg-id="Max Anime" tvg-logo="https://i.imgur.com/aiCirDm.png" group-title="JOVENES Y ADULTOS",Max Anime | Argentina
-https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="620bfa7df72827000703ddb1" tvg-name="Stargate" tvg-logo="https://images.pluto.tv/channels/620bfa7df72827000703ddb1/colorLogoPNG.png" group-title="Sci-Fi" tvg-chno="860", Stargate
+#EXTINF:-1 , Stargate
 https://stitcher.pluto.tv/stitch/hls/channel/620bfa7df72827000703ddb1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6780419e-1ba9-11f0-a1fd-4e04716c5414
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/27GJ35p/Logo-Sony-Canal-Escape-Perfecto.png" group-title="LATINO",Sony Canal Escape Perfecto
+#EXTINF:-1 ,Sony Canal Escape Perfecto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605e479d5b8229000763e697/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
 
 
