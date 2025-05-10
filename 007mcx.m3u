@@ -170,3 +170,79 @@ https://daiconnect.com/live/hls/tvup/tvfy-doctorwho/.m3u8
 
 #EXTINF:-1 , Megaclassic TV | AR
 https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico.png" group-title="MEXICO",5.1 Canal Cinco
+http://181.78.105.146:2000/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico.png" group-title="MEXICO",5.1 Canal Cinco op2
+https://channel05-onlymex.akamaized.net/hls/live/2033783/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="MULTIMEDIOSTV.mx" tvg-logo="https://i.imgur.com/M3RpKt3.png"group-title="MEXICO",6.1 Canal 6
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/milenio_tv-mediano.png" group-title="MEXICO",6.2 Milenio TV
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF:-1 tvg-id="ADN 40" tvg-name="ADN 40" tvg-logo="https://i.imgur.com/qO0nkZz.png" group-title="MEXICO",40.1 ADN 40
+https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+
+#EXTINF:-1 tvg-id="ADN 40" tvg-name="ADN 40" tvg-logo="https://i.imgur.com/qO0nkZz.png" group-title="MEXICO",40.1 ADN 40 op2
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="MULTIMEDIOSTV.mx" tvg-logo="https://i.imgur.com/M3RpKt3.png" group-title="REGIONAL",Multimedios CdMexico
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#EXTINF:-1 tvg-id="Canal ZeroFIlms" tvg-name="Canal ZeroFIlms" tvg-logo="https://imgur.com/ENa7t5W.png" group-title="CANALES INDEPENDIENTES",Canal ZeroFIlms | Colombia
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/canalzerofilms1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Classic Channel HD" tvg-name="Classic Channel HD" tvg-logo="https://i.imgur.com/taejlKJ.png" group-title="CANALES INDEPENDIENTES",Classic Channel HD | Chile
+https://paneltv.online:1936/classicchannel/classicchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DFTV Animacion HD" tvg-name="DFTV Animacion HD" tvg-logo="https://i.ibb.co/20Bvt92m/Logo-DFTV-Animacion.jpg" group-title="CANALES INDEPENDIENTES",DFTV Animacion HD | Chile
+https://xhateaec.com:8800/hls/orcoviejo/orcoviejo/2107442b41d993659c67b0e5974348af/index.m3u8
+
+#EXTINF:-1 tvg-id="DFTV Movie HD" tvg-name="DFTV Movie HD" tvg-logo="https://i.ibb.co/CpZJWgkw/Logo-DFTV-Movie.jpg" group-title="CANALES INDEPENDIENTES",DFTV Movie HD | Chile
+https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/7c216bbd236f34cd57f833572018f2b8/index.m3u8
+
+#EXTINF:-1 tvg-id="Big TV" tvg-name="Big TV" tvg-logo="https://i.imgur.com/SoPjHGj.png" group-title="INFANTILES",Big TV | Argentina
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CachiPum Tv" tvg-name="CachiPum Tv" tvg-logo="http://cachipumtv.live/assets/img/brand.png" group-title="INFANTILES",CachiPum Tv | Chile
+https://scl.edge.grupoz.cl/streamcachi/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal Ipe" tvg-name="Canal Ipe" tvg-logo="https://i.imgur.com/BADfaU8.png" group-title="INFANTILES",Canal Ipe | Peru
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Clasico LAT" tvg-name="Cartoon Clasico LAT" tvg-logo="https://i.r.com/SoPjHGj.png" group-title="INFANTILES",Cartoon Clasico LAT | Argentina
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/cartoonclasico/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CN City" tvg-name="CN City" tvg-logo="https://imgur.com/38F3AsR.png" group-title="INFANTILES",CN City | Chile
+https://envivo.cncity.live/hls/cncity.m3u8
+
+#EXTINF:-1 tvg-id="FUNTV" tvg-name="FUNTV" tvg-logo="https://i.ibb.co/BGwcmQT/Logo-FUNtv.png" group-title="INFANTILES",FUNTV | ND
+https://giatv.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FUNTV ESTE" tvg-name="FUNTV ESTE" tvg-logo="https://i.ibb.co/jKZjB56/Logo-Ani-Fun.png" group-title="INFANTILES",FUNTV ESTE | ND
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/funtveste/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Los Pitufos TV" tvg-name="Los Pitufos TV" tvg-logo="https://i.imgur.com/AMOcgQg.jpg" group-title="INFANTILES",Los Pitufos TV | ND
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+
+#EXTINF:-1 tvg-name="Anime Vision Classics" tvg-id="Anime Vision Classics" tvg-logo="https://i.ibb.co/TD1wyybD/Logo-Anime-Vision-Classics.png" group-title="JOVENES Y ADULTOS",Anime Vision Classics | ND
+https://daiconnect.com/live/hls/tvup/tvfy-animevisionclassics/.m3u8
+
+#EXTINF:-1 tvg-id="Ani Retro" tvg-name="Ani Retro" tvg-logo="https://i.ibb.co/Np8WdpM/Logo-Ani-Retro.png" group-title="JOVENES Y ADULTOS",Ani Retro | Chile
+https://tv.arkeo.cl:19360/8000/8000.m3u8
+
+#EXTINF:-1 tvg-name="Max Anime" tvg-id="Max Anime" tvg-logo="https://i.imgur.com/aiCirDm.png" group-title="JOVENES Y ADULTOS",Max Anime | Argentina
+https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Big Cine" tvg-name="Big Cine" tvg-logo="https://imgur.com/jEcFLev.png" group-title="CINE",Big Cine | Colombia
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/canalonline/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zIMRPHL.png" group-title="CINE",Cine Horrorfy | USA
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+
+#EXTINF:-1 tvg-id="620bfa7df72827000703ddb1" tvg-name="Stargate" tvg-logo="https://images.pluto.tv/channels/620bfa7df72827000703ddb1/colorLogoPNG.png" group-title="Sci-Fi" tvg-chno="860", Stargate
+https://stitcher.pluto.tv/stitch/hls/channel/620bfa7df72827000703ddb1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6780419e-1ba9-11f0-a1fd-4e04716c5414
+
