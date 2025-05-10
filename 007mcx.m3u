@@ -7,7 +7,7 @@ https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 
 #EXTINF:-1, Classic Channel
-https://paneltv.online:1936/8046/8046/playlist.m3u8
+https://paneltv.online:1936/classicchannel/classicchannel/playlist.m3u8
 
 #EXTINF:-1, Retro TV
 https://fl1001.bozztv.com/ssh101/retrotvcr/playlist.m3u8
@@ -237,11 +237,7 @@ https://tv.arkeo.cl:19360/8000/8000.m3u8
 #EXTINF:-1 tvg-name="Max Anime" tvg-id="Max Anime" tvg-logo="https://i.imgur.com/aiCirDm.png" group-title="JOVENES Y ADULTOS",Max Anime | Argentina
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Big Cine" tvg-name="Big Cine" tvg-logo="https://imgur.com/jEcFLev.png" group-title="CINE",Big Cine | Colombia
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/canalonline/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zIMRPHL.png" group-title="CINE",Cine Horrorfy | USA
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
 #EXTINF:-1 tvg-id="620bfa7df72827000703ddb1" tvg-name="Stargate" tvg-logo="https://images.pluto.tv/channels/620bfa7df72827000703ddb1/colorLogoPNG.png" group-title="Sci-Fi" tvg-chno="860", Stargate
 https://stitcher.pluto.tv/stitch/hls/channel/620bfa7df72827000703ddb1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6780419e-1ba9-11f0-a1fd-4e04716c5414
@@ -255,8 +251,6 @@ https://tv.arkeo.cl:19360/8000/8000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/McNsbnt/logo-TVS-Retro.png" group-title="Familiares",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/xhKfwSx/logo-Classic-Channel.png" group-title="Familiares",Classic Channel HD
-https://paneltv.online:1936/classicchannel/classicchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="Familiares",Tooncast HD
 http://190.2.213.106:8000/play/a00c
@@ -266,18 +260,11 @@ https://cnn.hostlagarto.com/megacinetv/playlist.m3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1f3GvNBM/Logo-PERU-ENTERTAINMENT-PLAY.png" group-title="LATINO",PERU ENTERTAINMENT PLAY HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12966
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k9YDwcp/Logo-Sony-Canal-Comedias.png" group-title="LATINO",Sony Canal Comedias
-https://62d4f4f024504aeb8d60e3692175780b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/z5QWrWp/Logo-Sony-Canal-Competencias.png" group-title="LATINO",Sony Canal Competencias
-https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Mn2K6Km/Logo-Sony-Canal-Novelas.png" group-title="LATINO",Sony Canal Novelas
-https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/27GJ35p/Logo-Sony-Canal-Escape-Perfecto.png" group-title="LATINO",Sony Canal Escape Perfecto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605e479d5b8229000763e697/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TvtsFbT/Logo-imagen-Universal.png" group-title="LATINO",Imagen  Universal TV HD
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mXpId1b.jpg" group-title="LATINO",GenTV HD
-https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dOye59W.png" group-title="RADIOS",Animax Radio
-https://stream-57.zeno.fm/ep9mpnntsnhvv?zs=ChPrtqZ1SMuqfQHUnpqhFw
+
+
