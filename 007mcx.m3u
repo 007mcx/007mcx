@@ -21,14 +21,14 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1, Mi TV Televisión Clásica
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
-#EXTINF:-1, ZTV Cine Anime
-https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
+#EXTINF:-1 ,Anime Vision Classics
+https://daiconnect.com/live/hls/tvup/tvfy-animevisionclassics/.m3u8
 
 #EXTINF:-1, Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 ,AnimeStation
-https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
+#EXTINF:-1 ,Ani Retro
+https://tv.arkeo.cl:19360/8000/8000.m3u8
 
 #EXTINF:-1 ,Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8
@@ -228,8 +228,7 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/funtveste/playlist.m3u8
 #EXTINF:-1 tvg-id="Los Pitufos TV" tvg-name="Los Pitufos TV" tvg-logo="https://i.imgur.com/AMOcgQg.jpg" group-title="INFANTILES",Los Pitufos TV | ND
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
-#EXTINF:-1 tvg-name="Anime Vision Classics" tvg-id="Anime Vision Classics" tvg-logo="https://i.ibb.co/TD1wyybD/Logo-Anime-Vision-Classics.png" group-title="JOVENES Y ADULTOS",Anime Vision Classics | ND
-https://daiconnect.com/live/hls/tvup/tvfy-animevisionclassics/.m3u8
+
 
 #EXTINF:-1 tvg-id="Ani Retro" tvg-name="Ani Retro" tvg-logo="https://i.ibb.co/Np8WdpM/Logo-Ani-Retro.png" group-title="JOVENES Y ADULTOS",Ani Retro | Chile
 https://tv.arkeo.cl:19360/8000/8000.m3u8
@@ -242,11 +241,9 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-id="620bfa7df72827000703ddb1" tvg-name="Stargate" tvg-logo="https://images.pluto.tv/channels/620bfa7df72827000703ddb1/colorLogoPNG.png" group-title="Sci-Fi" tvg-chno="860", Stargate
 https://stitcher.pluto.tv/stitch/hls/channel/620bfa7df72827000703ddb1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6780419e-1ba9-11f0-a1fd-4e04716c5414
 
-#EXTINF:-1 tvg-name="Max Anime" tvg-id="" tvg-logo="https://i.ibb.co/JdVqhzc/Logo-Max-Anime.png" group-title="JOVENES Y ADULTOS",Max Anime
-https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Np8WdpM/Logo-Ani-Retro.png" group-title="Familiares",Ani Retro
-https://tv.arkeo.cl:19360/8000/8000.m3u8
+
+
 
 
 
