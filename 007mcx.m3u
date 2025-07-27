@@ -139,7 +139,7 @@ https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek202
 #EXTINF:-1, Energeek Radio
 https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=dEmoweBeneRGEek2025
 
-#EXTINF:-1,Fanpop TV op3 | Chile
+#EXTINF:-1,Fanpop TV
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=dEmoweBeneRGEek2025
 
 #EXTINF:-1 ,Adult Swim LA
