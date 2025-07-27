@@ -8998,18 +8998,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sFwwMyt/logo-Zaz-TV.png" group-title="Familiares",Zaz TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13012
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" group-title="Familiares",Gogoplay Max
-https://live20.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" group-title="Familiares",Gogoplay TV HD
+
+
+#EXTINF:-1, Gogoplay TV HD
 https://live20.bozztv.com/akamaissh101/ssh101/gogoplayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" group-title="Familiares",Gogoplay TV HD2
-https://live20.bozztv.com/akamaissh101/ssh101/gogoplayinter/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" group-title="Familiares",Gogoplay TV SD
-https://live20.bozztv.com/akamaissh101/ssh101/gogoplaysd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" group-title="Familiares",Gogoplay TVE
-https://live20.bozztv.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" group-title="Familiares",Gogoplay TV
+
+#EXTINF:-1, Gogoplay TV
 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Mi TV Television Clasica" tvg-logo="https://i.ibb.co/L1Q70jL/Logo-Mi-TV-Television-Clasica.png"  group-title="Familiares",Mi TV Television Clasica
 https://5aa8c7549bfa9.streamlock.net/live/livestream123/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pJ620t8/logo-Telecl-sica.jpg" group-title="Familiares",Teleclasica
@@ -9068,44 +9064,33 @@ http://38.49.128.38:8000/play/a0n6
 http://38.49.128.38:8000/play/a0fm
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HLq4v5V0/logo-Azteca-Internacional.png" group-title="LATINO",Azteca Internacional HD
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tCRgNmz/Logo-Tele-Estrella.png" group-title="LATINO",Tele Estrella
-https://stmvideo6.livecastv.com/telestrella/telestrella/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SvB0S0x/logo-Tele-Estrella-Bolivia.png" group-title="LATINO",Tele Estrella HD Bolivia
-https://envivo.bolivia-link.com:3785/live/teleestrellalive.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bgZSyCg/Logo-Las-Estrellas.png" group-title="LATINO",Las Estrellas HD
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7tvw3Z8G/Logo-TVTICA.png" group-title="LATINO",TVTica HD
+
+#EXTINF:-1, TVTica
 https://video.misistemareseller.com:1936/tvtica/tvtica/playlist.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/t7F5yRP/Logo-Mega-Cine-TV.png" group-title="LATINO",Mega Cine TV HD
-https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xtvWwt6C/Logo-BOREAL-TV-HD.png" group-title="LATINO",BOREAL TV HD
-https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3Y7gXdZk/Logo-TV-del-Este.png" group-title="LATINO",TV del Este HD
 https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N2YXvcHV/Logo-Ideal-TV.png" group-title="LATINO",Ideal TV HD
+#EXTINF:-1, Ideal TV HD
 https://cloud5.idealtv.net/hls/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kV3GzXqn/Logo-Sony-One-Cinema.png" group-title="LATINO",Sony One Cinema
+#EXTINF:-1, Sony One Cinema
 https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Mn2K6Km/Logo-Sony-Canal-Novelas.png" group-title="LATINO",Sony Canal Novelas
+#EXTINF:-1, Sony Canal Novelas
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/27GJ35p/Logo-Sony-Canal-Escape-Perfecto.png" group-title="LATINO",Sony Canal Escape Perfecto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605e479d5b8229000763e697/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TvtsFbT/Logo-imagen-Universal.png" group-title="LATINO",Imagen  Universal TV HD
+#EXTINF:-1,,Imagen  Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Pv0kMtC1/Logo-Gen-TV.png" group-title="LATINO",GenTV HD
+#EXTINF:-1, GenTV HD
 https://live20.bozztv.com/akamaissh101/ssh101/gentv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fSYwbt7.png" group-title="LATINO",Aurora Media Films
+#EXTINF:-1, Aurora Media Films
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
