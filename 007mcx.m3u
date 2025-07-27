@@ -920,90 +920,12 @@ https://live20.bozztv.com/akamaissh101/ssh101/simpz1/playlist.m3u8
 ﻿
 
 
-#EXTINF:-1 tvg-id="Aqmar4k Handball" tvg-name="Aqmar4k Handball" tvg-logo="https://xhateaec.com/upload/photos/2023/10/PCzrDomhaXfcfQJvPIsC_24_377b404fa0670ff046d6ff37f96f3f0e_image.jpeg" group-title="DEPORTES",Aqmar4k Handball | Saudi Arabia
-https://micanal.ovh/livestreams/180.W2RCZ4SSQNCH.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/u7R3qcx.png" group-title="DEPORTES",All Sports | Brasil
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 tvg-id="DeporTV Argentina" tvg-name="DeporTV Argentina" tvg-logo="https://i2.paste.pics/7b99edf751cc110abb5fd3f040e558b8.png" group-title="DEPORTES",DeporTV | Argentina
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-id="El Garage" tvg-name="El Garage" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="DEPORTES",Garage TV | Argentina
-https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLBNetwork.us" tvg-logo="https://i.imgur.com/DUcFWZo.jpg" group-title="DEPORTES",MLB Channel | PlutoTV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d882-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1832274-98b7-4765-ad8b-c533c4382008&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="NFL Network" tvg-name="NFL Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nfl_network.png" group-title="DEPORTES",NFL Network | USA
-https://m3u-editor.com/serve/320183542-iptv/368982424
-#EXTINF:-1 tvg-id="5de94dacb394a300099fa22a" tvg-name="5de94dacb394a300099fa22a" tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="DEPORTES",PGA Tour | PlutoTV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 tvg-id="WorldofRedBull.de" tvg-name="WorldofRedBull.de" tvg-logo="http://2.bp.blogspot.com/-FS7BOEiTZuY/UDFmV5bsaCI/AAAAAAAAByA/YWo48CK0PsY/s1600/red+bull+tv.png" group-title="DEPORTES",RED BULL TV | Austria
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 tvg-id="Teletrak" tvg-name="Teletrak" tvg-logo="https://i.imgur.com/iHhc7PK.png" group-title="DEPORTES",Teletrak | Chile
-http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ViasatSport.se" tvg-name="ViasatSport.se" tvg-logo="https://logos.streamsites.eu/2550_viasat-sport_overview.png" group-title="DEPORTES",Viasat sport | Suecia
-http://persik.by/stream/2944/263250/10249.m3u8
 
-#EXTINF:-1 tvg-id="Caras Tv" tvg-name="Caras Tv" tvg-logo="" group-title="ENTRETENIMIENTO",Caras Tv | ND
-https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Caras Tv" tvg-name="Caras Tv" tvg-logo="" group-title="ENTRETENIMIENTO",Caras Tv | ND
-https://unlimited1-us.dps.live/carastv/carastv.smil/carastv/livestream0/chunks.m3u8
-#EXTINF:-1 tvg-id="Magazine" tvg-name="Magazine" tvg-logo="https://lh3.googleusercontent.com/-VQiXnvScrdo/X9kBIY6eCeI/AAAAAAAA8Pk/RqwvHCzyqT07Izb5NG9RLx7serX6u18JQCK8BGAsYHg/s0/2020-12-15.png" group-title="ENTRETENIMIENTO",Chic Magazine | Chile
-https://paneltv.online:1936/8056/8056/playlist.m3u8
-#EXTINF:-1 tvg-id="Fashion Tv" tvg-name="Fashion Tv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fashion_tv.png" group-title="ENTRETENIMIENTO",Fashion Tv | Francia
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="HD Fashion" tvg-name="HD Fashion" tvg-logo="https://4.bp.blogspot.com/-uRLyPis-Z34/Vum6P5trdxI/AAAAAAAAILs/_CLGpko6wpkOah-WEkzCLMnX-nxqvoqjw/s1600/fashion-one-logo.png" group-title="ENTRETENIMIENTO",Fashion HD | Francia
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.ilce.edu.mx/images/RadioyTV/CI.png" group-title="CULTURALES",Canal ILCE | Mexico
-https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/chunklist_w420201970_b2430208.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.ilce.edu.mx/images/RadioyTV/15_color.png" group-title="CULTURALES",Canal 15 ILCE | Mexico
-https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef8c36ea6_all/chunklist_w1369397436_b2430208.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.ilce.edu.mx/images/RadioyTV/CI.png" group-title="CULTURALES",Radio ILCE | Mexico
-http://radio.ilce.edu.mx:8000/radioilce.mp3
-
-#EXTINF:-1 tvg-id="Cultura365" tvg-name="Cultura365" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/tvg-cultura-en-directo-100x70.png" group-title="CULTURALES",Cultura365 | Spain
-http://cultural-crtvg.flumotion.com/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Educa TV Ecuador" tvg-name="Educa TV Ecuador" tvg-logo="https://i.imgur.com/uGwFXeM.png" group-title="CULTURALES",Educa  TV | Ecuador
-https://vid2.ecuamedia.net/educatv/live/chunklist_w401884011.m3u8
-
-#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://i.imgur.com/OwBr8zT.jpg" group-title="CULTURALES", Love Nature | ND
-https://i.mjh.nz/Roku/03a419fc4dff59b39b176d9f76b09e38.m3u8
-
-#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://i.imgur.com/OwBr8zT.jpg" group-title="CULTURALES", Love Nature op | ND
-https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASATV.us" tvg-logo="https://i.imgur.com/w0r9bpC.png" group-title="CULTURALES",NASA | USA
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/khlcec9.png" group-title="CULTURALES",Saber Mas | USA
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="24 Horas TVE" tvg-name="24 Horas TVE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/24_horas_tve.png" group-title="NOTICIAS",24h TVE | Spain
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="24 Horas TVE" tvg-name="24 Horas TVE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/24_horas_tve.png" group-title="NOTICIAS",24h TVE | Spain
-https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg-id="CGTN en Espanol" tvg-name="CGTN en Espanol" tvg-logo="https://uies.cgtn.com/w/images/icon/logo@3x.png" group-title="NOTICIAS",CGTN en Espanol | China
-https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="CNN en Espanol" tvg-name="CNN en Espanol" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png" group-title="NOTICIAS",CNN en Espanol | USA
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/VIDEO_0_1964000.m3u8
-#EXTINF:-1 tvg-id="Cubavision" tvg-name="Cubavision"  tvg-logo="https://www.tvcubana.icrt.cu/images/logos-canales/logo-mascara/cvi.jpg" group-title="NOTICIAS",Cubavision Internacional | Cuba
-http://190.122.96.187:8888/http/010
-#EXTINF:-1 tvg-id="DW Latino" tvg-name="DW Latino" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/deutsche_welle.png" group-title="NOTICIAS",DW Latino | Alemania
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="El Financiero Bloomberg" tvg-name="El Financiero Bloomberg" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/el_financiero_bloomberg.png" group-title="NOTICIAS",El Financiero Bloomberg | Mexico
-https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
+
 #EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/euronews.png" group-title="NOTICIAS",Euronews | Union Europea
 https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="France24Espanol(English).mx" tvg-name="France24Espanol(English).mx" tvg-logo="http://i.imgur.com/BFMMPwP.png" group-title="NOTICIAS",France 24 Espanol | Francia
-https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="http://i.imgur.com/BFMMPwP.png" group-title="NOTICIAS",France 24 | Francia
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="HispanTV" tvg-name="HispanTV" tvg-logo="http://notired.hol.es/wp-content/uploads/2017/08/hispantv.png" group-title="NOTICIAS",HispanTV | Iran
-https://live3.presstv.ir/hispantv/07.m3u8
-#EXTINF:-1 tvg-id="IP" tvg-name="IP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdQ4CbRDh4Wgxt0o_pw9V-kw9Vz6T0Re2Q_RD62jp7cZMO0uWvSKSUN6sZ2vjYcbn5fAs&usqp=CAU" group-title="NOTICIAS",Informacion Periodistica | Argentina
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Prueba",Suspenso Channel | ND
