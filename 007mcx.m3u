@@ -96,7 +96,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
 #EXTINF:-1, Retro Magico
-https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/playlist.m3u8
+
 
 #EXTINF:-1, Classic Channel
 https://paneltv.online:1936/classicchannel/classicchannel/playlist.m3u8
@@ -252,8 +253,7 @@ https://daiconnect.com/live/hls/tvup/tvfy-doctorwho/.m3u8
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
 
-
-#EXTINF:-1, LMS
+#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.ibb.co/27QWJ0V/logo-Canal-LMS.png" group-title="Familiares",Canal LMS
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 
 
@@ -343,8 +343,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1, Neox
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
-#EXTINF:-1, Retro Magico
-https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/playlist.m3u8
+
 
 #EXTINF:-1,Retro Play TV
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
@@ -563,8 +562,7 @@ https://live20.bozztv.com/giatv/giatv-CartoonClasico/CartoonClasico/playlist.m3u
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.ibb.co/27QWJ0V/logo-Canal-LMS.png" group-title="Familiares",Canal LMS
-https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
+
 
 #EXTINF:-1 , Ani Retro
 https://tv.arkeo.cl:19360/8000/8000.m3u8
@@ -624,7 +622,7 @@ http://38.49.128.38:8000/play/a0n6
 https://video.misistemareseller.com:1936/tvtica/tvtica/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3Y7gXdZk/Logo-TV-del-Este.png" group-title="LATINO",TV del Este HD
+#EXTINF:-1, TV del Este HD
 https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8
 
 #EXTINF:-1, Ideal TV HD
