@@ -382,9 +382,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1,TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
-#EXTINF:-1 tvg-id="VariedTV" tvg-name="VariedTV" tvg-logo="https://i.imgur.com/s71A8ya.jpg" group-title="CANALES INDEPENDIENTES",VariedTV | Argentina
-https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
-
 
 #EXTINF:-1, Xtrema Retro | ND
 https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
@@ -416,75 +413,19 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1, Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1,bitMe
-https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
-
-#EXTINF:-1, De Película
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-
-#EXTINF:-1, De Película Plus
-https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-
-#EXTINF:-1, Distrito Comedia
-https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx",Golden Edge Panregional (576p)
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GoldenMultiplex.mx",Golden Multiplex (576p)
-https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GoldenPlus.mx",Golden Plus (576p)
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GoldenPremier.mx",Golden Premier (576p)
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="LasEstrellas.mx",Las Estrellas (1080p)
+#EXTINF:-1, Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 
-
-
-
-#EXTINF:-1 tvg-id="ZAZ.mx",ZAZ
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-﻿
-
-
-#EXTINF:-1 tvg-name="Adult Swim LA" tvg-id="AdultSwimLA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="TV PREMIUM",Adult Swim LA
-http://181.119.86.1:8000/play/a019
-
-#EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="TV PREMIUM",Etc TV
+#EXTINF:-1, Etc TV
 http://45.181.122.46:8090/play/a00t
 
-#EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="TV PREMIUM",Etc TV op2
-http://45.181.123.233:8000/play/a0nm
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Cartoon Network Sur" tvg-name="Cartoon Network Sur" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica.png" group-title="TV PREMIUM",Cartoon Network | USA
-http://45.181.123.194:8000/play/a0k9/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",Senpai TV 
-http://45.184.87.142:8000/play/a021
-
-
-#EXTINF:-1 group-title="TV PREMIUM",Televisa
+#EXTINF:-1, Televisa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM", DISCOVERY WORLD
+#EXTINF:-1, DISCOVERY WORLD
 http://190.60.38.45:8000/play/a0dr/index.m3u8
-
-
-
-#EXTINF:-1 group-title="TV PREMIUM",AMC
-http://177.234.230.206:8011/play/a0ix
 
 #EXTINF:-1 group-title="TV PREMIUM",Adult Swim
 http://177.234.230.206:8011/play/a0ev
@@ -499,10 +440,6 @@ http://177.234.230.206:8011/play/a07x
 
 #EXTINF:-1 group-title="TV PREMIUM",CINE MEXICANO
 http://177.234.230.206:8011/play/a0a6
-
-#EXTINF:-1 group-title="TV PREMIUM",COMEDY CENTRAL
-http://177.234.230.206:8011/play/a09j
-
 
 #EXTINF:-1 group-title="TV PREMIUM",Cartoon Network
 http://177.234.230.206:8011/play/a0gv
@@ -528,23 +465,15 @@ http://177.234.230.206:8011/play/a0kb
 #EXTINF:-1 group-title="TV PREMIUM",Discovery Turbo
 http://177.234.230.206:8011/play/a0nb
 
-#EXTINF:-1 group-title="TV PREMIUM",Discovery World HD
-http://177.234.230.206:8011/play/a0p0
-
-#EXTINF:-1 group-title="TV PREMIUM",Disney Channel
-http://177.234.230.206:8011/play/a0py
-
-#EXTINF:-1 group-title="TV PREMIUM",Disney HD
-http://177.234.230.206:8011/play/a0ok
 
 #EXTINF:-1 group-title="TV PREMIUM",Distrito Comedia
 http://177.234.230.206:8011/play/a0it
 
 
-#EXTINF:-1 group-title="TV PREMIUM",HBO HD
+#EXTINF:-1, HBO
 http://177.234.230.206:8011/play/a0c5/index.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM",HBO Plus
+#EXTINF:-1, HBO Plus
 http://177.234.230.206:8011/play/a0hl/index.m3u8
 
 #EXTINF:-1, History Channel
@@ -725,14 +654,6 @@ https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="https://i.ibb.co/kgWv9RL/Logo-Canal-5-M-xico.png" group-title="LATINO",Canal 5 Mexico HD
 http://38.49.128.38:8000/play/a0n6
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SNQqsW6/logo-Azteca-7.png" group-title="LATINO",Azteca 7 HD
-http://38.49.128.38:8000/play/a0fm
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HLq4v5V0/logo-Azteca-Internacional.png" group-title="LATINO",Azteca Internacional HD
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bgZSyCg/Logo-Las-Estrellas.png" group-title="LATINO",Las Estrellas HD
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1, TVTica
 https://video.misistemareseller.com:1936/tvtica/tvtica/playlist.m3u8
