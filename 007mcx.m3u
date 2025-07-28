@@ -365,21 +365,21 @@ https://live20.bozztv.com/akamaissh101/ssh101/animacion/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Teleclasica" tvg-name="Teleclasica" tvg-logo="https://i.imgur.com/9vjGB3C.jpg" group-title="CANALES INDEPENDIENTES",Teleclasica | Mexico
+#EXTINF:-1, Teleclasica
 https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Toonami Tv" tvg-name="Toonami Tv" tvg-logo="https://imgur.com/UJwhZfS.jpg" group-title="JOVENES Y ADULTOS",Toonami Tv | ND
+#EXTINF:-1, Toonami
 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Toonizaki HD" tvg-name="Toonizaki HD" tvg-logo="https://i.ibb.co/GWw3dbZ/Logo-Toonizaki-Chile.png" group-title="CANALES INDEPENDIENTES",Toonizaki HD | Chile
+#EXTINF:-1, Toonizaki HD | Chile
 https://mitv.zplay.cl/ZRetro/index.m3u8
 
-#EXTINF:-1 tvg-id="TV Retro Palmares" tvg-name="TV Retro Palmares" tvg-logo="https://i.imgur.com/bdXY34n.png" group-title="CANALES INDEPENDIENTES",TV Retro Palmares | Costa Rica
+#EXTINF:-1, TV Retro Palmares
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVS Retro" tvg-name="TVS Retro" tvg-logo="https://i.imgur.com/JV6Po2k.png" group-title="CANALES INDEPENDIENTES",TVS Retro | Guatemala
+#EXTINF:-1,TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 #EXTINF:-1 tvg-id="VariedTV" tvg-name="VariedTV" tvg-logo="https://i.imgur.com/s71A8ya.jpg" group-title="CANALES INDEPENDIENTES",VariedTV | Argentina
@@ -482,8 +482,6 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 http://190.60.38.45:8000/play/a0dr/index.m3u8
 
 
-#EXTINF:-1 group-title="TV PREMIUM",13 C
-http://177.234.230.206:8011/play/a0rf
 
 #EXTINF:-1 group-title="TV PREMIUM",AMC
 http://177.234.230.206:8011/play/a0ix
@@ -491,8 +489,7 @@ http://177.234.230.206:8011/play/a0ix
 #EXTINF:-1 group-title="TV PREMIUM",Adult Swim
 http://177.234.230.206:8011/play/a0ev
 
-#EXTINF:-1 group-title="TV PREMIUM",AmØrica Televisiðn
-http://177.234.230.206:8011/play/a029
+
 
 #EXTINF:-1 group-title="TV PREMIUM",Animal Planet
 http://177.234.230.206:8011/play/a0pu
@@ -543,12 +540,6 @@ http://177.234.230.206:8011/play/a0ok
 #EXTINF:-1 group-title="TV PREMIUM",Distrito Comedia
 http://177.234.230.206:8011/play/a0it
 
-
-#EXTINF:-1, HBO
-http://177.234.230.206:8011/play/a0c5
-
-#EXTINF:-1, HBO Plus
-http://177.234.230.206:8011/play/a0hl
 
 #EXTINF:-1 group-title="TV PREMIUM",HBO HD
 http://177.234.230.206:8011/play/a0c5/index.m3u8
@@ -654,8 +645,7 @@ https://daiconnect.com/live/hls/tvup/tvfy-bbcdrama/.m3u8
 https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N1NNgs5/Logo-Dreiko-TV.png" group-title="Familiares",Dreiko TV HD
-https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+
 
 
 
