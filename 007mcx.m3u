@@ -81,14 +81,14 @@ https://bst.buin.cl/0.m3u8?PlaylistM3UCL
 #EXTINF:-1,Canal Sol
 https://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telecadena7y4.hn@SD" tvg-logo="https://i.imgur.com/3gzFNog.png" group-title="Undefined",Telecadena 7 y 4
+#EXTINF:-1, Telecadena 7 y 4
 https://dvrfl03.bozztv.com/hondu-telecadena/index.m3u8
 
-#EXTINF:-1 tvg-id="Teleselva.pe" tvg-logo="https://i.imgur.com/cu7hTn8.png" group-title="Undefined",Teleselva
+#EXTINF:-1, Teleselva
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 
 
-#EXTINF:-1 tvg-id="ComediaMadeinSpain.us" tvg-logo="https://i.imgur.com/8ddFdSQ.png" group-title="Comedy",Comedia Made in Spain (720p) [Not 24/7]
+#EXTINF:-1, Comedia Made in Spain [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1abce155a03d0007718834&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=505&terminate=false&userId=
 
 
@@ -417,12 +417,11 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1, DISCOVERY WORLD
 http://190.60.38.45:8000/play/a0dr/index.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM",Adult Swim
+#EXTINF:-1, Adult Swim
 http://177.234.230.206:8011/play/a0ev
 
 
-
-#EXTINF:-1 group-title="TV PREMIUM",Animal Planet
+#EXTINF:-1, Animal Planet
 http://177.234.230.206:8011/play/a0pu
 
 #EXTINF:-1 group-title="TV PREMIUM",Baby TV
