@@ -1,6 +1,6 @@
  #EXTM3U
 
-#EXTINF:-1, Pequeradio TV  | ES
+#EXTINF:-1, Pequeradio TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, Retrox TV (720p)
@@ -3249,127 +3249,49 @@ http://177.234.230.206:8011/play/a0ok
 http://177.234.230.206:8011/play/a0it
 #EXTINF:-1 group-title="TV PREMIUM",E! Entertainment TV
 http://177.234.230.206:8011/play/a0pk
-#EXTINF:-1 group-title="TV PREMIUM",ESPN
-http://177.234.230.206:8011/play/a0pz
-#EXTINF:-1 group-title="TV PREMIUM",ESPN
-http://177.234.230.206:8011/play/a0eh
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 2
-http://177.234.230.206:8011/play/a0ig
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 2 HD
-http://177.234.230.206:8011/play/a0kg
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 3 Sur
-http://177.234.230.206:8011/play/a0ox
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 3 Sur
-http://177.234.230.206:8011/play/a01e
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 3 Norte
-http://177.234.230.206:8011/play/a0ad
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 4
-http://177.234.230.206:8011/play/a0q0
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 4HD
-http://177.234.230.206:8011/play/a0ol
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 5HD
-http://177.234.230.206:8011/play/a0dr
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 6HD
-http://177.234.230.206:8011/play/a0iz
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 7
-http://177.234.230.206:8011/play/a0q1
-#EXTINF:-1 group-title="TV PREMIUM",ESPN CO
-http://177.234.230.206:8011/play/a0np
-#EXTINF:-1 group-title="TV PREMIUM",ESPN Premium HD
-http://177.234.230.206:8011/play/a0o6
-#EXTINF:-1 group-title="TV PREMIUM",ET Canal El Tiempo
-http://177.234.230.206:8011/play/a0bb
-#EXTINF:-1 group-title="TV PREMIUM",El Gourmet
-http://177.234.230.206:8011/play/a0iy
-#EXTINF:-1 group-title="TV PREMIUM",El Trece
-http://177.234.230.206:8011/play/a0h7
-#EXTINF:-1 group-title="TV PREMIUM",Europa Europa
-http://177.234.230.206:8011/play/a0io
-#EXTINF:-1 group-title="TV PREMIUM",France 24
-http://177.234.230.206:8011/play/a0ls
-#EXTINF:-1 group-title="TV PREMIUM",Gol TV
-http://177.234.230.206:8011/play/a01s
-#EXTINF:-1 group-title="TV PREMIUM",Golden Edge
-http://177.234.230.206:8011/play/a0il
-#EXTINF:-1 group-title="TV PREMIUM",Golf Channel
-http://177.234.230.206:8011/play/a0h8
-#EXTINF:-1 group-title="TV PREMIUM",HBO HD
+
+#EXTINF:-1, HBO
 http://177.234.230.206:8011/play/a0c5
-#EXTINF:-1 group-title="TV PREMIUM",HBO Plus
+
+#EXTINF:-1, HBO Plus
 http://177.234.230.206:8011/play/a0hl
-#EXTINF:-1 group-title="TV PREMIUM",History 2
-http://177.234.230.206:8011/play/a0f8
-#EXTINF:-1 group-title="TV PREMIUM",History Channel
+
+#EXTINF:-1, History Channel
 http://177.234.230.206:8011/play/a0gy
-#EXTINF:-1 group-title="TV PREMIUM",KANAL DEL DRAMA
-http://177.234.230.206:8011/play/a09h
-#EXTINF:-1 group-title="TV PREMIUM",MEGA HD
-http://177.234.230.206:8011/play/a0kq
-#EXTINF:-1 group-title="TV PREMIUM",MEGA HD
+
+#EXTINF:-1, MEGA HD
 http://177.234.230.206:8011/play/a0c1
-#EXTINF:-1 group-title="TV PREMIUM",Nick Jr
+
+#EXTINF:-1, Nick Jr
 http://177.234.230.206:8011/play/a0rd
-#EXTINF:-1 group-title="TV PREMIUM",Nick Jr
-http://177.234.230.206:8011/play/a0qt
-#EXTINF:-1 group-title="TV PREMIUM",Nick Music
-http://177.234.230.206:8011/play/a0i5
-#EXTINF:-1 group-title="TV PREMIUM",Panamericana
-http://177.234.230.206:8011/play/a02a
-#EXTINF:-1 group-title="TV PREMIUM",Paramount HD
+
+#EXTINF:-1 group-title="TV PREMIUM",Paramount
 http://177.234.230.206:8011/play/a0j0
-#EXTINF:-1 group-title="TV PREMIUM",RCN HD
-http://177.234.230.206:8011/play/a0ff
-#EXTINF:-1 group-title="TV PREMIUM",TNT Novelas HD
-http://177.234.230.206:8011/play/a0ow
-#EXTINF:-1 group-title="TV PREMIUM",Telemundo
+
+#EXTINF:-1, Telemundo
 http://177.234.230.206:8011/play/a0et
-#EXTINF:-1 group-title="TV PREMIUM",Telenovelas
-http://177.234.230.206:8011/play/a0ia
-#EXTINF:-1 group-title="TV PREMIUM",Telesur
-http://177.234.230.206:8011/play/a0ep
-#EXTINF:-1 group-title="TV PREMIUM",Teletrak
-http://177.234.230.206:8011/play/a0rt
-#EXTINF:-1 group-title="TV PREMIUM",Universo
-http://177.234.230.206:8011/play/a0p7
-#EXTINF:-1 group-title="TV PREMIUM",Warner Channel HD
+
+#EXTINF:-1, Warner Channel
 http://177.234.230.206:8011/play/a0og
 
-
-
-#EXTINF:-1 group-title="TV PREMIUM",13 C
-http://177.234.230.206:8011/play/a0rf/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",AMC
+#EXTINF:-1,AMC
 http://177.234.230.206:8011/play/a0ix/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",ATRES SERIES
-http://177.234.230.206:8011/play/a0rh/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Adult Swim
+
+#EXTINF:-1, Adult Swim
 http://177.234.230.206:8011/play/a0ev/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",AmØrica Televisiðn
-http://177.234.230.206:8011/play/a029/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Animal Planet
+
+#EXTINF:-1, Animal Planet
 http://177.234.230.206:8011/play/a0pu/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Baby TV
+
+#EXTINF:-1, Baby TV
 http://177.234.230.206:8011/play/a07x/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",CARACOL
-http://177.234.230.206:8011/play/a09x/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",CHV
-http://177.234.230.206:8011/play/a0d8/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",CINE FAMILIAR
-http://177.234.230.206:8011/play/a09q/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",CINE MEXICANO
+
+#EXTINF:-1, Cine Mexicano
 http://177.234.230.206:8011/play/a0a6/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",CNN Chile
-http://177.234.230.206:8011/play/a0ru/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",COMEDY CENTRAL
-http://177.234.230.206:8011/play/a09j/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Canal 13 HD
-http://177.234.230.206:8011/play/a0os/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Canal RCN
-http://177.234.230.206:8011/play/a0nh/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Caracol HD
-http://177.234.230.206:8011/play/a0fg/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Cartoon Network
+
+#EXTINF:-1, Cartoon Network
 http://177.234.230.206:8011/play/a0gv/index.m3u8
+
 #EXTINF:-1 group-title="TV PREMIUM",Cinemax
 http://177.234.230.206:8011/play/a0n3/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",Comedy Central
@@ -3392,92 +3314,12 @@ http://177.234.230.206:8011/play/a0py/index.m3u8
 http://177.234.230.206:8011/play/a0ok/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",Distrito Comedia
 http://177.234.230.206:8011/play/a0it/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",E! Entertainment TV
-http://177.234.230.206:8011/play/a0pk/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",ESPN
-http://177.234.230.206:8011/play/a0pz/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",ESPN
-http://177.234.230.206:8011/play/a0eh/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 2
-http://177.234.230.206:8011/play/a0ig/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 2 HD
-http://177.234.230.206:8011/play/a0kg/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 3 Sur
-http://177.234.230.206:8011/play/a0ox/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 3 Sur
-http://177.234.230.206:8011/play/a01e/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 3 Norte
-http://177.234.230.206:8011/play/a0ad/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 4
-http://177.234.230.206:8011/play/a0q0/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 4HD
-http://177.234.230.206:8011/play/a0ol/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 5HD
-http://177.234.230.206:8011/play/a0dr/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 6HD
-http://177.234.230.206:8011/play/a0iz/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 7
-http://177.234.230.206:8011/play/a0q1/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",ESPN CO
-http://177.234.230.206:8011/play/a0np/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",ESPN Premium HD
-http://177.234.230.206:8011/play/a0o6/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",ET Canal El Tiempo
-http://177.234.230.206:8011/play/a0bb/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",El Gourmet
-http://177.234.230.206:8011/play/a0iy/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",El Trece
-http://177.234.230.206:8011/play/a0h7/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Europa Europa
-http://177.234.230.206:8011/play/a0io/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",France 24
-http://177.234.230.206:8011/play/a0ls/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Gol TV
-http://177.234.230.206:8011/play/a01s/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Golden Edge
-http://177.234.230.206:8011/play/a0il/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Golf Channel
-http://177.234.230.206:8011/play/a0h8/index.m3u8
+
 #EXTINF:-1 group-title="TV PREMIUM",HBO HD
 http://177.234.230.206:8011/play/a0c5/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",HBO Plus
 http://177.234.230.206:8011/play/a0hl/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",History 2
-http://177.234.230.206:8011/play/a0f8/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",History Channel
-http://177.234.230.206:8011/play/a0gy/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",KANAL DEL DRAMA
-http://177.234.230.206:8011/play/a09h/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",MEGA HD
-http://177.234.230.206:8011/play/a0kq/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",MEGA HD
-http://177.234.230.206:8011/play/a0c1/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Nick Jr
-http://177.234.230.206:8011/play/a0rd/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Nick Jr
-http://177.234.230.206:8011/play/a0qt/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Nick Music
-http://177.234.230.206:8011/play/a0i5/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Panamericana
-http://177.234.230.206:8011/play/a02a/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Paramount HD
-http://177.234.230.206:8011/play/a0j0/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",RCN HD
-http://177.234.230.206:8011/play/a0ff/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",TNT Novelas HD
-http://177.234.230.206:8011/play/a0ow/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Telemundo
-http://177.234.230.206:8011/play/a0et/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Telenovelas
-http://177.234.230.206:8011/play/a0ia/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Telesur
-http://177.234.230.206:8011/play/a0ep/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Teletrak
-http://177.234.230.206:8011/play/a0rt/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Universo
-http://177.234.230.206:8011/play/a0p7/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Warner Channel HD
-http://177.234.230.206:8011/play/a0og/index.m3u8
+
 
 
 
@@ -3487,43 +3329,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-miedo-canal/manifest.m3u8
 
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Fox Kids 
-#EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
-#EXTINF:-1 tvg-id="Jetix" tvg-name="Jetix" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 2 
-#EXTINF:-1 tvg-id="Animax LA" tvg-name="Animax LA" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Animax LA 
-#EXTINF:-1 tvg-id="Animax Espana" tvg-name="Animax Espana" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Animax Espana 
-#EXTINF:-1 tvg-id="Magic Kids OK" tvg-name="Magic Kids OK" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Magic Kids OK 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",El Chavo 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Tomorrowland Live 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal C HD 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Locomotion TV 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Japanimotion 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",AlecchiMan 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Peliculas Mania 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Nostalgia TV 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",El Chavo 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Retro Magico 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Anime 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Dragon Ball 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Especial 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",CeciliaOrson 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",CineMX4 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",ZAZ Tv 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Peliculas 2022 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Onda Cofra de Sevilla 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",cabeza de vhs 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Kiriwawa TV 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Panda Max Live 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Toonami Latinoamerica 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cine 5 Estrellas 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal 9 San Luis 
-#EXTINF:-1 tvg-id="EnerGeek Wowly" tvg-name="EnerGeek Wowly" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Energeek 3 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",ETC TV 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Kemacral 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Teleposadas 
-#EXTINF:-1 tvg-id="" tvg-name="TVLuchitas" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",TV Luchitas 
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Gogoplay TV 
 https://use23.playlist.ttvnw.net/v1/playlist/CrgEOzpHrUx5ucqiQJU1mjo83xkolzfxPQxijYhO3fhrd4x1vFOOiiQAIzAt4Zf2UybJgAjO54VQ_XWbrJfzJvgQ6OyzN-zxprNRvNi-eU8w1oAqoC5m-cXFBp5xGHRGjRuE0-Szd8ReTkuYNlBS4sYN0_SpE2iCQYB9pcKtggJprAFVoF768hNAguHvgd-2oRP5I-L-zG8aZ7RXE1u950P1ljBFi5rUK6tN2gX7aSixk8oaT7RgkyZgCPGE1-BgVpcp_W9cEeOhLArZpw47WslPBvLVbGjLt6RNPfN8FgFIxqr4xa-MujHWp1Z-zZI1SbTCPPIUQQGUTmj4y1J1289DqvTtvfQ2A3V6_Q4LXVi1DzjEQwfCfqzPkxSYXdB73BOmnN1WD7wYvmW_H7mhH6mDDJSXQw3HXEgZhQBbNs3NScnPIrI5fvilBouEWkNB5cGaFKO_QA_dMZVlH3S8Kuwg64Shw_QWT5X4togujk2yevRqdLJJhuMN4-tw298CZF8gMv6eQY03j5XYuLgDkLtpE_P-X1IqAX7MnxLnvOIZxuSUl6KJQH08i7c3FTO6s7NEoRc9ofhPIlDujIaVgSLR9KXwtgrBBQeuKXcNsi-iigTSj6PIKwl-Re3Wqq9GOD4hsA_Xmhl3BLbCQXrO92rS-iIGQkzgHVSmpj7iHymw4yqVj0I9frIAkwk1hB3tMK3DXpoLO8hcCPxhIHw7y8TSIxBVIgxn6mx6-QZyY92Nlehy820Nn9srwBoMHnYV9GSkpwSlAixbIAEqCXVzLWVhc3QtMjDrDA.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal Mundo Mas 
@@ -3618,16 +3426,7 @@ https://live20.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playli
 https://live20.bozztv.com/akamaissh101/ssh101/animacion/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1fs8DdY/Logo-Kanade.png" group-title="JOVENES Y ADULTOS",Kanade HD
 https://streams.kanade.cl/webtv/kanadeweb/playlist.m3u8?token=deM0kanADeweB
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime Spain" tvg-logo="https://i.ibb.co/7dX0Hd7k/Logo-Pluto-TV-Anime.png" tvg-shift="0" group-title="JOVENES Y ADULTOS",Pluto TV Anime Spain
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608035b8d8705f0007260287/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-0 tvg-id="" tvg-name="Pluto TV Anime Latino" tvg-logo="https://i.ibb.co/7dX0Hd7k/Logo-Pluto-TV-Anime.png" tvg-shift="0" group-title="JOVENES Y ADULTOS",Pluto TV Anime Latino
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime Accion" tvg-logo="https://i.ibb.co/q3Snp36p/Logo-Anime-Accion.png" tvg-shift="0" group-title="JOVENES Y ADULTOS",Pluto TV Anime Accion
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-name="One Piece Pluto TV Spain" tvg-logo="https://i.ibb.co/HTzB7DHQ/Logo-One-Piece-2.jpg" tvg-shift="0" group-title="JOVENES Y ADULTOS",One Piece Pluto TV Spain
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/680ba8992472a7200a183eb5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-name="One Piece Pluto TV Latino" tvg-logo="https://i.ibb.co/HTzB7DHQ/Logo-One-Piece-2.jpg" tvg-shift="0" group-title="JOVENES Y ADULTOS",One Piece Pluto TV Latino
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-id="" tvg-name="Detective Conan Pluto TV" tvg-logo="https://i.ibb.co/v6kd8PvC/Logo-Detective-Conan-Pluto-TV.png" tvg-shift="0" group-title="JOVENES Y ADULTOS",Detective Conan Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/629a066860ef810008267b70/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="Inazuma Eleven Pluto TV" tvg-logo="https://i.ibb.co/j9T0Z6hr/Logo-Inazuma-Eleven.jpg" tvg-shift="0" group-title="JOVENES Y ADULTOS",Inazuma Eleven Pluto TV
@@ -3636,26 +3435,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632c6df43d2bc5000751f6
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb96754e83e70008ab8941/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5xcmpZs6/logodigimon.png" group-title="JOVENES Y ADULTOS",Digimon Latino
 https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r2hdFCj/logo-Varied-TV.png" group-title="JOVENES Y ADULTOS",VariedTV HD
-https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r2hdFCj/logo-Varied-TV.png" group-title="JOVENES Y ADULTOS",VariedTV HD (Opcion 2)
-https://live20.bozztv.com/giatv/giatv-VariedTV/VariedTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/35jpRw1G/Logo-Iunior-TV.png" group-title="JOVENES Y ADULTOS",Iunior TV HD
-https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1fs8DdY/Logo-Kanade.png" group-title="JOVENES Y ADULTOS",Kanade HD Brasil
-https://streams.kanade.cl/webtv/kanadebr/playlist.m3u8?token=deM0kanADeweB
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BzVf3mG/Logo-Loading.png" group-title="JOVENES Y ADULTOS",Loading HD Brasil
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-ID="ANIME TV" tvg-logo="https://i.ibb.co/ZVKdyNQ/logo-Anime-TV.png" group-title="JOVENES Y ADULTOS",Anime TV Brasil
-https://stmv6.voxtvhd.com.br/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-ID="Geekdot" tvg-logo="https://i.ibb.co/WxCMj8q/logo-Geekdot.png" group-title="JOVENES Y ADULTOS",Geekdot Brasil
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DkHFvM1/logo-Wording.png" group-title="JOVENES Y ADULTOS",Wording TV HD Brasil
-https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HtB2p6C/logo-Animax.png" group-title="JOVENES Y ADULTOS",Animax HD Japon
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qYgYHXVD/Logo-BBC-Doctor-Who.png" group-title="JOVENES Y ADULTOS",BBC Doctor Who HD
-https://daiconnect.com/live/hls/tvup/tvfy-doctorwho/.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1Gy86Gnz/Logo-BBC-Drama.png" group-title="JOVENES Y ADULTOS",BBC Drama HD
 https://daiconnect.com/live/hls/tvup/tvfy-bbcdrama/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HCrNGr7/Logo-Mundo-Series.png" group-title="JOVENES Y ADULTOS",Mundo Series HD
@@ -3666,10 +3446,7 @@ https://daiconnect.com/live/hls/tvup/tvfy-topgear/.m3u8
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N1NNgs5/Logo-Dreiko-TV.png" group-title="Familiares",Dreiko TV HD
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9ws93wN/logo-Magic-Kids-TV.png" group-title="Familiares",Magic Kids TV HD
-https://live20.bozztv.com/akamaissh101/ssh101/magic2019/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9ws93wN/logo-Magic-Kids-TV.png" group-title="Familiares",Magic Kids TV HD (Opcion 2)
-https://live20.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fF03ZRC/Logo-Magic-Kids.png" group-title="Familiares",Magic
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fXKF932/Logo-Retro-Magico.png" group-title="Familiares",Retro Magico
@@ -3690,35 +3467,16 @@ https://live-stream.iblups.com/video/c76a06ac5e24461dc5c453983cfb72ba88bccc1a.m3
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8z827yd/Logo-Retrotoons.jpg" group-title="Familiares",Retrotoons
 https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gMR0LFdr/Logo-Cachipum-TV.jpg" group-title="Familiares",Cachipum TV
-https://scl.edge.grupoz.cl/streamcachi/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png" group-title="Familiares",Planeta Junior TV HD
 https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Heidi y Marco en Pluto TV" tvg-logo="https://i.ibb.co/gT498Gw/logo-Heidi-y-Marco.jpg" tvg-shift="0" group-title="Familiares",Heidi y Marco en Pluto TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a0f64dd5125900089dec28/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nbprpqk/Logo-Plenitud-TV.jpg" group-title="Familiares",Plenitud TV Live HD
-https://live20.bozztv.com/akamaissh101/ssh101/testvideo40/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nbprpqk/Logo-Plenitud-TV.jpg" group-title="Familiares",Plenitud TV HD
-https://live20.bozztv.com/giatvplayout7/giatv-208727/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MxqP3Tsp/Logo-Plenitud-Juvenil.jpg" group-title="Familiares",Plenitud Juvenil HD
-https://live20.bozztv.com/giatvplayout7/giatv-209259/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NCXZr58/Logo-Volviendo-TV.jpg" group-title="Familiares",Volviendo TV HD
-https://micanal.ovh/livestreams/117.JADPAFEXC5UK.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gF5gsdH/Logo-Red-TV.jpg" group-title="Familiares",Red TV HD
-https://micanal.ovh/livestreams/89.0WWM5NZ7JVZQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gF5gsdH/Logo-Red-TV.jpg" group-title="Familiares",Red TV HD 24/7
-https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sJPQpDCv/Logo-CH-TV.jpg" group-title="Familiares",CH TV HD
-https://live20.bozztv.com/akamaissh101/ssh101/testvideo100/playlist.m3u8
-#EXTINF:-1 tvg-name=" AVI KIDS" tvg-id="AKids" tvg-logo="https://i.ibb.co/pj15CyYT/Logo-AVI-Kids.png" group-title="Familiares",AVI KIDS HD
-https://mitv.zplay.cl/AKids/video.m3u8?token=D4lm1R0m-tFJES
-#EXTINF:-1 tvg-name="Z Kids" tvg-id="Zkids" tvg-logo="https://i.ibb.co/VJ8NWxm/Logo-Z-Kids.png" group-title="Familiares",Z Kids HD
-https://mitv.zplay.cl/Zkids/video.m3u8?token=D4lm1R0m-tFJES
+
+
+
 #EXTINF:-1 , Ani Retro
 https://tv.arkeo.cl:19360/8000/8000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TvH9gvB/Logo-Pitufo-TV.png" group-title="Familiares",Pitufo TV
-https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sFwwMyt/logo-Zaz-TV.png" group-title="Familiares",Zaz TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13012
 
