@@ -291,37 +291,11 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
 
-
-
-﻿
-
-
-
-#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="CANALES INDEPENDIENTES",Canal LMS | Mexico
-https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
-
-
-
-
-
 #EXTINF:-1, Ani Retro
 https://tv.arkeo.cl:19360/8000/8000.m3u8
 
-
-#EXTINF:-1 tvg-id="AnimeStation" tvg-name="AnimeStation" tvg-logo="https://i.imgur.com/oaa8yMT.png" group-title="JOVENES Y ADULTOS",AnimeStation | Argentina
-https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AnimeStation" tvg-name="AnimeStation" tvg-logo="https://i.imgur.com/oaa8yMT.png" group-title="JOVENES Y ADULTOS",AnimeStation op2 | Argentina
-https://comunidadtv.site:3119/live/aniplustvlive.m3u8
-
 #EXTINF:-1, Anime Onegai
 https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8
-
-#EXTINF:-1, Anime Onegai Deportes
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11057
-
-#EXTINF:-1, Anime Onegai Accion
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11058
 
 #EXTINF:-1, Anime Onegai 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
@@ -338,47 +312,16 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
 #EXTINF:-1, Anime Onegai 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
 
-#EXTINF:-1 tvg-id="Aniplus" tvg-name="Aniplus" tvg-logo="https://i.imgur.com/wHsHiab.png" group-title="JOVENES Y ADULTOS",Aniplus HD | Asia
-http://iptv12k.com:35461/654321/123456/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AYW Tv" tvg-name="AYW Tv" tvg-logo="https://imgur.com/EJSHaYU.png" group-title="CINE",AYW Tv | Costa Rica
-https://live20.bozztv.com/akamaissh101/ssh101/88channel/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Bayres TV"  tvg-name="Bayres TV" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="CINE",Bayres TV | Argentina
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-
-#EXTINF:-1 tvg-id="BD Network" tvg-name="BD Network" tvg-logo="https://i.imgur.com/OYNIliW.png" group-title="CANALES INDEPENDIENTES",BD Network | Argentina
-https://stream.kirachan.tech/memfs/718951c1-4090-4aa1-b92b-b4a1a043421b.m3u8
-
-#EXTINF:-1 tvg-id="Big TV" tvg-name="Big TV" tvg-logo="https://i.imgur.com/SoPjHGj.png" group-title="INFANTILES",Big TV | Argentina
+#EXTINF:-1, Big TV
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bjgtjme" tvg-name="Bjgtjme" tvg-logo="https://i.imgur.com/atlRdIQ.png" group-title="CINE",Bjgtjme | Argentina
-https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BTV Baradero Tv" tvg-name="BTV Baradero Tv" tvg-logo="https://i.imgur.com/Yv77IzH.png" group-title="CANALES INDEPENDIENTES",BTV Baradero Tv | Argentina
-https://live20.bozztv.com/akamaissh101/ssh101/btvdigital/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Buin Somos Todos" tvg-name="Buin Somos Todos" tvg-logo="https://i.ytimg.com/vi/k_Q7-gqkfAo/maxresdefault.jpg" group-title="FAMILIARES",Buin Somos Todos | Chile
+#EXTINF:-1, Buin Somos Todos
 https://bst.buin.cl/0.m3u8
 
-#EXTINF:-1 tvg-id="Canal Juegos Retros" tvg-name="Canal Juegos Retros" tvg-logo="https://i.ibb.co/7t25BBxC/Logo-Canal-Juegos-retros-2.png" group-title="JOVENES Y ADULTOS",Canal Juegos Retros | Spain
-https://live20.bozztv.com/giatvplayout7/giatv-209604/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Canal Mas" tvg-name="Canal Mas" tvg-logo="https://i.imgur.com/t3mb97M.png" group-title="CANALES INDEPENDIENTES",Canal Mas | Uruguay
-https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8
-
-
-#EXTINF:-1 tvg-id="Canal ZeroFIlms" tvg-name="Canal ZeroFIlms" tvg-logo="https://imgur.com/ENa7t5W.png" group-title="CINE",Canal ZeroFIlms | Colombia
-https://live20.bozztv.com/akamaissh101/ssh101/canalzerofilms1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Caracola TV" tvg-name="Caracola TV" tvg-logo="https://www.caracolatv.cl/wp-content/uploads/2021/12/logo-296x300.jpg" group-title="FAMILIARES",Caracola TV | Chile
+#EXTINF:-1, Caracola TV | Chile
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cartoon Clasico LAT" tvg-name="Cartoon Clasico LAT" tvg-logo="https://imgur.com/VhTtcXx.jpg" group-title="INFANTILES",Cartoon Clasico LAT | Argentina
-https://live20.bozztv.com/giatv/giatv-CartoonClasico/CartoonClasico/playlist.m3u8
 
 
 #EXTINF:-1, Dreiko TV
@@ -396,79 +339,28 @@ https://streams.kanade.cl/webtv/kanadeweb/index.m3u8?token=deM0kanADeweB
 #EXTINF:-1, Los Pitufos
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
-#EXTINF:-1, Mega Cine
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-
 #EXTINF:-1, Moni TV
-https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
-
-#EXTINF:-1, Moni TV op2
 https://tv.arkeo.cl:19360/8134/8134.m3u8
 
-#EXTINF:-1 tvg-id="MOOVIMEX" tvg-name="MOOVIMEX" tvg-logo="https://i.imgur.com/q3PmMF9.jpg" group-title="CINE",MOOVIMEX | Mexico
-https://linear-564.frequency.stream:443/mt/studio/564/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Movies Central" tvg-name="Movies Central" tvg-logo="https://i.imgur.com/sRYe8Np.jpg" group-title="CINE",Movies Central by tv player | Spain
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-
-
-#EXTINF:-1 tvg-id="My Time Movie" tvg-name="My Time Movie" tvg-logo="https://i.imgur.com/hMksKhc.png" group-title="CINE",My Time Movie | Mexico
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Neo TV" tvg-name="Neo TV" tvg-logo="https://i.imgur.com/bD8YutM.png" group-title="FAMILIARES",Neo TV | Argentina
+#EXTINF:-1, Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-id="Neox" tvg-name="Neox" tvg-logo="" group-title="CINE",Neox | Argentina
+#EXTINF:-1, Neox
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
-#EXTINF:-1 tvg-id="NET TV" tvg-name="NET TV" tvg-logo="https://www.canalnet.tv/_templates/desktop/includes/img/logo.png" group-title="FAMILIARES",NET TV | Argentina
-https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/qFndbzN.png" group-title="CANALES INDEPENDIENTES",Retro Magico | Argentina
+#EXTINF:-1, Retro Magico
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/qFndbzN.png" group-title="CANALES INDEPENDIENTES",Retro Magico op2| Argentina
-https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Retro Play TV" tvg-name="Retro Play TV" tvg-logo="" group-title="FAMILIARES",Retro Play TV | Chile
+#EXTINF:-1,Retro Play TV
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 
-#EXTINF:-1 tvg-id="Retro Plus TV" tvg-name="Retro Plus TV" tvg-logo="" group-title="FAMILIARES",Retro Plus TV 3 | Chile
-https://live20.bozztv.com/giatv/giatv-Retroplustv03/Retroplustv03/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Retro Tv Online" tvg-name="Retro Tv Online" tvg-logo="https://i.imgur.com/9crh886.png" group-title="CANALES INDEPENDIENTES",Retro Tv Online | ND
+#EXTINF:-1, Retro Tv Online
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Retro Tv Online" tvg-name="Retro Tv Online" tvg-logo="https://i.imgur.com/9crh886.png" group-title="CANALES INDEPENDIENTES",Retro Tv Online op2 | ND
-https://live20.bozztv.com/akamaissh101/ssh101/chocobeats/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Retrotoons" tvg-name="Retrotoons" tvg-logo="https://i.ibb.co/8z827yd/Logo-Retrotoons.jpg" group-title="INFANTILES",Retrotoons | ND
-https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RetroX TV" tvg-name="RetroX TV" tvg-logo="https://i.imgur.com/sDTp6BD.png" group-title="CANALES INDEPENDIENTES",RetroX TV | Costa Rica
-https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id="Senal Colombia" tvg-name="Senal Colombia" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="FAMILIARES",Senal Colombia | Colombia
-https://live20.bozztv.com/giatv/giatv-sc1604/sc1604/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sicardi TV" tvg-name="Sicardi TV" tvg-logo="https://i.imgur.com/S0k40t9.png" group-title="CANALES INDEPENDIENTES",Sicardi TV | Argentina
+#EXTINF:-1, Sicardi TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
-#EXTINF:-1 tvg-id="SKYFLIX MOVIES" tvg-name="SKYFLIX MOVIES" tvg-logo="" group-title="CINE",SKYFLIX Movies | ND
-https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
-
-
-
-#EXTINF:-1 tvg-id="TalTal Tv Anime" tvg-name="TalTal Tv Anime" tvg-logo="https://i.imgur.com/9efjPBA.png" group-title="JOVENES Y ADULTOS",Taltal Tv Anime | Argentina
-https://live20.bozztv.com/akamaissh101/ssh101/taltal/chunks.m3u8
-
-#EXTINF:-1 tvg-id="TalTal Tv Anime Culto" tvg-name="TalTal Tv Anime Culto" tvg-logo="https://i.imgur.com/9efjPBA.png" group-title="JOVENES Y ADULTOS",Taltal Tv Anime Culto | Argentina
-https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TalTal Tv Clasica" tvg-name="TalTal Tv Clasica" tvg-logo="https://i.imgur.com/9efjPBA.png" group-title="JOVENES Y ADULTOS",Taltal Tv Clasica | Argentina
+#EXTINF:-1, Taltal Tv Clasica
 https://live20.bozztv.com/akamaissh101/ssh101/animacion/chunks.m3u8
 
 
@@ -492,18 +384,6 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 #EXTINF:-1 tvg-id="VariedTV" tvg-name="VariedTV" tvg-logo="https://i.imgur.com/s71A8ya.jpg" group-title="CANALES INDEPENDIENTES",VariedTV | Argentina
 https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Wow Channel" tvg-name="Wow Channel" tvg-logo="https://i.imgur.com/RaXzDvv.png" group-title="CANALES INDEPENDIENTES",Wow Channel | Colombia
-https://live20.bozztv.com/akamaissh101/ssh101/wowchannel/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Wow Movies" tvg-name="Wow Movies" tvg-logo="https://i.imgur.com/RaXzDvv.png" group-title="CANALES INDEPENDIENTES",Wow Movies | Colombia
-https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Wow Movies" tvg-name="Wow Movies" tvg-logo="https://i.imgur.com/RaXzDvv.png" group-title="CANALES INDEPENDIENTES",Wow Movies op2 | Colombia
-https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Wow Tv" tvg-name="Wow Tv" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/wow-tv.png" group-title="CINE",Wow Tv | El Salvador
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
 
 #EXTINF:-1, Xtrema Retro | ND
@@ -582,17 +462,7 @@ http://45.181.122.46:8090/play/a00t
 #EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="TV PREMIUM",Etc TV op2
 http://45.181.123.233:8000/play/a0nm
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="TV PREMIUM",Tooncast HD
-http://45.181.123.233:8000/play/a17g
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="TV PREMIUM",Tooncast op2 HD
-http://181.119.86.1:8000/play/a09y
-
-#EXTINF:-1 tvg-id="Bit Me" tvg-name="Bit Me" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="TV PREMIUM",Bit Me | Mexico
-http://190.60.33.245:4002/play/a0kd
-
-#EXTINF:-1 tvg-id="Bit Me" tvg-name="Bit Me" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="TV PREMIUM",Bit Me op2 | Mexico
-http://190.60.33.245:4002/play/a0kd/index.m3u8
 
 
 
@@ -604,11 +474,6 @@ http://45.181.123.194:8000/play/a0k9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PREMIUM",Senpai TV 
 http://45.184.87.142:8000/play/a021
 
-#EXTINF:-1 group-title="TV PREMIUM",Volver
-http://200.60.124.19:29000/play/a0k2/index.m3u8
-
-#EXTINF:-1 tvg-id="El Nueve AR" tvg-name="El Nueve AR" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-s.jpg" group-title="TV PREMIUM",El Nueve | Argentina
-http://fortv.cc:8080/54514663/54514663/164869
 
 #EXTINF:-1 group-title="TV PREMIUM",Televisa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
@@ -763,42 +628,36 @@ http://177.234.230.206:8011/play/a0it/index.m3u8
 
 
 
-
-
-
-EXTINF:-1 tvg-name="ZTV By zplay.cl" tvg-id="Ztv" tvg-logo="https://i.ibb.co/2dNtXPH/Logo-Z-TV.png" group-title="JOVENES Y ADULTOS",ZTV By zplay.cl HD
+EXTINF:-1, ZTV
 https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
 
-#EXTINF:-1 tvg-name="ZTV Anime" tvg-id="ZTVAnime" tvg-logo="https://i.ibb.co/2dNtXPH/Logo-Z-TV.png" group-title="JOVENES Y ADULTOS",ZTV Anime HD
+#EXTINF:-1, ZTV Anime
 https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Detective Conan Pluto TV" tvg-logo="https://i.ibb.co/v6kd8PvC/Logo-Detective-Conan-Pluto-TV.png" tvg-shift="0" group-title="JOVENES Y ADULTOS",Detective Conan Pluto TV
+#EXTINF:-1, Detective Conan
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/629a066860ef810008267b70/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Oh en Pluto TV" tvg-logo="https://i.ibb.co/ZRZHp8XR/logo-Yu-Gi-Oh.jpg" tvg-shift="0" group-title="JOVENES Y ADULTOS",Yu-Gi-Oh en Pluto TV
+#EXTINF:-1, Yu-Gi-Oh
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb96754e83e70008ab8941/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5xcmpZs6/logodigimon.png" group-title="JOVENES Y ADULTOS",Digimon Latino
+#EXTINF:-1, Digimon Latino
 https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1Gy86Gnz/Logo-BBC-Drama.png" group-title="JOVENES Y ADULTOS",BBC Drama HD
+#EXTINF:-1, BBC Drama HD
 https://daiconnect.com/live/hls/tvup/tvfy-bbcdrama/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HCrNGr7/Logo-Mundo-Series.png" group-title="JOVENES Y ADULTOS",Mundo Series HD
 https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/np8ynQr/Logo-BBC-Top-Gear.png" group-title="JOVENES Y ADULTOS",BBC Top Gear HD
-https://daiconnect.com/live/hls/tvup/tvfy-topgear/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N1NNgs5/Logo-Dreiko-TV.png" group-title="Familiares",Dreiko TV HD
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fXKF932/Logo-Retro-Magico.png" group-title="Familiares",Retro Magico
-https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/R4Tyn69H/Logo-Cartoon-Clasico.png" group-title="Familiares",Cartoon Clasico LAT
 https://live20.bozztv.com/giatv/giatv-CartoonClasico/CartoonClasico/playlist.m3u8
