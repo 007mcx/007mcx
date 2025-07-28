@@ -56,16 +56,16 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1, ExtremaTv 
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="8madridTV.es" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg" group-title="Movies",8madrid TV (720p)
+#EXTINF:-1,8 Madrid TV
 http://185.189.225.150:85/8madrid/index.m3u8
 
-#EXTINF:-1 tvg-id="AMCEurope.uk@Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC Europe Spain (720p)
+#EXTINF:-1, AMC Europe Spain
 http://vegafibratv.com:8085/AMC/index.m3u8
 
-#EXTINF:-1 tvg-id="BomCine.es" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="Movies",Bom Cine (576p)
+#EXTINF:-1, Bom Cine
 http://185.189.225.150:85/BOM/index.m3u8
 
-#EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png", +Cine ✪ | CL
+#EXTINF:-1, +Cine
 https://tv.arkeo.cl:19360/8128/8128.m3u8?PlaylistM3UCL
 
 
