@@ -3,9 +3,6 @@
 #EXTINF:-1, Pequeradio TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, Retrox TV
-https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
-
 #EXTINF:-1, TeleMas
 https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
 
@@ -33,12 +30,6 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, ExtremaTv 
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1,, Kanade TV
-https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-
-#EXTINF:-1, Buin Somos Todos
-https://bst.buin.cl/0.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,Canal Sol
 https://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8
