@@ -312,10 +312,6 @@ https://tv.arkeo.cl:19360/8000/8000.m3u8
 #EXTINF:-1, Chinola TV HD
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
-
-#EXTINF:-1 ,Alegre TV
-https://streamunoapp.com:3149/live/alegretvlive.m3u8
-
 #EXTINF:-1, Canal 5 Mexico
 http://38.49.128.38:8000/play/a0n6
 
