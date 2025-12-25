@@ -108,9 +108,6 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1, Rakuten TV Familia
 http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1, Caracola TV
-https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-
 #EXTINF:-1, Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
@@ -173,9 +170,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
 #EXTINF:-1, Big TV
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
 
-#EXTINF:-1, Buin Somos Todos
-https://bst.buin.cl/0.m3u8
-
 #EXTINF:-1, Caracola TV | Chile
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
@@ -188,10 +182,6 @@ https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
 #EXTINF:-1, Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-#EXTINF:-1, Neox
-https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
-
 
 
 #EXTINF:-1,Retro Play TV
@@ -223,13 +213,6 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 #EXTINF:-1, Adult Swim
 http://177.234.230.206:8011/play/a0ev
-
-
-#EXTINF:-1, Animal Planet
-http://177.234.230.206:8011/play/a0pu
-
-#EXTINF:-1 group-title="TV PREMIUM",Baby TV
-http://177.234.230.206:8011/play/a07x
 
 #EXTINF:-1 group-title="TV PREMIUM",Cinemax
 http://177.234.230.206:8011/play/a0n3
@@ -264,12 +247,6 @@ http://177.234.230.206:8011/play/a0ev/index.m3u8
 
 #EXTINF:-1, Animal Planet
 http://177.234.230.206:8011/play/a0pu/index.m3u8
-
-#EXTINF:-1, Baby TV
-http://177.234.230.206:8011/play/a07x/index.m3u8
-
-#EXTINF:-1 group-title="TV PREMIUM",Cinemax
-http://177.234.230.206:8011/play/a0n3/index.m3u8
 
 #EXTINF:-1, Discovery Channel
 http://177.234.230.206:8011/play/a0px/index.m3u8
