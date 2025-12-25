@@ -385,37 +385,15 @@ http://177.234.230.206:8011/play/a0mm
 #EXTINF:-1 group-title="TV PREMIUM",Discovery Science
 http://177.234.230.206:8011/play/a0qy
 
-#EXTINF:-1 group-title="TV PREMIUM",Discovery Theater HD
-http://177.234.230.206:8011/play/a0kb
-
-#EXTINF:-1 group-title="TV PREMIUM",Discovery Turbo
-http://177.234.230.206:8011/play/a0nb
-
-
-#EXTINF:-1 group-title="TV PREMIUM",Distrito Comedia
-http://177.234.230.206:8011/play/a0it
-
 
 #EXTINF:-1, HBO
 http://177.234.230.206:8011/play/a0c5/index.m3u8
 
-#EXTINF:-1, HBO Plus
-http://177.234.230.206:8011/play/a0hl/index.m3u8
-
 #EXTINF:-1, History Channel
 http://177.234.230.206:8011/play/a0gy
 
-#EXTINF:-1, MEGA HD
-http://177.234.230.206:8011/play/a0c1
-
-#EXTINF:-1, Nick Jr
-http://177.234.230.206:8011/play/a0rd
-
 #EXTINF:-1, Paramount
 http://177.234.230.206:8011/play/a0j0
-
-#EXTINF:-1, Telemundo
-http://177.234.230.206:8011/play/a0et
 
 #EXTINF:-1, Warner Channel
 http://177.234.230.206:8011/play/a0og
@@ -432,17 +410,8 @@ http://177.234.230.206:8011/play/a0pu/index.m3u8
 #EXTINF:-1, Baby TV
 http://177.234.230.206:8011/play/a07x/index.m3u8
 
-#EXTINF:-1, Cine Mexicano
-http://177.234.230.206:8011/play/a0a6/index.m3u8
-
-#EXTINF:-1, Cartoon Network
-http://177.234.230.206:8011/play/a0gv/index.m3u8
-
 #EXTINF:-1 group-title="TV PREMIUM",Cinemax
 http://177.234.230.206:8011/play/a0n3/index.m3u8
-
-#EXTINF:-1 group-title="TV PREMIUM",Comedy Central
-http://177.234.230.206:8011/play/a0hd/index.m3u8
 
 #EXTINF:-1, Discovery Channel
 http://177.234.230.206:8011/play/a0px/index.m3u8
@@ -453,32 +422,11 @@ http://177.234.230.206:8011/play/a0mm/index.m3u8
 #EXTINF:-1, Discovery Science
 http://177.234.230.206:8011/play/a0qy/index.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM",Discovery Theater HD
-http://177.234.230.206:8011/play/a0kb/index.m3u8
 
-#EXTINF:-1 group-title="TV PREMIUM",Discovery Turbo
-http://177.234.230.206:8011/play/a0nb/index.m3u8
-
-#EXTINF:-1 group-title="TV PREMIUM",Discovery World HD
-http://177.234.230.206:8011/play/a0p0/index.m3u8
-
-#EXTINF:-1 group-title="TV PREMIUM",Disney Channel
-http://177.234.230.206:8011/play/a0py/index.m3u8
-
-#EXTINF:-1 group-title="TV PREMIUM",Disney HD
-http://177.234.230.206:8011/play/a0ok/index.m3u8
 
 #EXTINF:-1 group-title="TV PREMIUM",Distrito Comedia
 http://177.234.230.206:8011/play/a0it/index.m3u8
 
-
-
-
-EXTINF:-1, ZTV
-https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
-
-#EXTINF:-1, ZTV Anime
-https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
 
 
 
@@ -489,12 +437,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
 #EXTINF:-1, BBC Drama HD
 https://daiconnect.com/live/hls/tvup/tvfy-bbcdrama/.m3u8
 
-#EXTINF:-1, Mundo Series HD
-https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
 
-
-#EXTINF:-1, Cartoon Clasico LAT
-https://live20.bozztv.com/giatv/giatv-CartoonClasico/CartoonClasico/playlist.m3u8
 
 #EXTINF:-1, Big TV
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
@@ -505,75 +448,21 @@ https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
 #EXTINF:-1 , Ani Retro
 https://tv.arkeo.cl:19360/8000/8000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sFwwMyt/logo-Zaz-TV.png" group-title="Familiares",Zaz TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=13012
-
-
-#EXTINF:-1, Gogoplay TV HD
-https://live20.bozztv.com/akamaissh101/ssh101/gogoplayhd/playlist.m3u8
-
 #EXTINF:-1, Gogoplay TV
 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
 
-#EXTINF:-1, Retro TV HD
-https://live20.bozztv.com/akamaissh101/ssh101/chocobeats/playlist.m3u8
-
-#EXTINF:-1, Moni TV HD
-https://tv.arkeo.cl:19360/8134/8134.m3u8
-
 #EXTINF:-1, Chinola TV HD
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
-
-#EXTINF:-1, ,Cartoon Network HD
-http://200.229.147.210:8085/play/a051
-
-#EXTINF:-1 , Tooncast HD
-http://38.45.44.34:8000/play/a03l
-
-#EXTINF:-1, Nickelodeon Spain HD
-http://185.189.225.150:85/nickelodeon/playlist.m3u8
-
-#EXTINF:-1, Nickelodeon Latinoamerica HD
-http://190.60.48.85:9080/play/a1bi
-
-#EXTINF:-1, Bitme HD
-http://190.60.33.245:4002/play/a0kd
-
-#EXTINF:-1, Disney Channel HD
-http://181.78.4.186:8000/play/a0eq
-
-#EXTINF:-1, Canal Juegos Retros
-https://live20.bozztv.com/giatvplayout7/giatv-209604/playlist.m3u8
 
 
 #EXTINF:-1 ,Alegre TV
 https://streamunoapp.com:3149/live/alegretvlive.m3u8
 
-#EXTINF:-1, Costa Rica Channel
-https://video0.rogohosting.com:19360/8006/8006.m3u8
-
 #EXTINF:-1, Canal 5 Mexico
 http://38.49.128.38:8000/play/a0n6
-
-
-#EXTINF:-1, TVTica
-https://video.misistemareseller.com:1936/tvtica/tvtica/playlist.m3u8
-
-
-#EXTINF:-1, TV del Este HD
-https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8
-
-#EXTINF:-1, Ideal TV HD
-https://cloud5.idealtv.net/hls/live.m3u8
 
 #EXTINF:-1, Sony One Cinema
 https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
 
 #EXTINF:-1,Imagen  Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-
-#EXTINF:-1, GenTV HD
-https://live20.bozztv.com/akamaissh101/ssh101/gentv/playlist.m3u8
-
-#EXTINF:-1, Aurora Media Films
-https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
