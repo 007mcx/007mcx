@@ -198,11 +198,7 @@ https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3
 #EXTINF:-1, Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-
-#EXTINF:-1, Adult Swim
-http://177.234.230.206:8011/play/a0ev
-
-#EXTINF:-1 group-title="TV PREMIUM",Cinemax
+#EXTINF:-1, Cinemax
 http://177.234.230.206:8011/play/a0n3
 
 
@@ -240,8 +236,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
 
 #EXTINF:-1, Big TV
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
-
-
 
 
 #EXTINF:-1 , Ani Retro
