@@ -31,10 +31,7 @@ https://s.emisoras.tv:8081/dtv/index.m3u8
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 
 #EXTINF:-1, Mega Cine TV
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, ExtremaTv 
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
 #EXTINF:-1, Teleselva
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
@@ -68,9 +65,6 @@ https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
 
 #EXTINF:-1 ,Etc TV
 http://45.181.122.46:8090/play/a00t
-
-#EXTINF:-1 ,Senpai TV 
-http://45.184.87.142:8000/play/a021
 
 #EXTINF:-1, EnerGeek Retro
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025
@@ -239,14 +233,6 @@ http://177.234.230.206:8011/play/a0px/index.m3u8
 
 #EXTINF:-1, Discovery Science
 http://177.234.230.206:8011/play/a0qy/index.m3u8
-
-
-
-#EXTINF:-1 group-title="TV PREMIUM",Distrito Comedia
-http://177.234.230.206:8011/play/a0it/index.m3u8
-
-
-
 
 
 #EXTINF:-1, Digimon Latino
