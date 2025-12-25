@@ -87,9 +87,6 @@ http://181.78.105.146:6060/play/a01n
 #EXTINF:-1 ,Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
-#EXTINF:-1 ,Cartoon Network
-http://181.119.86.1:8000/play/a01q
-
 #EXTINF:-1 ,Nickelodeon
 http://190.60.48.85:9080/play/a1bi
 
@@ -207,24 +204,12 @@ https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3
 #EXTINF:-1, Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-#EXTINF:-1, Azteca Internacional
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-
 
 #EXTINF:-1, Adult Swim
 http://177.234.230.206:8011/play/a0ev
 
 #EXTINF:-1 group-title="TV PREMIUM",Cinemax
 http://177.234.230.206:8011/play/a0n3
-
-#EXTINF:-1 group-title="TV PREMIUM",Discovery Channel
-http://177.234.230.206:8011/play/a0px
-
-#EXTINF:-1 group-title="TV PREMIUM",Discovery Kids
-http://177.234.230.206:8011/play/a0mm
-
-#EXTINF:-1 group-title="TV PREMIUM",Discovery Science
-http://177.234.230.206:8011/play/a0qy
 
 
 #EXTINF:-1, HBO
