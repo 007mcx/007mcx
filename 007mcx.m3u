@@ -10,15 +10,6 @@ https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
 #EXTVLCOPT:http-referrer=https://teleredtelevision.com/
 https://k20.usastreams.com:8081/telered/index.m3u8
 
-#EXTINF:-1, Atacama TV
-https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Boing
-http://185.189.225.150:85/boing/index.m3u8
-
-#EXTINF:-1, Vepaco TV
-https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
-
 #EXTINF:-1, DTV
 https://s.emisoras.tv:8081/dtv/index.m3u8
 
@@ -30,9 +21,6 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, ExtremaTv 
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1,Canal Sol
-https://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8
 
 #EXTINF:-1, Teleselva
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
@@ -90,9 +78,6 @@ http://181.119.86.1:8000/play/a01q
 
 #EXTINF:-1 ,Nickelodeon
 http://190.60.48.85:9080/play/a1bi
-
-#EXTINF:-1, GenTV
-https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
 #EXTINF:-1 ,Imagen  Universal
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
@@ -176,8 +161,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 #EXTINF:-1, Ani Retro
 https://tv.arkeo.cl:19360/8000/8000.m3u8
 
-#EXTINF:-1, Anime Onegai
-https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8
 
 #EXTINF:-1, Anime Onegai 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
@@ -207,8 +190,6 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1, Gogoplay TV
 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
 
-#EXTINF:-1, Kanade
-https://streams.kanade.cl/webtv/kanadeweb/index.m3u8?token=deM0kanADeweB
 
 #EXTINF:-1, Los Pitufos
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
@@ -327,9 +308,6 @@ https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
 
 #EXTINF:-1 , Ani Retro
 https://tv.arkeo.cl:19360/8000/8000.m3u8
-
-#EXTINF:-1, Gogoplay TV
-https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
 
 #EXTINF:-1, Chinola TV HD
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
