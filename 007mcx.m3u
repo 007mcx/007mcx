@@ -135,10 +135,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/63dd5d7a4e83e700088fbca8/master.m3u
 #EXTINF:-1, Canal LMS
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 
-#EXTINF:-1, Ani Retro
-https://tv.arkeo.cl:19360/8000/8000.m3u8
-
-
 #EXTINF:-1, Anime Onegai 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
 
