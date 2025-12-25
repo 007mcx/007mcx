@@ -6,15 +6,15 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
 #EXTINF:-1 , Babyfirst
 https://stitcher.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
-#EXTINF:-1, Discovery Kids
-http://177.234.230.206:8011/play/a0mm/index.m3u8
-
 
 #EXTINF:-1 , PAW Patrol Patrulla de Cachorros
 https://stitcher.pluto.tv/stitch/hls/channel/6495c6ad115d060008bf6b52/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
 #EXTINF:-1 , Nick Jr. Club
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
+
+#EXTINF:-1, Discovery Kids
+http://177.234.230.206:8011/play/a0mm/index.m3u8
 
 
 #EXTINF:-1, TeleMas
@@ -74,9 +74,6 @@ https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=dEmoweBeneRGEek202
 
 #EXTINF:-1,Fanpop TV
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=dEmoweBeneRGEek2025
-
-#EXTINF:-1 ,Adult Swim LA
-http://181.78.105.146:6060/play/a01n
 
 #EXTINF:-1 ,Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
