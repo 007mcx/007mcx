@@ -255,14 +255,6 @@ https://bst.buin.cl/0.m3u8
 #EXTINF:-1, Caracola TV | Chile
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
-
-
-#EXTINF:-1, Dreiko TV
-https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
-
-#EXTINF:-1, GenTV HD
-https://live20.bozztv.com/akamaissh101/ssh101/gentv/playlist.m3u8
-
 #EXTINF:-1, Gogoplay TV
 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
 
@@ -271,9 +263,6 @@ https://streams.kanade.cl/webtv/kanadeweb/index.m3u8?token=deM0kanADeweB
 
 #EXTINF:-1, Los Pitufos
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
-
-#EXTINF:-1, Moni TV
-https://tv.arkeo.cl:19360/8134/8134.m3u8
 
 #EXTINF:-1, Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -289,45 +278,17 @@ https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1, Retro Tv Online
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 
-#EXTINF:-1, Sicardi TV
-https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
-
-#EXTINF:-1, Taltal Tv Clasica
-https://live20.bozztv.com/akamaissh101/ssh101/animacion/chunks.m3u8
-
-
-
-#EXTINF:-1, Teleclasica
-https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
-
 
 #EXTINF:-1, Toonami
 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
 
 
-#EXTINF:-1, Toonizaki HD | Chile
-https://mitv.zplay.cl/ZRetro/index.m3u8
-
 #EXTINF:-1, TV Retro Palmares
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/playlist.m3u8
-
-#EXTINF:-1,TVS Retro
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 
 #EXTINF:-1, Xtrema Retro | ND
 https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
-
-#EXTINF:-1, ZTV 2
-https://mitv.zplay.cl/Ztv/video.m3u8
-
-
-#EXTINF:-1, 24/7 Los Simpson
-https://live20.bozztv.com/giatvplayout7/giatv-209650/playlist.m3u8
-
-
-#EXTINF:-1, Números
-https://stitcher.pluto.tv/stitch/hls/channel/67f960680072d6b187a0682e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ba9d799d-4ca4-11f0-948e-26db16762a47
 
 
 
@@ -351,8 +312,6 @@ http://45.181.122.46:8090/play/a00t
 #EXTINF:-1, Televisa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1, DISCOVERY WORLD
-http://190.60.38.45:8000/play/a0dr/index.m3u8
 
 #EXTINF:-1, Adult Swim
 http://177.234.230.206:8011/play/a0ev
@@ -364,17 +323,8 @@ http://177.234.230.206:8011/play/a0pu
 #EXTINF:-1 group-title="TV PREMIUM",Baby TV
 http://177.234.230.206:8011/play/a07x
 
-#EXTINF:-1 group-title="TV PREMIUM",CINE MEXICANO
-http://177.234.230.206:8011/play/a0a6
-
-#EXTINF:-1 group-title="TV PREMIUM",Cartoon Network
-http://177.234.230.206:8011/play/a0gv
-
 #EXTINF:-1 group-title="TV PREMIUM",Cinemax
 http://177.234.230.206:8011/play/a0n3
-
-#EXTINF:-1 group-title="TV PREMIUM",Comedy Central
-http://177.234.230.206:8011/play/a0hd
 
 #EXTINF:-1 group-title="TV PREMIUM",Discovery Channel
 http://177.234.230.206:8011/play/a0px
@@ -433,11 +383,6 @@ http://177.234.230.206:8011/play/a0it/index.m3u8
 
 #EXTINF:-1, Digimon Latino
 https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
-
-#EXTINF:-1, BBC Drama HD
-https://daiconnect.com/live/hls/tvup/tvfy-bbcdrama/.m3u8
-
-
 
 #EXTINF:-1, Big TV
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
