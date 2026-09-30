@@ -6,53 +6,20 @@ https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 #EXTINF:-1, DTV
 https://s.emisoras.tv:8081/dtv/index.m3u8
 
-#EXTINF:-1, Cinecanal
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
-
 #EXTINF:-1, Mega Cine TV
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-
-#EXTINF:-1, Teleselva
-https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
-
-#EXTINF:-1, Dreiko TV
-https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
-
-#EXTINF:-1, Retro Magico
-https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/playlist.m3u8
 
 #EXTINF:-1 ,Vision Tv
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
-#EXTINF:-1, Mi TV Televisión Clásica
-https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
-
 #EXTINF:-1 ,Anime Vision Classics
 https://daiconnect.com/live/hls/tvup/tvfy-animevisionclassics/.m3u8
-
-#EXTINF:-1, Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8
-
-#EXTINF:-1 ,Ani Retro
-https://tv.arkeo.cl:19360/8000/8000.m3u8
 
 #EXTINF:-1 ,Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8
 
-#EXTINF:-1 ,Kanade Tv
-https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
-
 #EXTINF:-1 ,Etc TV
 http://45.181.122.46:8090/play/a00t
-
-#EXTINF:-1, EnerGeek Retro
-https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025
-
-#EXTINF:-1, Energeek Radio
-https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=dEmoweBeneRGEek2025
-
-#EXTINF:-1,Fanpop TV
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=dEmoweBeneRGEek2025
 
 #EXTINF:-1 ,Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
@@ -60,23 +27,8 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1 ,Imagen  Universal
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
-#EXTINF:-1, MyTime movie network Mexico
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:-1, Rakuten TV Familia
-http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1, Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-
-#EXTINF:-1, Wow Tv
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-
-#EXTINF:-1, Top FM TV (Atalaya)
-https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
-
-#EXTINF:-1 , EGM Channel
-https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
