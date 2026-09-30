@@ -1,28 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, Pequeradio TV
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 , Babyfirst
-https://stitcher.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
-
-
-#EXTINF:-1 , PAW Patrol Patrulla de Cachorros
-https://stitcher.pluto.tv/stitch/hls/channel/6495c6ad115d060008bf6b52/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
-
-#EXTINF:-1 , Nick Jr. Club
-https://stitcher.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
-
-#EXTINF:-1, Discovery Kids
-http://177.234.230.206:8011/play/a0mm/index.m3u8
-
-
-#EXTINF:-1, TeleMas
-https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
-
-#EXTINF:-1, Telered Television
-#EXTVLCOPT:http-referrer=https://teleredtelevision.com/
-https://k20.usastreams.com:8081/telered/index.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx@SD" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="General",Imagen TV (1080p)
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 
 #EXTINF:-1, DTV
 https://s.emisoras.tv:8081/dtv/index.m3u8
@@ -78,17 +57,11 @@ https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=dEmoweBeneRGEek2025
 #EXTINF:-1 ,Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
-#EXTINF:-1 ,Nickelodeon
-http://190.60.48.85:9080/play/a1bi
-
 #EXTINF:-1 ,Imagen  Universal
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
 #EXTINF:-1, MyTime movie network Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:-1, MyTime movie network Spain
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, Rakuten TV Familia
 http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
@@ -126,9 +99,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/61099f2b40d0640007fc5aa2/master.m3u
 #EXTINF:-1 , Las Tortugas Ninja
 https://stitcher.pluto.tv/stitch/hls/channel/63dd5d7a4e83e700088fbca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=33e9bfda-a722-11ef-8715-86ec62bff4e3
 
-
-
-
 #EXTINF:-1, Canal LMS
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 
@@ -147,7 +117,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
 #EXTINF:-1, Anime Onegai 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
 
-
 #EXTINF:-1, Big TV
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
 
@@ -157,13 +126,11 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1, Gogoplay TV
 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
 
-
 #EXTINF:-1, Los Pitufos
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
 #EXTINF:-1, Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
 
 #EXTINF:-1,Retro Play TV
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
@@ -171,55 +138,22 @@ https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1, Retro Tv Online
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 
-
 #EXTINF:-1, Toonami
 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
 
-
 #EXTINF:-1, TV Retro Palmares
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/playlist.m3u8
-
 
 #EXTINF:-1, Xtrema Retro | ND
 https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
 
 
-
-#EXTINF:-1, Azteca 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-
-#EXTINF:-1, Cinemax
-http://177.234.230.206:8011/play/a0n3
-
-
-#EXTINF:-1, HBO
-http://177.234.230.206:8011/play/a0c5/index.m3u8
-
-#EXTINF:-1, History Channel
-http://177.234.230.206:8011/play/a0gy
-
-#EXTINF:-1, Paramount
-http://177.234.230.206:8011/play/a0j0
-
 #EXTINF:-1, Warner Channel
 http://177.234.230.206:8011/play/a0og
 
-#EXTINF:-1,AMC
-http://177.234.230.206:8011/play/a0ix/index.m3u8
 
 #EXTINF:-1, Adult Swim
 http://177.234.230.206:8011/play/a0ev/index.m3u8
-
-#EXTINF:-1, Animal Planet
-http://177.234.230.206:8011/play/a0pu/index.m3u8
-
-#EXTINF:-1, Discovery Channel
-http://177.234.230.206:8011/play/a0px/index.m3u8
-
-
-#EXTINF:-1, Discovery Science
-http://177.234.230.206:8011/play/a0qy/index.m3u8
-
 
 #EXTINF:-1, Digimon Latino
 https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
@@ -227,19 +161,26 @@ https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
 #EXTINF:-1, Big TV
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
 
-
 #EXTINF:-1 , Ani Retro
 https://tv.arkeo.cl:19360/8000/8000.m3u8
 
 #EXTINF:-1, Chinola TV HD
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
-#EXTINF:-1, Canal 5 Mexico
-http://38.49.128.38:8000/play/a0n6
-
 #EXTINF:-1, Sony One Cinema
 https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
 
-
 #EXTINF:-1, Milenio TV
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF:-1 tvg-id="TeleplaySureste.mx@SD" tvg-logo="https://i.imgur.com/MeV5N08.png" group-title="Entertainment",Teleplay Sureste (720p)
+https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MVSTV.mx@SD" tvg-logo="https://i.imgur.com/TcB37yV.png" group-title="General",MVS TV [Geo-blocked]
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+
+#EXTINF:-1 tvg-id="Canal13Campeche.mx@SD" tvg-logo="https://i.imgur.com/SlycKgZ.png" group-title="General",Canal 13 Campeche (720p) [Not 24/7]
+https://stream-207963.castr.net/65313d270e749722b6474684/live_38c14fb0dfbd11ee8847c303f3096501/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",ADN 40 (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
