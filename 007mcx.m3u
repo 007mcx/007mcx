@@ -1,49 +1,49 @@
 #EXTM3U
 
-#EXTINF:-1, Ciudad Magica TV
+#EXTINF:-1 tvg-id="canal_01" tvg-name="Nombre del Canal" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ying_yang_sign.jpg/250px-Ying_yang_sign.jpg?="Entretenimiento",Ciudad Magica TV
 https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
 
-#EXTINF:-1, Imagen TV (1080p)
+#EXTINF:-1 tvg-id="canal_02" tvg-name="Nombre del Canal" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ying_yang_sign.jpg/250px-Ying_yang_sign.jpg?="Entretenimiento",Imagen TV
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 
-#EXTINF:-1, DTV
+#EXTINF:-1 tvg-id="canal_03" tvg-name="Nombre del Canal" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ying_yang_sign.jpg/250px-Ying_yang_sign.jpg?="Entretenimiento",DTV
 https://s.emisoras.tv:8081/dtv/index.m3u8
 
-#EXTINF:-1 ,Vision Tv
+#EXTINF:-1 tvg-id="canal_04" tvg-name="Nombre del Canal" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ying_yang_sign.jpg/250px-Ying_yang_sign.jpg?="Entretenimiento",Vision Tv
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
-#EXTINF:-1 ,Imagen  Universal
+#EXTINF:-1 tvg-id="canal_05" tvg-name="Nombre del Canal" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ying_yang_sign.jpg/250px-Ying_yang_sign.jpg?="Entretenimiento",Imagen  Universal
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
-#EXTINF:-1, Cosmos TV
+#EXTINF:-1 tvg-id="canal_06" tvg-name="Nombre del Canal" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ying_yang_sign.jpg/250px-Ying_yang_sign.jpg?="Entretenimiento",Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1, The Pet Collective
+#EXTINF:-1 tvg-id="canal_07" tvg-name="Nombre del Canal" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ying_yang_sign.jpg/250px-Ying_yang_sign.jpg?="Entretenimiento",The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1, Canal LMS
+#EXTINF:-1 tvg-id="canal_08" tvg-name="Nombre del Canal" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ying_yang_sign.jpg/250px-Ying_yang_sign.jpg?="Entretenimiento",LMS
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 
-#EXTINF:-1, Los Pitufos
+#EXTINF:-1 tvg-id="canal_09" tvg-name="Nombre del Canal" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ying_yang_sign.jpg/250px-Ying_yang_sign.jpg?="Entretenimiento",Los Pitufos
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
-#EXTINF:-1, Retro Tv Online
+#EXTINF:-1 tvg-id="canal_10" tvg-name="Nombre del Canal" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ying_yang_sign.jpg/250px-Ying_yang_sign.jpg?="Entretenimiento",Retro Tv Online
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 
-#EXTINF:-1, TV Retro Palmares
+#EXTINF:-1 tvg-id="canal_11" tvg-name="Nombre del Canal" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ying_yang_sign.jpg/250px-Ying_yang_sign.jpg?="Entretenimiento",TV Retro Palmares
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/playlist.m3u8
 
-#EXTINF:-1, Xtrema Retro | ND
+#EXTINF:-1 tvg-id="canal_12" tvg-name="Nombre del Canal" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ying_yang_sign.jpg/250px-Ying_yang_sign.jpg?="Entretenimiento",Xtrema Retro | ND
 https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
 
-#EXTINF:-1, Chinola TV HD
+#EXTINF:-1 tvg-id="canal_13" tvg-name="Nombre del Canal" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ying_yang_sign.jpg/250px-Ying_yang_sign.jpg?="Entretenimiento",Chinola TV HD
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
-#EXTINF:-1, Sony One Cinema
+#EXTINF:-1 tvg-id="canal_14" tvg-name="Nombre del Canal" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ying_yang_sign.jpg/250px-Ying_yang_sign.jpg?="Entretenimiento",Sony One Cinema
 https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
 
-#EXTINF:-1, Milenio TV
+#EXTINF:-1 tvg-id="canal_15" tvg-name="Nombre del Canal" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ying_yang_sign.jpg/250px-Ying_yang_sign.jpg?="Entretenimiento",Milenio TV
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1, ADN 40 (720p)
+#EXTINF:-1 tvg-id="canal_16" tvg-name="Nombre del Canal" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ying_yang_sign.jpg/250px-Ying_yang_sign.jpg?="Entretenimiento",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
