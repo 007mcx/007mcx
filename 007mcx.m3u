@@ -39,32 +39,14 @@ https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF:-1, Sony One Cinema
 https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
 
-#EXTINF:-1, FUNTV HD
-https://lbgo.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8
-
-#EXTINF:-1, Jetix HD
+#EXTINF:-1, Jetix
 https://app.viloud.tv/hls/channel/14f9517f36166600c79487cef1ab4d0b.m3u8
-
-#EXTINF:-1, AnimeStation HD
-https://lbgo.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 
 #EXTINF:-1, Janimotion HD
 https://janimotion.com/hls/janimotion/index.m3u8
 
 #EXTINF:-1, Locomotion
 https://live20.bozztv.com/giatvplayout7/giatv-210075/playlist.m3u8
-
-#EXTINF:-1, Toonami TV HD
-https://lbgo.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
-
-#EXTINF:-1, Etc TV HD
-http://45.181.122.46:8090/play/a00t
-
-#EXTINF:-1, Anime Vision HD
-https://daiconnect.com/live/hls/tvup/tvfy-animevision/.m3u8
-
-#EXTINF:-1, Anime Vision Classics HD
-https://daiconnect.com/live/hls/tvup/tvfy-animevisionclassics/.m3u8
 
 #EXTINF:-1, Canal Buzz HD
 https://lbgo.bozztv.com/ssh101/ssh101/canalbuzz2026/playlist.m3u8
@@ -78,9 +60,6 @@ http://animezonetv.net:81/live_hls/animetest/index.m3u8
 #EXTINF:-1, Max Anime
 https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 
-#EXTINF:-1, AniFun
-https://lbgo.bozztv.com/giatv/giatv-FunTVEste/FunTVEste/playlist.m3u8
-
 #EXTINF:-1, Detective Conan
 https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
 
@@ -90,59 +69,26 @@ https://jmp2.uk/plu-680ba8c3a48b3ead0db701cc.m3u8
 #EXTINF:-1, Yu-Gi-Oh!
 https://jmp2.uk/plu-63eb96754e83e70008ab8941.m3u8
 
-#EXTINF:-1, Japanmotion HD
-https://tv.japanmotion.com/iptv/session/1/hls.m3u8
-
-#EXTINF:-1, CN City HD
+#EXTINF:-1, CN City
 https://envivo.cncity.live/hls/envivo.m3u8
 
-#EXTINF:-1, Dreiko TV HD
+#EXTINF:-1, Dreiko TV
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
 
-#EXTINF:-1, Magic Kids OK
+#EXTINF:-1, Magic Kids
 https://proyectomagic.b-cdn.net/live/stream_480p.m3u8
 
 #EXTINF:-1, Retro Magico
 https://lbgo.bozztv.com/ssh101/ssh101/retromagicocnl/playlist.m3u8
 
-#EXTINF:-1, Retro Magico (Opcion 2)
-https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/playlist.m3u8
-
-#EXTINF:-1, El Magic HD
-https://kali.vdopanel.com:3909/stream/play.m3u8
-
-#EXTINF:-1, Foox Kids HD
-https://lbgo.bozztv.com/giatv/giatv-fooxkids/fooxkids/playlist.m3u8
-
-#EXTINF:-1, Foox Kids HD (Opcion 2)
-https://live20.bozztv.com/giatv/giatv-fooxkids/fooxkids/playlist.m3u8
-
-#EXTINF:-1, Cartoon Clasico
-https://lbgo.bozztv.com/ssh101/ssh101/cartoonclasico/playlist.m3u8
-
-#EXTINF:-1,Canal Familia
-https://lbgo.bozztv.com/ssh101/ssh101/canalfamiliahdv/playlist.m3u8
-
 #EXTINF:-1, Retrotoons HD
 https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/playlist.m3u8
-
-#EXTINF:-1, DFTV Animacion HD (Opcion 2)
-https://live20.bozztv.com/giatv/giatv-desiertofloridoatacamachile/desiertofloridoatacamachile/playlist.m3u8
-
-#EXTINF:-1, Nostalgia TV HD
-https://lbgo.bozztv.com/ssh101/ssh101/testvideo50/playlist.m3u8
-
-#EXTINF:-1, Gogoplay Max
-https://lbgo.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
 
 #EXTINF:-1, Gogoplay TV
 https://lbgo.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 
 #EXTINF:-1, Mi TV Television Clasica
 https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
-
-#EXTINF:-1, Teleclasica
-https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
 
 #EXTINF:-1, Telecosta
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
@@ -156,14 +102,8 @@ https://micanal.ovh/livestreams/631.D04GIWSNAZKB.m3u8
 #EXTINF:-1, Retrox Plus HD
 https://lbgo.bozztv.com/ssh101/ssh101/erinaca/playlist.m3u8
 
-#EXTINF:-1, Latino Classic TV HD
-https://streams2.sofast.tv/ptnr-whaletv/title-LATINO-CLASSIC-CHANNEL-SPA_WHALETV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5e69093d-f79b-4c2f-a291-b052cd4b2885/manifest.m3u8
-
 #EXTINF:-1, TVS Retro HD
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-
-#EXTINF:-1, Classic Channel HD
-https://paneltv.online:1936/classicchannel/classicchannel/playlist.m3u8
 
 #EXTINF:-1, Best Clásicos TV HD
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
@@ -173,9 +113,6 @@ https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 
 #EXTINF:-1, Moni TV HD
 https://lbgo.bozztv.com/ssh101/ssh101/monitvhd/playlist.m3u8
-
-#EXTINF:-1, Águila Roja
-https://jmp2.uk/plu-6812206e1b3e3be031a5c363.m3u8
 
 #EXTINF:-1, Imagen TV
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
