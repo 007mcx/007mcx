@@ -47,3 +47,6 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
 #EXTINF:-1 tvg-id="canal_16" tvg-name="Nombre del Canal" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ying_yang_sign.jpg/250px-Ying_yang_sign.jpg?="Entretenimiento",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-id="canal_17" tvg-name="Red Vision Television" ,Red Vision Television
+https://cdnz.cl/livertv/live/chunklist_w1639925801.m3u8
