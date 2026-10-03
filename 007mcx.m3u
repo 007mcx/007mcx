@@ -3,42 +3,6 @@
 #EXTINF:-1, LMS
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 
-#EXTINF:-1, Ciudad Magica TV
-https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
-
-#EXTINF:-1, DTV
-https://s.emisoras.tv:8081/dtv/index.m3u8
-
-#EXTINF:-1, Vision Tv
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-
-#EXTINF:-1, Imagen  Universal
-https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-
-#EXTINF:-1, Cosmos TV
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-
-#EXTINF:-1, The Pet Collective
-https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1, Los Pitufos
-https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
-
-#EXTINF:-1, Retro Tv Online
-https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
-
-#EXTINF:-1, TV Retro Palmares
-https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/playlist.m3u8
-
-#EXTINF:-1, Xtrema Retro | ND
-https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
-
-#EXTINF:-1, Chinola TV HD
-https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
-
-#EXTINF:-1, Sony One Cinema
-https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
-
 #EXTINF:-1, Jetix
 https://app.viloud.tv/hls/channel/14f9517f36166600c79487cef1ab4d0b.m3u8
 
@@ -113,6 +77,42 @@ https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 
 #EXTINF:-1, Moni TV HD
 https://lbgo.bozztv.com/ssh101/ssh101/monitvhd/playlist.m3u8
+
+#EXTINF:-1, Ciudad Magica TV
+https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
+
+#EXTINF:-1, DTV
+https://s.emisoras.tv:8081/dtv/index.m3u8
+
+#EXTINF:-1, Vision Tv
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1, Imagen  Universal
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+
+#EXTINF:-1, Cosmos TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+#EXTINF:-1, The Pet Collective
+https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1, Los Pitufos
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+
+#EXTINF:-1, Retro Tv Online
+https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
+
+#EXTINF:-1, TV Retro Palmares
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/playlist.m3u8
+
+#EXTINF:-1, Xtrema Retro | ND
+https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
+
+#EXTINF:-1, Chinola TV HD
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+
+#EXTINF:-1, Sony One Cinema
+https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
 
 #EXTINF:-1, Imagen TV
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
